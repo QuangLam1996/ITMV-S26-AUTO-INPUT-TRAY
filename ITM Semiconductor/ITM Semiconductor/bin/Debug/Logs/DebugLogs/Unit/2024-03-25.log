@@ -1,0 +1,252 @@
+
+08:49:08.77-[Information]-UiManager: Startup:
+08:49:09.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+08:49:15.91-[Information]-UserManager: LogOn: AutoTeams/itm
+08:58:00.12-[Information]-UiManager: Startup:
+08:58:01.85-[Information]-Dba:  ->  Database File SQLite Already Existed!
+08:58:03.92-[Information]-PgMain: addLog:Already Home !
+08:58:06.06-[Information]-PgMain: addLog:Already Running!
+08:58:06.68-[Information]-PgMain: addLog:Already Pause !
+08:58:16.25-[Information]-PgMain: addLog:Already Stopped !
+08:58:20.64-[Information]-PgMain: addLog:Already Home !
+09:46:24.12-[Information]-UiManager: Startup:
+09:46:25.83-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:46:44.78-[Information]-UiManager: Startup:
+09:46:46.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:47:57.54-[Information]-UiManager: Startup:
+09:47:59.85-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:48:02.69-[Information]-PgMain: addLog:Already Home !
+09:48:05.66-[Information]-PgMain: addLog:Already Stopped !
+09:50:23.46-[Information]-UiManager: Startup:
+09:50:25.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:50:27.74-[Information]-PgMain: addLog:Already Home !
+09:50:28.78-[Information]-PgMain: addLog:Already Stopped !
+09:51:43.81-[Information]-UiManager: Startup:
+09:51:45.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:54:35.81-[Information]-UiManager: Startup:
+09:54:37.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:54:43.79-[Information]-PgMain: addLog:Already Home !
+09:54:45.77-[Information]-PgMain: addLog:Already Stopped !
+09:54:47.38-[Information]-PgMain: addLog:Already Home !
+09:54:50.30-[Information]-PgMain: addLog:Already Pause !
+09:54:52.65-[Information]-PgMain: addLog:Already Running!
+09:54:55.06-[Information]-PgMain: addLog:Already Home !
+09:55:46.23-[Information]-UiManager: Startup:
+09:55:47.86-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:55:51.01-[Information]-PgMain: addLog:Already Home !
+09:55:54.35-[Information]-PgMain: addLog:Already Pause !
+09:58:15.41-[Information]-UiManager: Startup:
+09:58:16.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:58:18.53-[Information]-PgMain: addLog:Already Home !
+09:58:23.42-[Information]-PgMain: addLog:Already Stopped !
+09:58:25.88-[Information]-PgMain: addLog:Already Home !
+09:58:27.56-[Information]-PgMain: addLog:Already Running!
+09:58:28.81-[Information]-PgMain: addLog:Already Pause !
+09:58:32.74-[Information]-PgMain: addLog:Already Home !
+10:05:14.47-[Information]-UiManager: Startup:
+10:05:14.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:05:21.20-[Information]-UiManager: Startup:
+10:05:21.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:05:46.62-[Information]-UiManager: Startup:
+10:05:47.42-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:05:50.17-[Information]-PgMain: addLog:Already Home !
+10:05:51.72-[Information]-PgMain: addLog:Already Stopped !
+10:05:54.61-[Information]-PgMain: addLog:Already Home !
+10:05:57.20-[Information]-PgMain: addLog:Already Pause !
+10:05:59.08-[Information]-PgMain: addLog:Already Running!
+10:06:01.33-[Information]-PgMain: addLog:Already Reset !
+10:06:07.96-[Information]-PgMain: addLog:Already Stopped !
+10:06:09.90-[Information]-PgMain: addLog:Already Home !
+10:06:11.67-[Information]-PgMain: addLog:Already Stopped !
+10:06:13.03-[Information]-PgMain: addLog:Already Home !
+10:06:23.20-[Information]-PgMain: addLog:Already Stopped !
+10:07:00.94-[Information]-UiManager: Startup:
+10:07:01.91-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:07:04.42-[Information]-PgMain: addLog:Already Running!
+10:07:05.34-[Information]-PgMain: addLog:Already Stopped !
+10:07:06.71-[Information]-PgMain: addLog:Already Pause !
+10:07:07.94-[Information]-PgMain: addLog:Already Home !
+10:07:08.92-[Information]-PgMain: addLog:Already Reset !
+10:07:10.03-[Information]-PgMain: addLog:Already Running!
+10:07:11.41-[Information]-PgMain: addLog:Already Stopped !
+10:07:14.13-[Information]-PgMain: addLog:Already Running!
+10:07:15.39-[Information]-PgMain: addLog:Already Home !
+10:07:20.96-[Information]-PgMain: addLog:Already Stopped !
+10:07:22.88-[Information]-PgMain: addLog:Already Pause !
+10:07:24.89-[Information]-PgMain: addLog:Already Running!
+10:07:26.44-[Information]-PgMain: addLog:Already Home !
+10:07:33.23-[Information]-PgMain: addLog:Already Stopped !
+10:07:39.35-[Information]-PgMain: addLog:Already Home !
+10:07:41.03-[Information]-PgMain: addLog:Already Stopped !
+10:07:59.87-[Information]-PgMain: addLog:Already Running!
+10:12:10.72-[Information]-UiManager: Startup:
+10:12:11.65-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:12:16.51-[Information]-PgMain: addLog:Already Running!
+10:12:27.95-[Information]-PgMain: addLog:Already Home !
+10:12:29.35-[Information]-PgMain: addLog:Already Running!
+10:12:32.57-[Information]-PgMain: addLog:Already Pause !
+10:12:44.11-[Information]-PgMain: addLog:Already Stopped !
+10:12:49.38-[Information]-PgMain: addLog:Already Running!
+10:12:50.46-[Information]-PgMain: addLog:Already Pause !
+10:12:53.48-[Information]-PgMain: addLog:Already Home !
+10:13:11.94-[Information]-PgMain: addLog:Already Stopped !
+10:13:14.77-[Information]-PgMain: addLog:Already Home !
+10:13:15.51-[Information]-PgMain: addLog:Already Stopped !
+10:13:16.69-[Information]-PgMain: addLog:Already Home !
+10:13:17.24-[Information]-PgMain: addLog:Already Stopped !
+10:13:18.53-[Information]-PgMain: addLog:Already Home !
+10:13:19.19-[Information]-PgMain: addLog:Already Stopped !
+10:13:20.53-[Information]-PgMain: addLog:Already Home !
+10:13:21.15-[Information]-PgMain: addLog:Already Stopped !
+10:13:22.61-[Information]-PgMain: addLog:Already Pause !
+10:13:23.55-[Information]-PgMain: addLog:Already Reset !
+10:13:24.99-[Information]-PgMain: addLog:Already Home !
+10:13:25.92-[Information]-PgMain: addLog:Already Running!
+10:13:27.19-[Information]-PgMain: addLog:Already Stopped !
+10:13:29.83-[Information]-PgMain: addLog:Already Home !
+10:13:30.41-[Information]-PgMain: addLog:Already Stopped !
+10:13:31.65-[Information]-PgMain: addLog:Already Home !
+10:13:32.26-[Information]-PgMain: addLog:Already Stopped !
+10:13:33.54-[Information]-PgMain: addLog:Already Home !
+10:13:57.94-[Information]-PgMain: addLog:Already Running!
+10:13:59.21-[Information]-PgMain: addLog:Already Pause !
+10:14:01.35-[Information]-PgMain: addLog:Already Stopped !
+10:14:07.81-[Information]-PgMain: addLog:Already Home !
+10:14:49.34-[Information]-UiManager: Startup:
+10:14:50.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:14:53.63-[Information]-PgMain: addLog:Already Home !
+10:15:35.41-[Information]-UserManager: LogOn: AutoTeams/itm
+10:16:32.12-[Information]-PgMain: addLog:Already Running!
+10:16:40.53-[Information]-PgMain: addLog:Already Pause !
+10:17:13.75-[Information]-PgMain: addLog:Already Home !
+10:17:16.52-[Information]-PgMain: addLog:Already Reset !
+10:17:31.27-[Information]-PgMain: addLog:Already Stopped !
+10:17:45.19-[Information]-PgMain: addLog:Already Pause !
+10:19:44.22-[Information]-UiManager: Startup:
+10:19:45.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:19:47.29-[Information]-PgMain: addLog:Already Pause !
+10:19:52.13-[Information]-PgMain: addLog:Already Home !
+10:19:57.89-[Information]-PgMain: addLog:Already Running!
+10:20:20.05-[Information]-PgMain: addLog:Already Home !
+10:20:21.34-[Information]-PgMain: addLog:Already Reset !
+10:23:41.50-[Information]-UiManager: Startup:
+10:23:42.45-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:23:45.40-[Information]-PgMain: addLog:Already Home !
+10:23:46.23-[Information]-PgMain: addLog:Already Pause !
+10:23:48.75-[Information]-PgMain: addLog:Already Reset !
+11:09:33.07-[Information]-UiManager: Startup:
+11:09:33.86-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:09:37.36-[Information]-PgMain: addLog:Already Home !
+11:09:38.80-[Information]-PgMain: addLog:Already Running!
+11:09:39.72-[Information]-PgMain: addLog:Already Pause !
+11:09:40.59-[Information]-PgMain: addLog:Already Reset !
+11:09:41.25-[Information]-PgMain: addLog:Already Stopped !
+11:09:42.75-[Information]-PgMain: addLog:Already Home !
+11:09:43.35-[Information]-PgMain: addLog:Already Stopped !
+11:09:44.25-[Information]-PgMain: addLog:Already Home !
+11:09:45.00-[Information]-PgMain: addLog:Already Pause !
+11:09:46.09-[Information]-PgMain: addLog:Already Reset !
+11:09:47.38-[Information]-PgMain: addLog:Already Running!
+13:00:11.99-[Information]-UiManager: Startup:
+13:00:12.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:00:14.14-[Information]-PgMain: addLog:Already Home !
+13:00:15.40-[Information]-PgMain: addLog:Already Stopped !
+13:00:16.65-[Information]-PgMain: addLog:Already Pause !
+13:00:19.15-[Information]-PgMain: addLog:Already Reset !
+13:00:19.99-[Information]-PgMain: addLog:Already Running!
+13:00:23.38-[Information]-PgMain: addLog:Already Pause !
+13:00:24.53-[Information]-PgMain: addLog:Already Reset !
+13:00:25.26-[Information]-PgMain: addLog:Already Home !
+13:01:41.43-[Information]-PgMain: addLog:Already Stopped !
+13:01:42.14-[Information]-PgMain: addLog:Already Home !
+13:01:43.03-[Information]-PgMain: addLog:Already Pause !
+13:01:43.62-[Information]-PgMain: addLog:Already Stopped !
+13:01:44.52-[Information]-PgMain: addLog:Already Home !
+13:01:45.23-[Information]-PgMain: addLog:Already Stopped !
+13:01:49.66-[Information]-PgMain: addLog:Already Home !
+13:01:50.39-[Information]-PgMain: addLog:Already Stopped !
+13:01:51.54-[Information]-PgMain: addLog:Already Running!
+13:01:52.23-[Information]-PgMain: addLog:Already Stopped !
+13:01:56.35-[Information]-PgMain: addLog:Already Pause !
+13:01:57.14-[Information]-PgMain: addLog:Already Stopped !
+13:02:11.48-[Information]-PgMain: addLog:Already Pause !
+13:02:13.15-[Information]-PgMain: addLog:Already Stopped !
+13:02:14.93-[Information]-PgMain: addLog:Already Home !
+13:02:16.36-[Information]-PgMain: addLog:Already Stopped !
+13:02:17.47-[Information]-PgMain: addLog:Already Pause !
+13:02:17.87-[Information]-PgMain: addLog:Already Reset !
+13:02:18.22-[Information]-PgMain: addLog:Already Home !
+13:02:18.65-[Information]-PgMain: addLog:Already Running!
+13:02:19.26-[Information]-PgMain: addLog:Already Stopped !
+13:02:28.96-[Information]-PgMain: addLog:Already Home !
+13:02:30.18-[Information]-PgMain: addLog:Already Stopped !
+13:02:35.42-[Information]-PgMain: addLog:Already Home !
+13:02:36.19-[Information]-PgMain: addLog:Already Stopped !
+13:02:43.74-[Information]-PgMain: addLog:Already Home !
+13:02:44.56-[Information]-PgMain: addLog:Already Stopped !
+13:06:35.70-[Information]-UiManager: Startup:
+13:06:37.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:06:38.22-[Information]-PgMain: addLog:Already Home !
+13:06:38.76-[Information]-PgMain: addLog:Already Stopped !
+13:07:03.60-[Information]-UiManager: Startup:
+13:07:04.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:07:05.87-[Information]-PgMain: addLog:Already Home !
+13:07:06.45-[Information]-PgMain: addLog:Already Pause !
+13:07:06.86-[Information]-PgMain: addLog:Already Running!
+13:07:51.51-[Information]-UiManager: Startup:
+13:07:52.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:07:53.98-[Information]-PgMain: addLog:Already Stopped !
+13:07:55.20-[Information]-PgMain: addLog:Already Running!
+13:07:55.68-[Information]-PgMain: addLog:Already Pause !
+13:07:56.21-[Information]-PgMain: addLog:Already Reset !
+13:07:56.89-[Information]-PgMain: addLog:Already Stopped !
+13:08:02.92-[Information]-PgMain: addLog:Already Home !
+13:08:03.64-[Information]-PgMain: addLog:Already Reset !
+13:08:04.31-[Information]-PgMain: addLog:Already Stopped !
+13:08:05.53-[Information]-PgMain: addLog:Already Home !
+13:08:05.90-[Information]-PgMain: addLog:Already Reset !
+13:08:06.15-[Information]-PgMain: addLog:Already Pause !
+13:08:06.66-[Information]-PgMain: addLog:Already Running!
+13:08:07.69-[Information]-PgMain: addLog:Already Home !
+13:08:08.53-[Information]-PgMain: addLog:Already Reset !
+13:08:09.05-[Information]-PgMain: addLog:Already Stopped !
+13:09:58.63-[Information]-UiManager: Startup:
+13:09:59.60-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:10:01.52-[Information]-PgMain: addLog:Already Home !
+13:10:01.90-[Information]-PgMain: addLog:Already Stopped !
+13:10:02.84-[Information]-PgMain: addLog:Already Home !
+13:10:03.16-[Information]-PgMain: addLog:Already Pause !
+13:10:03.47-[Information]-PgMain: addLog:Already Reset !
+13:10:04.19-[Information]-PgMain: addLog:Already Running!
+13:10:05.36-[Information]-PgMain: addLog:Already Home !
+13:10:06.24-[Information]-PgMain: addLog:Already Stopped !
+13:10:08.76-[Information]-PgMain: addLog:Already Home !
+13:10:11.28-[Information]-PgMain: addLog:Already Pause !
+13:10:14.05-[Information]-PgMain: addLog:Already Home !
+13:10:16.37-[Information]-PgMain: addLog:Already Stopped !
+13:10:17.13-[Information]-PgMain: addLog:Already Home !
+13:11:21.80-[Information]-UiManager: Startup:
+13:11:22.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:11:24.74-[Information]-PgMain: addLog:Already Pause !
+13:11:25.24-[Information]-PgMain: addLog:Already Stopped !
+13:11:39.69-[Information]-PgMain: addLog:Already Reset !
+13:11:41.08-[Information]-PgMain: addLog:Already Stopped !
+13:16:14.90-[Information]-UiManager: Startup:
+13:16:16.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:16:18.35-[Information]-PgMain: addLog:Already Home !
+13:16:20.07-[Information]-PgMain: addLog:Already Pause !
+13:16:20.56-[Information]-PgMain: addLog:Already Reset !
+13:16:21.45-[Information]-PgMain: addLog:Already Running!
+13:16:22.14-[Information]-PgMain: addLog:Already Stopped !
+13:16:26.78-[Information]-PgMain: addLog:Already Home !
+13:16:27.27-[Information]-PgMain: addLog:Already Reset !
+13:16:28.68-[Information]-PgMain: addLog:Already Running!
+13:16:29.81-[Information]-PgMain: addLog:Already Stopped !
+13:16:58.37-[Information]-UiManager: Startup:
+13:16:59.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:17:00.83-[Information]-PgMain: addLog:Already Home !
+13:17:01.28-[Information]-PgMain: addLog:Already Stopped !
+15:26:01.08-[Information]-UiManager: Startup:
+15:26:01.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:26:04.33-[Information]-PgMain: addLog:Already Home !
+15:26:06.07-[Information]-PgMain: addLog:Already Stopped !

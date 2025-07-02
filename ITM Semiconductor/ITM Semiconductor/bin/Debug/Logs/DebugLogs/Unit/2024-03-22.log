@@ -1,0 +1,70 @@
+
+11:44:01.76-[Information]-UiManager: Startup:
+11:44:02.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:44:04.46-[Information]-PgMain: addLog:Already Home !
+11:44:05.66-[Information]-PgMain: addLog:Already Stopped !
+11:44:08.08-[Information]-PgMain: addLog:Already Pause !
+11:44:08.65-[Information]-PgMain: addLog:Already Running!
+11:44:09.12-[Information]-PgMain: addLog:Already Home !
+11:44:09.68-[Information]-PgMain: addLog:Already Stopped !
+11:44:23.64-[Information]-UiManager: Startup:
+11:44:30.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:44:31.60-[Information]-PgMain: addLog:Already Home !
+11:44:37.50-[Information]-PgMain: addLog:Already Stopped !
+11:44:49.23-[Information]-PgMain: addLog:Already Home !
+11:44:50.41-[Information]-PgMain: addLog:Already Running!
+11:44:50.92-[Information]-PgMain: addLog:Already Stopped !
+11:47:11.23-[Information]-UiManager: Startup:
+11:47:12.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:47:13.15-[Information]-PgMain: addLog:Already Home !
+11:47:13.85-[Information]-PgMain: addLog:Already Stopped !
+11:47:14.86-[Information]-PgMain: addLog:Already Home !
+11:47:15.30-[Information]-PgMain: addLog:Already Stopped !
+11:47:15.95-[Information]-PgMain: addLog:Already Home !
+11:47:16.63-[Information]-PgMain: addLog:Already Running!
+11:47:16.98-[Information]-PgMain: addLog:Already Pause !
+11:47:17.27-[Information]-PgMain: addLog:Already Reset !
+11:47:21.55-[Information]-PgMain: addLog:Already Home !
+11:47:22.95-[Information]-PgMain: addLog:Already Stopped !
+11:49:23.83-[Information]-UiManager: Startup:
+11:49:26.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:49:27.83-[Information]-PgMain: addLog:Already Home !
+11:49:29.39-[Information]-PgMain: addLog:Already Running!
+11:49:29.77-[Information]-PgMain: addLog:Already Pause !
+11:49:30.10-[Information]-PgMain: addLog:Already Reset !
+11:49:30.41-[Information]-PgMain: addLog:Already Home !
+11:52:28.97-[Information]-UiManager: Startup:
+11:52:29.74-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:52:31.02-[Information]-PgMain: addLog:Already Home !
+11:52:31.65-[Information]-PgMain: addLog:Already Stopped !
+11:52:34.60-[Information]-PgMain: addLog:Already Pause !
+11:52:35.17-[Information]-PgMain: addLog:Already Reset !
+11:52:35.92-[Information]-PgMain: addLog:Already Running!
+11:52:36.38-[Information]-PgMain: addLog:Already Stopped !
+13:04:00.19-[Information]-UiManager: Startup:
+13:04:00.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:34:10.92-[Information]-UiManager: Startup:
+13:34:11.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:34:32.57-[Information]-UserManager: LogOn: Operator/
+13:36:34.13-[Information]-UiManager: Startup:
+13:36:34.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:39:48.10-[Information]-UiManager: Startup:
+13:39:48.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:40:01.17-[Information]-UserManager: LogOn: Manager/ITM
+13:40:02.68-[Information]-UserManager: LogOn: Manager/ITM
+13:40:05.47-[Information]-UserManager: LogOn: Manager/itm
+13:40:11.84-[Information]-PgMain: addLog:Already Home !
+13:40:12.39-[Information]-PgMain: addLog:Already Pause !
+13:40:12.83-[Information]-PgMain: addLog:Already Reset !
+13:40:13.31-[Information]-PgMain: addLog:Already Running!
+13:40:16.74-[Information]-PgMain: addLog:Already Home !
+13:40:20.66-[Information]-PgMain: addLog:Already Stopped !
+13:41:10.61-[Information]-UiManager: Startup:
+13:41:11.31-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:41:17.87-[Information]-UserManager: LogOn: Manager/itm
+13:41:21.26-[Information]-PgMain: addLog:Already Home !
+13:41:26.54-[Information]-PgMain: addLog:Already Stopped !
+13:43:33.97-[Information]-UiManager: Startup:
+13:43:34.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:44:23.73-[Information]-UiManager: Startup:
+13:44:24.78-[Information]-Dba:  ->  Database File SQLite Already Existed!

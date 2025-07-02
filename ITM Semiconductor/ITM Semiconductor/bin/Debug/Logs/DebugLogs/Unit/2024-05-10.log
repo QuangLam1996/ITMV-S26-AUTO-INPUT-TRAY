@@ -1,0 +1,244 @@
+
+14:25:10.80-[Information]-UiManager: Startup:
+14:25:13.21-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:25:38.60-[Information]-UiManager: Startup:
+14:25:39.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:26:58.03-[Information]-UiManager: Startup:
+14:26:59.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:28:06.14-[Information]-UiManager: Startup:
+14:28:07.48-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:29:57.86-[Information]-UiManager: Startup:
+14:29:59.07-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:33:04.72-[Information]-UiManager: Startup:
+14:33:06.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:33:18.27-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: An established connection was aborted by the software in your host machine
+14:33:40.64-[Information]-UiManager: Startup:
+14:33:41.79-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:35:06.81-[Information]-UiManager: Startup:
+14:35:07.85-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:35:31.42-[Information]-UiManager: Startup:
+14:35:32.40-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:36:41.12-[Information]-UiManager: Startup:
+14:36:41.75-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:38:02.65-[Information]-UiManager: Startup:
+14:38:03.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:38:53.26-[Information]-UiManager: Startup:
+14:38:54.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:39:48.49-[Information]-UiManager: Startup:
+14:39:49.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:40:16.66-[Information]-UiManager: Startup:
+14:40:17.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:40:39.69-[Information]-UiManager: Startup:
+14:40:40.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:42:50.07-[Information]-UiManager: Startup:
+14:42:51.31-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:43:28.56-[Information]-UiManager: Startup:
+14:43:29.63-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:49:37.68-[Information]-UiManager: Startup:
+14:49:38.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:51:28.15-[Information]-UiManager: Startup:
+15:51:29.21-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:52:02.73-[Information]-UiManager: Startup:
+15:52:03.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:52:51.77-[Information]-UiManager: Startup:
+15:52:52.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:54:08.23-[Information]-UiManager: Startup:
+15:54:09.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:02:38.73-[Information]-UiManager: Startup:
+16:02:39.89-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:03:42.94-[Information]-UiManager: Startup:
+16:03:44.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:04:44.14-[Information]-UiManager: Startup:
+16:04:45.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:06:47.40-[Information]-UiManager: Startup:
+16:06:48.16-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:08:19.86-[Information]-UiManager: Startup:
+16:08:21.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:09:01.22-[Information]-UiManager: Startup:
+16:09:02.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:09:26.83-[Information]-UiManager: Startup:
+16:09:27.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:10:21.50-[Information]-UiManager: Startup:
+16:10:22.43-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:27:48.74-[Information]-UiManager: Startup:
+16:27:49.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:29:42.06-[Information]-UiManager: Startup:
+16:29:42.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:38:47.06-[Information]-UiManager: Startup:
+16:38:47.98-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:39:19.16-[Error]-PLC Q_Enthernet: Q_Enthernet writework Error: An existing connection was forcibly closed by the remote host
+16:40:14.25-[Information]-UiManager: Startup:
+16:40:14.86-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:41:35.72-[Information]-UiManager: Startup:
+16:41:36.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:42:10.78-[Information]-UiManager: Startup:
+16:42:11.48-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:43:17.35-[Information]-UiManager: Startup:
+16:43:18.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:44:11.13-[Information]-UiManager: Startup:
+16:44:11.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:45:39.75-[Information]-UiManager: Startup:
+16:45:40.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:27:50.19-[Information]-UiManager: Startup:
+17:27:50.99-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:29:10.13-[Information]-UiManager: Startup:
+17:29:10.88-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:29:23.90-[Information]-UiManager: Startup:
+17:29:25.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:59:34.04-[Information]-UiManager: Startup:
+17:59:35.27-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:01:41.95-[Information]-UiManager: Startup:
+18:01:42.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:03:04.24-[Information]-UiManager: Startup:
+18:03:05.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:06:28.05-[Information]-UiManager: Startup:
+18:06:29.15-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:07:28.61-[Information]-UiManager: Startup:
+18:07:29.89-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:09:01.97-[Information]-UiManager: Startup:
+18:09:03.04-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:10:50.36-[Information]-UiManager: Startup:
+18:10:51.29-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:12:12.08-[Information]-UiManager: Startup:
+18:12:12.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:14:08.17-[Information]-UiManager: Startup:
+18:14:09.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:15:27.42-[Information]-UiManager: Startup:
+18:15:28.47-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:16:23.39-[Information]-UiManager: Startup:
+18:16:24.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:17:01.61-[Information]-UiManager: Startup:
+18:17:02.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:36:39.91-[Information]-UiManager: Startup:
+18:36:40.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:38:06.68-[Information]-UiManager: Startup:
+18:38:07.53-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:39:20.72-[Information]-UiManager: Startup:
+18:39:21.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:52:48.84-[Information]-UiManager: Startup:
+18:52:49.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:55:10.43-[Information]-UiManager: Startup:
+18:55:11.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:55:44.06-[Information]-UiManager: Startup:
+18:55:44.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:01:04.69-[Information]-UiManager: Startup:
+19:01:05.37-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:08.03-[Information]-UiManager: Startup:
+19:07:08.74-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:11:57.30-[Information]-UiManager: Startup:
+19:11:58.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:25:36.75-[Information]-UiManager: Startup:
+19:25:37.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:25:41.00-[Information]-PgMain: addLog:Already Reset !
+19:25:41.41-[Information]-PgMain: addLog:Already Pause !
+19:25:41.90-[Information]-PgMain: addLog:Already Running!
+19:25:47.61-[Information]-PgMain: addLog:Already Stopped !
+19:25:48.35-[Information]-PgMain: addLog:Already Running!
+19:25:48.77-[Information]-PgMain: addLog:Already Pause !
+19:25:49.12-[Information]-PgMain: addLog:Already Reset !
+19:25:50.19-[Information]-PgMain: addLog:Already Pause !
+19:25:50.36-[Information]-PgMain: addLog:Already Running!
+19:25:50.67-[Information]-PgMain: addLog:Already Stopped !
+19:25:51.71-[Information]-PgMain: addLog:Already Running!
+19:25:51.98-[Information]-PgMain: addLog:Already Pause !
+19:25:52.25-[Information]-PgMain: addLog:Already Reset !
+19:26:04.49-[Information]-PgMain: addLog:Already Stopped !
+19:26:07.01-[Information]-PgMain: addLog:Already Running!
+19:26:07.33-[Information]-PgMain: addLog:Already Pause !
+19:26:14.66-[Information]-PgMain: addLog:Already Stopped !
+19:26:15.35-[Information]-PgMain: addLog:Already Running!
+19:26:15.71-[Information]-PgMain: addLog:Already Pause !
+19:26:16.13-[Information]-PgMain: addLog:Already Reset !
+19:26:20.27-[Information]-PgMain: addLog:Already Pause !
+19:26:20.51-[Information]-PgMain: addLog:Already Running!
+19:26:20.83-[Information]-PgMain: addLog:Already Reset !
+19:26:49.13-[Information]-PgMain: addLog:Already Stopped !
+19:26:50.66-[Information]-PgMain: addLog:Already Running!
+19:26:55.46-[Information]-PgMain: addLog:Already Stopped !
+19:26:56.15-[Information]-PgMain: addLog:Already Running!
+19:27:16.39-[Information]-PgMain: addLog:Already Stopped !
+19:27:16.88-[Information]-PgMain: addLog:Already Running!
+19:27:51.43-[Information]-PgMain: addLog:Already Reset !
+19:27:54.00-[Information]-PgMain: addLog:Already Pause !
+19:27:55.08-[Information]-PgMain: addLog:Already Running!
+19:27:57.33-[Information]-PgMain: addLog:Already Stopped !
+19:28:01.37-[Information]-PgMain: addLog:Already Pause !
+19:28:13.85-[Information]-PgMain: addLog:Already Stopped !
+19:28:14.85-[Information]-PgMain: addLog:Already Pause !
+19:28:20.71-[Information]-PgMain: addLog:Already Stopped !
+19:28:23.28-[Information]-PgMain: addLog:Already Pause !
+19:28:23.76-[Information]-PgMain: addLog:Already Reset !
+19:28:24.17-[Information]-PgMain: addLog:Already Running!
+19:28:24.69-[Information]-PgMain: addLog:Already Pause !
+19:28:24.86-[Information]-PgMain: addLog:Already Reset !
+19:30:00.03-[Information]-PgMain: addLog:Already Pause !
+19:30:00.86-[Information]-PgMain: addLog:Already Running!
+19:30:01.16-[Information]-PgMain: addLog:Already Stopped !
+19:30:01.50-[Information]-PgMain: addLog:Already Pause !
+19:30:03.95-[Information]-PgMain: addLog:Already Running!
+19:30:07.85-[Information]-PgMain: addLog:Already Stopped !
+19:30:08.20-[Information]-PgMain: addLog:Already Running!
+19:30:09.96-[Information]-PgMain: addLog:Already Pause !
+19:30:19.83-[Information]-PgMain: addLog:Already Reset !
+19:30:21.97-[Information]-PgMain: addLog:Already Pause !
+19:30:22.81-[Information]-PgMain: addLog:Already Running!
+19:30:23.72-[Information]-PgMain: addLog:Already Reset !
+19:30:24.06-[Information]-PgMain: addLog:Already Pause !
+19:30:24.36-[Information]-PgMain: addLog:Already Running!
+19:30:24.64-[Information]-PgMain: addLog:Already Pause !
+19:30:24.89-[Information]-PgMain: addLog:Already Reset !
+19:30:25.14-[Information]-PgMain: addLog:Already Running!
+19:30:36.49-[Information]-PgMain: addLog:Already Stopped !
+19:30:38.38-[Information]-PgMain: addLog:Already Running!
+19:30:46.35-[Information]-PgMain: addLog:Already Pause !
+19:30:55.01-[Information]-PgMain: addLog:Already Running!
+19:30:56.44-[Information]-PgMain: addLog:Already Reset !
+19:35:23.06-[Information]-PgMain: addLog:Already Running!
+19:35:23.92-[Information]-PgMain: addLog:Already Pause !
+19:35:24.32-[Information]-PgMain: addLog:Already Reset !
+19:52:20.00-[Information]-UiManager: Startup:
+19:52:21.13-[Error]-UiManager: Startup error:The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\alarmList.csv' because it is being used by another process.
+19:52:23.07-[Information]-PgMain: addLog:Already Running!
+19:52:24.44-[Information]-PgMain: addLog:Already Pause !
+19:52:25.50-[Information]-PgMain: addLog:Already Reset !
+19:55:07.91-[Information]-UiManager: Startup:
+19:55:09.48-[Error]-UiManager: Startup error:The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\alarmList.csv' because it is being used by another process.
+19:55:11.44-[Information]-PgMain: addLog:Already Pause !
+19:55:12.64-[Information]-PgMain: addLog:Already Running!
+19:55:13.51-[Information]-PgMain: addLog:Already Reset !
+19:55:15.39-[Information]-PgMain: addLog:Already Stopped !
+19:55:16.26-[Information]-PgMain: addLog:Already Running!
+19:55:16.89-[Information]-PgMain: addLog:Already Stopped !
+19:55:41.71-[Information]-UiManager: Startup:
+19:55:43.36-[Error]-UiManager: Startup error:The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\alarmList.csv' because it is being used by another process.
+19:55:46.92-[Information]-PgMain: addLog:Already Pause !
+19:55:48.02-[Information]-PgMain: addLog:Already Running!
+19:55:48.69-[Information]-PgMain: addLog:Already Pause !
+19:55:49.06-[Information]-PgMain: addLog:Already Reset !
+19:56:04.26-[Information]-UiManager: Startup:
+19:56:05.26-[Error]-UiManager: Startup error:The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\alarmList.csv' because it is being used by another process.
+19:56:06.93-[Information]-PgMain: addLog:Already Pause !
+19:56:20.21-[Information]-UiManager: Startup:
+19:56:21.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:56:22.91-[Information]-PgMain: addLog:Already Reset !
+19:56:23.97-[Information]-PgMain: addLog:Already Pause !
+19:56:24.53-[Information]-PgMain: addLog:Already Running!
+19:56:32.11-[Information]-PgMain: addLog:Already Stopped !
+19:57:25.48-[Information]-UiManager: Startup:
+19:57:26.53-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:57:28.20-[Information]-PgMain: addLog:Already Pause !
+19:57:28.73-[Information]-PgMain: addLog:Already Running!
+19:57:29.27-[Information]-PgMain: addLog:Already Pause !
+19:57:42.23-[Information]-UiManager: Startup:
+19:57:43.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:57:44.80-[Information]-PgMain: addLog:Already Running!
+19:57:45.44-[Information]-PgMain: addLog:Already Pause !
+19:57:46.06-[Information]-PgMain: addLog:Already Reset !
+19:57:53.20-[Information]-PgMain: addLog:Already Stopped !
+19:57:53.85-[Information]-PgMain: addLog:Already Running!
+19:57:54.33-[Information]-PgMain: addLog:Already Pause !
+19:57:54.89-[Information]-PgMain: addLog:Already Reset !
+19:57:57.29-[Information]-PgMain: addLog:Already Stopped !
+19:57:58.44-[Information]-PgMain: addLog:Already Running!
+19:57:58.82-[Information]-PgMain: addLog:Already Pause !
+19:57:59.12-[Information]-PgMain: addLog:Already Reset !

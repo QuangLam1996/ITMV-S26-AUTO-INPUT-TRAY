@@ -1,0 +1,69 @@
+
+11:31:04.85-[Information]-UiManager: Startup:
+11:31:05.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:51:29.25-[Information]-UiManager: Startup:
+11:51:29.96-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:51:31.17-[Error]-PG_IO: LoadIOPort Error: The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\IOINPUT.csv' because it is being used by another process.
+11:51:45.14-[Information]-UiManager: Startup:
+11:51:45.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:09:37.91-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: An existing connection was forcibly closed by the remote host
+13:10:21.88-[Information]-UiManager: Startup:
+13:10:22.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:10:31.46-[Information]-UiManager: Startup:
+13:10:32.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:11:20.22-[Information]-UiManager: Startup:
+13:11:20.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:12:21.73-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: An existing connection was forcibly closed by the remote host
+18:27:33.43-[Information]-UiManager: Startup:
+18:27:34.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:28:31.67-[Information]-UiManager: Startup:
+18:28:32.33-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:35:54.85-[Information]-UiManager: Startup:
+18:35:56.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:50:41.64-[Information]-UiManager: Startup:
+18:50:42.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:51:52.85-[Information]-UiManager: Startup:
+18:51:53.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:53:08.19-[Information]-UiManager: Startup:
+18:53:08.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:54:06.34-[Information]-UiManager: Startup:
+18:54:06.99-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:00:42.49-[Information]-UiManager: Startup:
+19:00:43.07-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:06:23.59-[Information]-UiManager: Startup:
+19:06:24.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:15.29-[Information]-UiManager: Startup:
+19:07:15.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:57.26-[Information]-UiManager: Startup:
+19:07:57.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:11:29.74-[Information]-UiManager: Startup:
+19:11:30.33-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:12:24.27-[Information]-UiManager: Startup:
+19:12:25.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:13:02.14-[Information]-UiManager: Startup:
+19:13:02.81-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:13:23.48-[Information]-UiManager: Startup:
+19:13:24.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:14:10.93-[Information]-UiManager: Startup:
+19:14:11.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:16:50.38-[Information]-UiManager: Startup:
+19:16:50.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:17:35.75-[Information]-UiManager: Startup:
+19:17:36.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:18:17.36-[Information]-UiManager: Startup:
+19:18:17.93-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:19:33.99-[Information]-UiManager: Startup:
+19:19:34.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:20:50.20-[Information]-UiManager: Startup:
+19:20:50.88-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:21:42.43-[Information]-UiManager: Startup:
+19:21:42.93-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:22:05.72-[Information]-UiManager: Startup:
+19:22:06.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:22:25.27-[Information]-UserManager: LogOn: AutoTeams/itm
+19:23:12.01-[Information]-UiManager: Startup:
+19:23:12.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:23:24.78-[Information]-UserManager: LogOn: AutoTeams/itm
+19:24:04.63-[Information]-UiManager: Startup:
+19:24:05.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:24:11.49-[Information]-UserManager: LogOn: AutoTeams/itm

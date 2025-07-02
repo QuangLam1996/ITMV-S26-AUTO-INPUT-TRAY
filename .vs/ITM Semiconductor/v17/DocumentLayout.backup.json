@@ -1,0 +1,149 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg system menu\\pgsystemmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg system menu\\pgsystemmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg system menu\\pgsystemmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg system menu\\pgsystemmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu03.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu03.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|d:\\itm_\\52.psg auto laser\\4. hmi\\06. lasercutting\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pgmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pgmain.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pgmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pgmain.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PgSystemMenu01.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu01.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu01.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu01.xaml*",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu01.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:42:20.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PgSystemMenu.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu.xaml*",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg System Menu\\PgSystemMenu.xaml*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:42:19.576Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PgTeachingMenu02.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:41:30.288Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PgTeachingMenu01.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:41:29.657Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PgTeachingMenu.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:41:28.949Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PgTeachingMenu03.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-07-02T11:40:46.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "PgMain.xaml.cs",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml.cs",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml.cs",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml.cs",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwMQBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T01:46:23.36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "PgMain.xaml",
+              "DocumentMoniker": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml",
+              "ToolTip": "D:\\ITM_\\52.PSG AUTO LASER\\4. HMI\\06. LaserCutting\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\PgMain.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2025-04-28T01:46:20.335Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

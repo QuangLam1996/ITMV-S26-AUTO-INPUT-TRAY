@@ -1,0 +1,135 @@
+
+10:14:03.81-[Information]-UiManager: Startup:
+10:14:05.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:14:51.16-[Information]-UiManager: Startup:
+10:14:52.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:15:11.01-[Information]-UiManager: Startup:
+10:15:12.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:19:47.49-[Information]-UiManager: Startup:
+10:19:47.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:20:04.02-[Information]-UiManager: Startup:
+10:20:04.66-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:22:22.91-[Information]-UiManager: Startup:
+10:22:24.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:26:43.79-[Information]-UiManager: Startup:
+10:26:44.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:27:08.49-[Information]-UserManager: LogOn: AutoTeams/itm
+10:27:18.18-[Information]-UserManager: LogOut
+10:33:52.15-[Information]-UiManager: Startup:
+10:33:52.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:39:12.86-[Information]-UiManager: Startup:
+10:39:13.65-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:39:49.61-[Information]-UiManager: Startup:
+10:39:50.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:40:43.09-[Information]-UiManager: Startup:
+10:40:44.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:41:48.97-[Information]-UiManager: Startup:
+10:41:49.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:45:30.32-[Information]-UiManager: Startup:
+10:45:30.88-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:46:56.88-[Information]-UiManager: Startup:
+10:46:57.60-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:47:14.63-[Information]-UiManager: Startup:
+10:47:16.23-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:47:43.24-[Information]-UiManager: Startup:
+10:47:43.85-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:47:46.84-[Information]-UiManager: Startup:
+10:47:47.49-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:48:32.11-[Information]-UiManager: Startup:
+10:48:32.79-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:49:43.84-[Information]-UiManager: Startup:
+10:49:45.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:50:34.69-[Information]-UiManager: Startup:
+10:50:36.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:50:55.33-[Information]-UiManager: Startup:
+10:50:56.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:52:15.04-[Information]-UiManager: Startup:
+10:52:16.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:52:18.06-[Information]-PgMain: addLog:Already Home !
+11:03:48.07-[Information]-UiManager: Startup:
+11:03:48.74-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:04:29.96-[Information]-UiManager: Startup:
+11:04:31.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:05:18.44-[Information]-UiManager: Startup:
+11:05:19.54-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:05:45.25-[Information]-UiManager: Startup:
+11:05:46.45-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:05:47.53-[Information]-PgMain: addLog:Already Home !
+11:05:49.41-[Information]-PgMain: addLog:Already Running!
+11:05:50.43-[Information]-PgMain: addLog:Already Pause !
+11:06:54.70-[Information]-UiManager: Startup:
+11:06:55.00-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:06:59.13-[Information]-PgMain: addLog:Already Home !
+11:07:12.46-[Information]-PgMain: addLog:Already Stopped !
+11:07:13.21-[Information]-PgMain: addLog:Already Home !
+11:07:15.23-[Information]-PgMain: addLog:Already Stopped !
+11:07:16.09-[Information]-PgMain: addLog:Already Home !
+11:07:20.30-[Information]-PgMain: addLog:Already Running!
+11:07:20.70-[Information]-PgMain: addLog:Already Stopped !
+11:07:21.42-[Information]-PgMain: addLog:Already Home !
+11:07:55.69-[Information]-UiManager: Startup:
+11:07:55.98-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:08:02.87-[Information]-PgMain: addLog:Already Home !
+11:09:35.74-[Information]-UiManager: Startup:
+11:09:36.04-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:09:37.46-[Information]-PgMain: addLog:Already Home !
+11:10:00.47-[Information]-UiManager: Startup:
+11:10:00.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:10:04.01-[Information]-PgMain: addLog:Already Home !
+11:10:25.93-[Information]-UiManager: Startup:
+11:10:26.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:10:28.31-[Information]-PgMain: addLog:Already Home !
+11:11:08.75-[Information]-UiManager: Startup:
+11:11:09.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:11:09.94-[Information]-PgMain: addLog:Already Home !
+11:13:42.77-[Information]-UiManager: Startup:
+11:13:43.36-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:15:25.73-[Information]-UiManager: Startup:
+11:15:26.41-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:15:33.96-[Information]-UiManager: Startup:
+11:15:34.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:16:13.53-[Information]-UiManager: Startup:
+11:16:14.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:19:56.75-[Information]-UiManager: Startup:
+11:19:57.36-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:19:58.50-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:19:59.52-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:20:03.38-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:20:04.95-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:20:09.47-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:20:11.06-[Error]-PG_IO: PG_IO_Load :The calling thread cannot access this object because a different thread owns it.
+11:20:29.44-[Information]-UiManager: Startup:
+11:20:30.61-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:23:34.53-[Information]-UiManager: Startup:
+11:23:35.21-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:27:47.30-[Information]-UiManager: Startup:
+11:27:48.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:34:28.37-[Information]-UiManager: Startup:
+11:34:29.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:46:16.87-[Information]-UiManager: Startup:
+11:46:17.58-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:37:46.01-[Information]-UiManager: Startup:
+15:37:48.02-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:38:05.49-[Information]-UiManager: Startup:
+15:38:18.18-[Information]-UiManager: Startup:
+15:38:19.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:38:56.44-[Information]-UiManager: Startup:
+15:38:57.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:40:18.53-[Information]-UiManager: Startup:
+15:40:19.21-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:42:07.12-[Information]-UiManager: Startup:
+15:42:07.86-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:45:25.78-[Information]-UiManager: Startup:
+15:45:26.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:46:03.66-[Information]-UiManager: Startup:
+15:46:04.40-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:46:23.31-[Information]-UiManager: Startup:
+15:46:23.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:46:52.44-[Information]-UiManager: Startup:
+15:46:53.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:49:19.13-[Information]-UiManager: Startup:
+15:49:20.29-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:50:39.21-[Information]-UiManager: Startup:
+15:50:39.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:54:12.55-[Information]-UiManager: Startup:
+15:54:13.22-[Information]-Dba:  ->  Database File SQLite Already Existed!

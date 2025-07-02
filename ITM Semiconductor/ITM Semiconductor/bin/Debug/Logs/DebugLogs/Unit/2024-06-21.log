@@ -1,0 +1,400 @@
+
+10:27:20.24-[Information]-UiManager: Startup:
+10:27:22.45-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+10:27:22.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:27:29.68-[Information]-PgMain: addLog:Already Running!
+10:27:33.29-[Information]-PgMain: addLog:Already Pause !
+10:27:35.12-[Information]-PgMain: addLog:Already Reset !
+10:27:59.71-[Information]-UiManager: Startup:
+10:28:00.96-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+10:28:00.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:28:02.49-[Information]-PgMain: addLog:Already Pause !
+10:28:04.12-[Information]-PgMain: addLog:Already Running!
+10:28:05.41-[Information]-PgMain: addLog:Already Reset !
+10:28:06.46-[Information]-PgMain: addLog:Already Pause !
+10:28:07.22-[Information]-PgMain: addLog:Already Running!
+10:28:14.46-[Information]-PgMain: addLog:Already Pause !
+10:28:40.20-[Information]-PgMain: addLog:Already Stopped !
+10:53:37.77-[Information]-UiManager: Startup:
+10:53:38.08-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+10:53:38.09-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:54:36.99-[Information]-UserManager: LogOn: AutoTeams/itm
+10:55:09.21-[Information]-UiManager: Startup:
+10:55:09.55-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+10:55:09.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:56:41.03-[Information]-UiManager: Startup:
+10:56:41.36-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+10:56:41.36-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:56:42.78-[Information]-PgMain: addLog:Already Pause !
+11:02:54.36-[Information]-UiManager: Startup:
+11:02:54.68-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+11:02:54.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:02:55.80-[Information]-PgMain: addLog:Already Pause !
+11:02:56.82-[Information]-PgMain: addLog:Already Reset !
+11:03:05.90-[Information]-PgMain: addLog:Already Running!
+11:03:20.23-[Information]-PgMain: addLog:Already Stopped !
+13:17:56.23-[Information]-UiManager: Startup:
+13:17:56.55-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+13:17:56.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:18:01.11-[Information]-UiManager: Startup:
+13:18:01.43-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+13:18:01.43-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:24:10.33-[Information]-UiManager: Startup:
+16:24:10.68-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+16:24:10.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:24:12.68-[Information]-PgMain: addLog:Already Running!
+16:24:13.36-[Information]-PgMain: addLog:Already Pause !
+16:24:14.06-[Information]-PgMain: addLog:Already Reset !
+16:24:15.99-[Information]-PgMain: addLog:Already Pause !
+16:24:17.20-[Information]-PgMain: addLog:Already Running!
+16:24:18.12-[Information]-PgMain: addLog:Already Reset !
+16:24:18.65-[Information]-PgMain: addLog:Already Stopped !
+16:24:19.18-[Information]-PgMain: addLog:Already Pause !
+16:24:24.77-[Information]-PgMain: addLog:Already Running!
+16:24:26.40-[Information]-PgMain: addLog:Already Reset !
+16:24:38.57-[Information]-PgMain: addLog:Already Pause !
+16:24:40.25-[Information]-PgMain: addLog:Already Stopped !
+16:24:41.37-[Information]-PgMain: addLog:Already Reset !
+16:25:10.95-[Information]-UserManager: LogOn: AutoTeams/itm
+16:27:25.03-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:25.05-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:27:26.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:29:40.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.67-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:30:44.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:34:08.86-[Information]-UiManager: Startup:
+16:34:09.98-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+16:34:09.98-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:34:11.24-[Error]-PG_IO: LoadIOPort Error: The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\IOINPUT.csv' because it is being used by another process.
+16:34:15.41-[Error]-PG_IO: LoadIOPort Error: The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\IOINPUT.csv' because it is being used by another process.
+16:34:34.69-[Error]-PG_IO: LoadIOPort Error: The process cannot access the file 'C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\IOINPUT.csv' because it is being used by another process.
+16:35:24.61-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.64-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.65-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.65-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.73-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.78-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:24.80-[Error]-PLC Q_Enthernet: Q_Enthernet ReadMutiBit Error: Subheader Error
+16:35:59.16-[Information]-UiManager: Startup:
+16:36:00.23-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+16:36:00.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:36:00.43-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+16:36:00.51-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.52-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Index was out of range. Must be non-negative and less than the size of the collection.
+Parameter name: index
+16:36:00.61-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.63-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.64-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.65-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.71-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.72-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.73-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.74-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.75-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.76-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.76-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.77-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.78-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.79-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.80-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.81-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.82-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.83-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.83-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.85-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.86-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.87-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.87-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.88-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.89-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.90-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.91-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.91-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.92-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.93-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.94-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.95-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.96-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.97-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.98-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.98-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:00.99-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.00-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.01-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.02-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.03-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.04-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.05-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.06-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.07-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.08-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.08-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.09-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.10-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.11-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.12-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.13-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.13-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.14-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.15-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.16-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.17-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.18-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.18-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.19-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.20-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.24-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.25-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.25-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.26-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.27-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.28-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.29-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.30-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.31-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.31-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.32-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.33-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.34-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.35-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.36-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.36-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.37-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.38-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.39-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.40-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.41-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.42-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.42-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.43-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.44-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.45-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.46-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.47-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.48-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.49-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.50-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.51-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.51-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.52-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.53-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.54-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.55-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.56-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.57-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.58-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.59-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.60-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.61-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.62-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.63-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.63-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.64-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.65-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.66-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.67-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.68-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.69-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.70-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.71-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.72-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.73-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.73-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.76-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.77-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.78-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.78-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.79-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.80-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.81-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.82-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.83-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.83-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.84-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.85-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.86-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.87-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.88-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.89-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.89-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.91-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.91-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.92-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.93-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.94-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.95-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.96-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.96-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.97-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.98-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:01.99-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.00-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.00-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.01-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.02-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.03-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.04-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.05-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.05-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.06-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.07-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.08-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.09-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.09-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.10-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.11-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.12-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.13-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.14-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.15-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.15-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.16-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.17-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.18-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.18-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.19-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.20-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.21-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.22-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.23-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.24-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.25-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.26-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.27-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.27-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.28-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.29-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.30-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.31-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.32-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.33-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.33-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.34-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.35-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.36-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.37-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.37-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.38-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.39-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.40-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.41-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.42-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.42-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.43-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.44-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.45-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.45-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.46-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.47-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.48-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.48-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.49-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.50-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.51-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.52-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.52-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.53-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.54-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.55-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.56-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.57-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.57-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.58-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.59-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.60-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.60-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.61-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.62-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error
+16:36:02.78-[Error]-PLC Q_Enthernet: Q_Enthernet ReadNutiWork Error: Subheader Error

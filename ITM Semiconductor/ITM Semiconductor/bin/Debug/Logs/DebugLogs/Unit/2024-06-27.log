@@ -1,0 +1,6 @@
+
+08:33:54.21-[Information]-UiManager: Startup:
+08:33:54.92-[Information]-AlarmSQLDba:  ->  Database File SQLite Already Existed!
+08:33:54.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+08:33:57.61-[Information]-UserManager: LogOut
+08:34:01.76-[Information]-UserManager: LogOn: AutoTeams/itm

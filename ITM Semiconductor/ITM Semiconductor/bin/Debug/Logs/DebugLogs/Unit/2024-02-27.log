@@ -1,0 +1,922 @@
+
+08:21:21.67-[Information]-UiManager: Startup:
+08:21:43.55-[Information]-UserManager: LogOn: Manager/itm
+08:21:43.55-[Information]-UserManager: LogOn: Manager/itm
+08:22:43.26-[Information]-UiManager: Startup:
+08:22:44.31-[Information]-Dba:  -> Database File SQLite Not Existed -> Create New!
+08:22:44.32-[Information]-Dba: Create TableUserLog: 
+08:22:44.51-[Information]-Dba: createTableQr1Status:
+08:22:44.52-[Information]-Dba: createTableEventLog:
+08:22:44.53-[Information]-Dba: createTableAlarmLog:
+08:22:52.08-[Information]-UserManager: LogOn: Manager/itm
+08:22:52.08-[Information]-UserManager: LogOn: Manager/itm
+08:47:50.63-[Information]-UiManager: Startup:
+08:47:51.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+08:47:56.77-[Information]-UserManager: LogOn: Manager/itm
+08:47:56.77-[Information]-UserManager: LogOn: Manager/itm
+08:49:24.10-[Information]-UiManager: Startup:
+08:49:24.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+08:49:32.05-[Information]-UserManager: LogOn: Manager/itm
+08:49:32.05-[Information]-UserManager: LogOn: Manager/itm
+09:15:29.52-[Information]-UiManager: Startup:
+09:15:30.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:15:35.12-[Information]-UserManager: LogOn: Manager/itm
+09:15:35.12-[Information]-UserManager: LogOn: Manager/itm
+09:15:40.63-[Information]-UserManager: LogOn: AutoTeams/itm
+09:15:40.63-[Information]-UserManager: LogOn: AutoTeams/itm
+09:15:42.08-[Information]-UserManager: LogOut
+09:17:29.85-[Information]-UiManager: Startup:
+09:17:30.44-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:17:39.79-[Information]-UserManager: LogOn: Manager/itm
+09:17:39.79-[Information]-UserManager: LogOn: Manager/itm
+09:17:47.58-[Information]-UserManager: LogOut
+09:17:50.86-[Information]-UserManager: LogOn: AutoTeams/ỉm
+09:17:50.86-[Information]-UserManager: LogOn: AutoTeams/ỉm
+09:17:52.94-[Information]-UserManager: LogOn: AutoTeams/ỉmm
+09:17:52.94-[Information]-UserManager: LogOn: AutoTeams/ỉmm
+09:17:55.55-[Information]-UserManager: LogOn: AutoTeams/itm
+09:17:55.55-[Information]-UserManager: LogOn: AutoTeams/itm
+09:17:59.77-[Information]-UserManager: LogOut
+09:18:38.76-[Information]-UiManager: Startup:
+09:18:39.33-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:18:49.39-[Information]-UserManager: LogOn: AutoTeams/itm
+09:18:49.39-[Information]-UserManager: LogOn: AutoTeams/itm
+09:18:58.07-[Information]-UserManager: LogOut
+09:21:53.93-[Information]-UiManager: Startup:
+09:21:54.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:21:59.51-[Information]-UserManager: LogOn: AutoTeams/ITM
+09:21:59.51-[Information]-UserManager: LogOn: AutoTeams/ITM
+09:22:00.70-[Information]-UserManager: LogOn: AutoTeams/ITM
+09:22:00.70-[Information]-UserManager: LogOn: AutoTeams/ITM
+09:22:04.20-[Information]-UserManager: LogOn: AutoTeams/itm
+09:22:04.20-[Information]-UserManager: LogOn: AutoTeams/itm
+09:22:10.47-[Information]-UserManager: LogOut
+09:25:54.03-[Information]-UiManager: Startup:
+09:25:54.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:25:57.30-[Information]-UserManager: LogOut
+09:26:12.13-[Information]-UserManager: LogOn: Manager/itm
+09:26:12.13-[Information]-UserManager: LogOn: Manager/itm
+09:26:18.61-[Information]-UserManager: LogOut
+09:26:23.34-[Information]-UserManager: LogOn: AutoTeams/itm
+09:26:23.34-[Information]-UserManager: LogOn: AutoTeams/itm
+09:26:29.09-[Information]-UserManager: LogOut
+09:40:06.51-[Information]-UiManager: Startup:
+09:40:07.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:40:16.56-[Information]-UserManager: LogOn: Manager/itm
+09:40:16.57-[Information]-UserManager: LogOn: Manager/itm
+09:40:23.62-[Information]-UserManager: LogOut
+09:40:34.67-[Information]-UserManager: LogOn: AutoTeams/itm
+09:40:34.67-[Information]-UserManager: LogOn: AutoTeams/itm
+09:40:42.75-[Information]-UserManager: LogOut
+09:51:59.85-[Information]-UiManager: Startup:
+09:52:00.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:28:54.35-[Information]-UiManager: Startup:
+10:28:55.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:29:25.95-[Information]-UiManager: Startup:
+10:29:26.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:29:42.84-[Information]-UiManager: Startup:
+10:29:43.41-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:30:06.13-[Information]-UiManager: Startup:
+10:30:06.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:31:07.47-[Information]-UiManager: Startup:
+10:31:08.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:31:46.21-[Information]-UiManager: Startup:
+10:31:46.76-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:32:05.87-[Information]-UiManager: Startup:
+10:32:06.41-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:32:25.55-[Information]-UiManager: Startup:
+10:32:26.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:32:53.79-[Information]-UiManager: Startup:
+10:32:54.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:33:45.97-[Information]-UiManager: Startup:
+10:33:47.00-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:34:55.05-[Information]-UiManager: Startup:
+10:34:55.71-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:35:11.44-[Information]-UiManager: Startup:
+10:35:12.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:35:56.87-[Information]-UiManager: Startup:
+10:35:57.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:36:31.75-[Information]-UiManager: Startup:
+10:36:32.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:37:06.60-[Information]-UiManager: Startup:
+10:37:07.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:37:27.48-[Information]-UiManager: Startup:
+10:37:28.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:38:18.78-[Information]-UiManager: Startup:
+10:38:19.44-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:42:18.59-[Information]-UiManager: Startup:
+10:42:19.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:42:20.50-[Information]-PgMain: addLog:User Stop !
+10:47:46.55-[Information]-UiManager: Startup:
+10:47:47.07-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:47:48.27-[Information]-PgMain: addLog:User Stop !
+10:51:11.51-[Information]-UiManager: Startup:
+10:51:12.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:51:13.52-[Information]-PgMain: addLog:User Stop !
+10:52:11.96-[Information]-UiManager: Startup:
+10:52:12.53-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:52:13.31-[Information]-PgMain: addLog:User Stop !
+10:52:31.93-[Information]-UiManager: Startup:
+10:52:32.48-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:52:33.45-[Information]-PgMain: addLog:User Stop !
+10:53:05.54-[Information]-UiManager: Startup:
+10:53:06.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:53:07.62-[Information]-PgMain: addLog:User Stop !
+10:55:51.12-[Information]-UiManager: Startup:
+10:55:51.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:55:52.64-[Information]-PgMain: addLog:User Stop !
+11:07:56.77-[Information]-UiManager: Startup:
+11:07:57.48-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:08:04.02-[Information]-PgMain: addLog:Already Stopped !
+11:08:04.73-[Information]-PgMain: addLog:Start Running
+11:08:05.16-[Information]-PgMain: addLog:User Stop !
+11:08:06.07-[Information]-PgMain: addLog:Already Running!
+11:09:12.66-[Information]-UiManager: Startup:
+11:09:13.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:09:14.21-[Information]-PgMain: addLog:Already Stopped !
+11:09:41.63-[Information]-UiManager: Startup:
+11:09:42.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:09:47.30-[Information]-PgMain: addLog:Already Stopped !
+11:09:49.45-[Information]-PgMain: addLog:Start Running
+11:09:50.09-[Information]-PgMain: addLog:User Stop !
+11:09:50.43-[Information]-PgMain: addLog:Already Running!
+11:11:41.80-[Information]-UiManager: Startup:
+11:11:42.37-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:11:44.06-[Information]-PgMain: addLog: -> EQUIQMENT_ID = [XBND002  ]
+11:12:14.01-[Information]-UiManager: Startup:
+11:12:14.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:12:15.42-[Information]-PgMain: addLog:Already Running!
+11:12:16.00-[Information]-PgMain: addLog:Already Stopped !
+11:12:16.80-[Information]-PgMain: addLog:Already Running!
+11:12:17.20-[Information]-PgMain: addLog:Already Stopped !
+11:12:19.97-[Information]-PgMain: addLog: -> EQUIQMENT_ID = [XBND002  ]
+11:14:55.29-[Information]-UiManager: Startup:
+11:14:56.12-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:14:56.89-[Information]-PgMain: addLog:Already Running!
+11:14:57.61-[Information]-PgMain: addLog:Already Stopped !
+11:14:58.00-[Information]-PgMain: addLog:Already Running!
+11:14:58.45-[Information]-PgMain: addLog:Already Stopped !
+11:14:58.69-[Information]-PgMain: addLog:Already Running!
+11:14:59.01-[Information]-PgMain: addLog:Already Stopped !
+11:14:59.25-[Information]-PgMain: addLog:Already Running!
+11:14:59.47-[Information]-PgMain: addLog:Already Stopped !
+11:14:59.72-[Information]-PgMain: addLog:Already Running!
+11:15:00.00-[Information]-PgMain: addLog:Already Stopped !
+11:15:00.25-[Information]-PgMain: addLog:Already Running!
+11:15:00.52-[Information]-PgMain: addLog:Already Stopped !
+11:15:00.80-[Information]-PgMain: addLog:Already Running!
+11:15:01.06-[Information]-PgMain: addLog:Already Stopped !
+11:15:01.60-[Information]-PgMain: addLog:Already Running!
+11:15:02.12-[Information]-PgMain: addLog:Already Stopped !
+11:15:02.66-[Information]-PgMain: addLog:Already Running!
+11:15:19.93-[Information]-UiManager: Startup:
+11:15:20.83-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:15:21.67-[Information]-PgMain: addLog:Already Running!
+11:16:06.64-[Information]-UiManager: Startup:
+11:16:07.33-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:16:08.00-[Information]-PgMain: addLog:Already Running!
+11:16:08.58-[Information]-PgMain: addLog:Already Stopped !
+11:16:43.07-[Information]-UiManager: Startup:
+11:16:43.60-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:16:44.16-[Information]-PgMain: addLog:Already Running!
+11:16:44.73-[Information]-PgMain: addLog:Already Stopped !
+11:16:45.03-[Information]-PgMain: addLog:Already Running!
+11:16:45.35-[Information]-PgMain: addLog:Already Stopped !
+11:16:45.59-[Information]-PgMain: addLog:Already Running!
+11:16:45.81-[Information]-PgMain: addLog:Already Stopped !
+11:16:46.06-[Information]-PgMain: addLog:Already Running!
+11:16:46.28-[Information]-PgMain: addLog:Already Stopped !
+11:16:54.12-[Information]-UiManager: Startup:
+11:16:55.40-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:16:56.17-[Information]-PgMain: addLog:Already Running!
+11:16:56.69-[Information]-PgMain: addLog:Already Stopped !
+11:17:49.20-[Information]-UiManager: Startup:
+11:17:49.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:17:50.86-[Information]-PgMain: addLog:Already Stopped !
+11:17:51.24-[Information]-PgMain: addLog:Already Running!
+11:18:10.86-[Information]-UiManager: Startup:
+11:18:11.45-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:18:12.49-[Information]-PgMain: addLog:Already Running!
+11:18:12.91-[Information]-PgMain: addLog:Already Stopped !
+11:18:58.51-[Information]-UiManager: Startup:
+11:18:59.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:18:59.90-[Information]-PgMain: addLog:Already Running!
+11:19:00.44-[Information]-PgMain: addLog:Already Stopped !
+11:21:24.79-[Information]-UiManager: Startup:
+11:21:25.42-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:21:26.53-[Information]-PgMain: addLog:Already Running!
+11:21:27.18-[Information]-PgMain: addLog:Already Stopped !
+11:21:28.96-[Information]-PgMain: addLog:Already Running!
+11:21:40.15-[Information]-UiManager: Startup:
+11:21:40.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:21:53.98-[Information]-UiManager: Startup:
+11:21:54.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:22:04.78-[Information]-PgMain: addLog:Already Running!
+11:22:05.65-[Information]-PgMain: addLog:Already Stopped !
+11:27:10.32-[Information]-UiManager: Startup:
+11:27:10.91-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:27:12.00-[Information]-PgMain: addLog:Already Running!
+11:27:13.30-[Information]-PgMain: addLog:Already Stopped !
+11:27:14.48-[Information]-PgMain: addLog:Already Reset !
+11:27:15.60-[Information]-PgMain: addLog:Already Running!
+11:27:15.96-[Information]-PgMain: addLog:Already Stopped !
+11:27:18.00-[Information]-PgMain: addLog:Already Running!
+11:27:18.40-[Information]-PgMain: addLog:Already Stopped !
+11:27:18.76-[Information]-PgMain: addLog:Already Reset !
+11:27:23.52-[Information]-UserManager: LogOn: Manager/itm
+11:27:23.52-[Information]-UserManager: LogOn: Manager/itm
+11:27:25.81-[Information]-PgMain: addLog:Already Running!
+11:27:26.17-[Information]-PgMain: addLog:Already Stopped !
+11:27:26.58-[Information]-PgMain: addLog:Already Reset !
+11:27:27.19-[Information]-PgMain: addLog:Already Running!
+11:27:27.53-[Information]-PgMain: addLog:Already Stopped !
+11:27:27.90-[Information]-PgMain: addLog:Already Reset !
+11:27:32.88-[Information]-UserManager: LogOn: AutoTeams/itm
+11:27:32.88-[Information]-UserManager: LogOn: AutoTeams/itm
+11:27:35.26-[Information]-PgMain: addLog:Already Running!
+11:27:35.59-[Information]-PgMain: addLog:Already Stopped !
+11:27:35.95-[Information]-PgMain: addLog:Already Reset !
+11:27:36.37-[Information]-PgMain: addLog:Already Running!
+11:27:36.63-[Information]-PgMain: addLog:Already Stopped !
+11:27:36.90-[Information]-PgMain: addLog:Already Reset !
+11:30:17.53-[Information]-UiManager: Startup:
+11:30:18.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:33:56.58-[Information]-UiManager: Startup:
+11:33:57.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:34:07.02-[Information]-PgMain: addLog:Already Running!
+11:34:07.41-[Information]-PgMain: addLog:Already Stopped !
+11:40:20.31-[Information]-UiManager: Startup:
+11:40:20.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:40:36.07-[Information]-UserManager: LogOn: Manager/itm
+11:40:36.08-[Information]-UserManager: LogOn: Manager/itm
+11:40:49.75-[Information]-UserManager: LogOut
+11:40:53.72-[Information]-UserManager: LogOn: AutoTeams/itm
+11:40:53.72-[Information]-UserManager: LogOn: AutoTeams/itm
+11:41:21.34-[Information]-PgMain: addLog:Already Running!
+11:41:21.69-[Information]-PgMain: addLog:Already Stopped !
+11:41:21.95-[Information]-PgMain: addLog:Already Reset !
+11:41:22.51-[Information]-PgMain: addLog:Already Running!
+13:10:44.55-[Information]-UiManager: Startup:
+13:10:45.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:10:46.77-[Information]-PgMain: addLog:Already Running!
+13:10:47.70-[Information]-PgMain: addLog:Already Stopped !
+13:10:48.59-[Information]-PgMain: addLog:Already Running!
+13:10:50.51-[Information]-PgMain: addLog:Already Stopped !
+13:10:51.28-[Information]-PgMain: addLog:Already Reset !
+13:10:51.91-[Information]-PgMain: addLog:Already Stopped !
+13:10:52.42-[Information]-PgMain: addLog:Already Running!
+13:10:53.67-[Information]-PgMain: addLog:Already Stopped !
+13:10:58.26-[Information]-PgMain: addLog:Already Reset !
+13:10:59.37-[Information]-PgMain: addLog:Already Running!
+13:13:30.18-[Information]-UiManager: Startup:
+13:13:30.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:13:32.05-[Information]-PgMain: addLog:Already Running!
+13:13:32.84-[Information]-PgMain: addLog:Already Stopped !
+13:13:33.22-[Information]-PgMain: addLog:Already Reset !
+13:13:45.37-[Information]-UserManager: LogOn: Manager/itm
+13:13:45.37-[Information]-UserManager: LogOn: Manager/itm
+13:15:17.58-[Information]-UiManager: Startup:
+13:15:18.12-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:15:40.14-[Information]-UserManager: LogOn: Manager/itm
+13:15:40.14-[Information]-UserManager: LogOn: Manager/itm
+13:15:45.27-[Information]-UserManager: LogOut
+13:18:19.90-[Information]-UiManager: Startup:
+13:18:20.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:18:22.80-[Information]-PgMain: addLog:Already Running!
+13:18:23.30-[Information]-PgMain: addLog:Already Stopped !
+13:18:23.90-[Information]-PgMain: addLog:Already Reset !
+13:25:47.99-[Information]-UiManager: Startup:
+13:25:48.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:25:57.78-[Information]-UserManager: LogOn: Manager/itm
+13:25:57.78-[Information]-UserManager: LogOn: Manager/itm
+13:26:22.25-[Information]-UserManager: LogOut
+13:26:57.79-[Information]-UiManager: Startup:
+13:26:58.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:27:17.25-[Information]-PgMain: addLog:Already Running!
+13:27:18.69-[Information]-PgMain: addLog:Already Stopped !
+13:27:20.38-[Information]-PgMain: addLog:Already Reset !
+13:27:21.60-[Information]-PgMain: addLog:Already Running!
+13:28:26.18-[Information]-UiManager: Startup:
+13:28:26.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:28:34.86-[Information]-UserManager: LogOut
+13:28:58.09-[Information]-UiManager: Startup:
+13:28:58.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:29:01.07-[Information]-PgMain: addLog:Already Running!
+13:29:03.26-[Information]-PgMain: addLog:Already Stopped !
+13:29:04.24-[Information]-PgMain: addLog:Already Reset !
+13:29:06.37-[Information]-PgMain: addLog:Already Running!
+13:29:13.30-[Information]-UserManager: LogOn: Manager/itm
+13:29:13.30-[Information]-UserManager: LogOn: Manager/itm
+13:29:25.98-[Information]-UserManager: LogOn: AutoTeams/itm
+13:29:25.98-[Information]-UserManager: LogOn: AutoTeams/itm
+13:32:08.86-[Information]-UiManager: Startup:
+13:32:09.45-[Information]-Dba:  -> Database File SQLite Not Existed -> Create New!
+13:32:09.45-[Information]-Dba: Create TableUserLog: 
+13:32:09.56-[Information]-Dba: createTableQr1Status:
+13:32:09.57-[Information]-Dba: createTableEventLog:
+13:32:09.57-[Information]-Dba: createTableAlarmLog:
+13:32:13.86-[Information]-UserManager: LogOn: Manager/itm
+13:32:13.86-[Information]-UserManager: LogOn: Manager/itm
+13:50:33.77-[Information]-UiManager: Startup:
+13:50:34.29-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:12:15.65-[Information]-UiManager: Startup:
+14:12:16.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:12:52.20-[Information]-UiManager: Startup:
+14:12:52.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:13:00.45-[Information]-UserManager: LogOn: Manager/itm
+14:13:00.45-[Information]-UserManager: LogOn: Manager/itm
+14:17:55.41-[Information]-UiManager: Startup:
+14:17:55.99-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:18:34.21-[Information]-UiManager: Startup:
+14:18:34.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:19:03.38-[Information]-UiManager: Startup:
+14:19:04.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:19:44.63-[Information]-UiManager: Startup:
+14:19:45.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:22:39.11-[Information]-UiManager: Startup:
+14:22:39.63-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:23:03.65-[Information]-UiManager: Startup:
+14:23:04.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:23:35.82-[Information]-UiManager: Startup:
+14:23:36.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:23:42.88-[Information]-UserManager: LogOn: Manager/itm
+14:23:42.88-[Information]-UserManager: LogOn: Manager/itm
+14:28:25.97-[Information]-UiManager: Startup:
+14:28:26.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:28:33.86-[Information]-UserManager: LogOn: Manager/itm
+14:28:33.86-[Information]-UserManager: LogOn: Manager/itm
+14:31:11.09-[Information]-UiManager: Startup:
+14:31:11.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:31:16.47-[Information]-UserManager: LogOn: Manager/itm
+14:31:16.47-[Information]-UserManager: LogOn: Manager/itm
+14:31:37.71-[Information]-UiManager: Startup:
+14:31:38.23-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:31:42.37-[Information]-UserManager: LogOn: Manager/itm
+14:31:42.37-[Information]-UserManager: LogOn: Manager/itm
+14:32:05.56-[Information]-UiManager: Startup:
+14:32:06.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:32:10.49-[Information]-UserManager: LogOn: Manager/itm
+14:32:10.49-[Information]-UserManager: LogOn: Manager/itm
+14:32:48.86-[Information]-UiManager: Startup:
+14:32:49.43-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:32:54.43-[Information]-UserManager: LogOn: Manager/itm
+14:32:54.44-[Information]-UserManager: LogOn: Manager/itm
+14:32:56.41-[Information]-UserManager: LogOut
+14:33:14.44-[Information]-UiManager: Startup:
+14:33:15.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:33:20.70-[Information]-UserManager: LogOn: Manager/itm
+14:33:20.70-[Information]-UserManager: LogOn: Manager/itm
+14:33:46.10-[Information]-UserManager: LogOut
+14:34:06.13-[Information]-UiManager: Startup:
+14:34:06.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:34:11.18-[Information]-UserManager: LogOn: Manager/itm
+14:34:11.18-[Information]-UserManager: LogOn: Manager/itm
+14:34:14.97-[Information]-UserManager: LogOut
+14:34:16.45-[Information]-UserManager: LogOut
+14:34:59.89-[Information]-UiManager: Startup:
+14:35:00.49-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:35:05.50-[Information]-UserManager: LogOn: Manager/itm
+14:35:05.50-[Information]-UserManager: LogOn: Manager/itm
+14:35:12.52-[Information]-UiManager: Startup:
+14:35:13.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:35:18.24-[Information]-UserManager: LogOn: Manager/itm
+14:35:18.24-[Information]-UserManager: LogOn: Manager/itm
+14:35:23.57-[Information]-UserManager: LogOut
+14:36:46.60-[Information]-UiManager: Startup:
+14:36:47.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:36:52.34-[Information]-UserManager: LogOn: Manager/itm
+14:36:52.34-[Information]-UserManager: LogOn: Manager/itm
+14:36:54.90-[Information]-UserManager: LogOut
+14:38:15.47-[Information]-UiManager: Startup:
+14:38:16.12-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:38:20.96-[Information]-UserManager: LogOn: Manager/itm
+14:38:20.96-[Information]-UserManager: LogOn: Manager/itm
+14:39:22.27-[Information]-UiManager: Startup:
+14:39:22.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:39:28.41-[Information]-UserManager: LogOn: Manager/itm
+14:39:28.41-[Information]-UserManager: LogOn: Manager/itm
+14:39:37.77-[Information]-UserManager: LogOn: AutoTeams/itm
+14:39:37.77-[Information]-UserManager: LogOn: AutoTeams/itm
+14:39:39.22-[Information]-UserManager: LogOut
+14:39:45.05-[Information]-UserManager: LogOn: Manager/itm
+14:39:45.05-[Information]-UserManager: LogOn: Manager/itm
+14:39:48.33-[Information]-UserManager: LogOut
+14:40:45.50-[Information]-UiManager: Startup:
+14:40:46.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:40:51.10-[Information]-UserManager: LogOn: Manager/itm
+14:40:51.10-[Information]-UserManager: LogOn: Manager/itm
+14:40:58.63-[Information]-UserManager: LogOut
+14:42:09.82-[Information]-UiManager: Startup:
+14:42:10.37-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:42:14.67-[Information]-UserManager: LogOn: Manager/itm
+14:42:14.67-[Information]-UserManager: LogOn: Manager/itm
+14:42:57.53-[Information]-UiManager: Startup:
+14:42:58.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:43:03.05-[Information]-UserManager: LogOn: AutoTeams/itm
+14:43:03.05-[Information]-UserManager: LogOn: AutoTeams/itm
+14:43:48.76-[Information]-UiManager: Startup:
+14:43:49.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:43:54.26-[Information]-UserManager: LogOn: Manager/itm
+14:43:54.26-[Information]-UserManager: LogOn: Manager/itm
+14:44:03.75-[Information]-UserManager: LogOut
+14:44:40.91-[Information]-UiManager: Startup:
+14:44:41.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:44:46.35-[Information]-UserManager: LogOn: Manager/itm
+14:44:46.36-[Information]-UserManager: LogOn: Manager/itm
+14:44:48.15-[Information]-UserManager: LogOut
+14:44:52.58-[Information]-UserManager: LogOn: AutoTeams/itm
+14:44:52.59-[Information]-UserManager: LogOn: AutoTeams/itm
+14:44:55.65-[Information]-UserManager: LogOut
+14:45:30.19-[Information]-UiManager: Startup:
+14:45:30.71-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:45:36.02-[Information]-UserManager: LogOn: AutoTeams/itm
+14:45:36.02-[Information]-UserManager: LogOn: AutoTeams/itm
+14:45:52.01-[Information]-UserManager: LogOut
+14:46:18.00-[Information]-UiManager: Startup:
+14:46:18.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:46:25.27-[Information]-UserManager: LogOn: AutoTeams/itm
+14:46:25.27-[Information]-UserManager: LogOn: AutoTeams/itm
+14:46:28.17-[Information]-UserManager: LogOut
+14:47:57.52-[Information]-UiManager: Startup:
+14:47:58.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:48:02.62-[Information]-UserManager: LogOn: AutoTeams/itm
+14:48:02.62-[Information]-UserManager: LogOn: AutoTeams/itm
+14:48:07.99-[Information]-UserManager: LogOut
+14:48:12.72-[Information]-UserManager: LogOn: Manager/itm
+14:48:12.73-[Information]-UserManager: LogOn: Manager/itm
+14:49:09.88-[Information]-UiManager: Startup:
+14:49:10.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:49:14.54-[Information]-UserManager: LogOn: Manager/itm
+14:49:14.54-[Information]-UserManager: LogOn: Manager/itm
+14:49:18.98-[Information]-UserManager: LogOut
+14:49:22.03-[Information]-UserManager: LogOn: AutoTeams/itm
+14:49:22.03-[Information]-UserManager: LogOn: AutoTeams/itm
+14:50:09.31-[Information]-UiManager: Startup:
+14:50:09.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:50:13.94-[Information]-UserManager: LogOn: Manager/itm
+14:50:13.94-[Information]-UserManager: LogOn: Manager/itm
+14:51:03.14-[Information]-UiManager: Startup:
+14:51:03.66-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:51:09.66-[Information]-UserManager: LogOn: AutoTeams/itm
+14:51:09.66-[Information]-UserManager: LogOn: AutoTeams/itm
+14:51:15.59-[Information]-UserManager: LogOut
+14:53:39.39-[Information]-UiManager: Startup:
+14:53:40.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:53:46.66-[Information]-PgMain: addLog:Already Running!
+14:53:46.95-[Information]-PgMain: addLog:Already Stopped !
+14:53:47.23-[Information]-PgMain: addLog:Already Reset !
+14:53:47.71-[Information]-PgMain: addLog:Already Running!
+14:53:54.36-[Information]-UserManager: LogOn: AutoTeams/itm
+14:53:54.36-[Information]-UserManager: LogOn: AutoTeams/itm
+14:53:59.40-[Information]-UserManager: LogOn: Manager/itm
+14:53:59.40-[Information]-UserManager: LogOn: Manager/itm
+14:54:56.12-[Information]-UiManager: Startup:
+14:54:56.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:55:02.20-[Information]-UserManager: LogOn: Manager/itm
+14:55:02.21-[Information]-UserManager: LogOn: Manager/itm
+14:55:53.67-[Information]-UiManager: Startup:
+14:55:54.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:55:59.10-[Information]-UserManager: LogOn: Manager/itm
+14:55:59.10-[Information]-UserManager: LogOn: Manager/itm
+14:58:30.65-[Information]-UiManager: Startup:
+14:58:31.42-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:59:03.16-[Information]-UiManager: Startup:
+14:59:03.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:59:30.04-[Information]-UiManager: Startup:
+14:59:30.66-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:59:48.51-[Information]-UiManager: Startup:
+14:59:49.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:59:56.26-[Information]-UserManager: LogOn: Manager/itm
+14:59:56.26-[Information]-UserManager: LogOn: Manager/itm
+15:00:01.02-[Information]-UserManager: LogOut
+15:00:36.46-[Information]-UiManager: Startup:
+15:00:37.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:03:32.54-[Information]-UiManager: Startup:
+15:03:33.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:03:42.20-[Information]-UserManager: LogOn: Manager/itm
+15:03:42.20-[Information]-UserManager: LogOn: Manager/itm
+15:04:05.87-[Information]-UiManager: Startup:
+15:04:06.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:04:11.89-[Information]-UserManager: LogOn: Manager/itm
+15:04:11.89-[Information]-UserManager: LogOn: Manager/itm
+15:04:36.45-[Information]-UiManager: Startup:
+15:04:37.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:04:44.50-[Information]-UserManager: LogOn: Manager/itm
+15:04:44.50-[Information]-UserManager: LogOn: Manager/itm
+15:06:06.11-[Information]-UiManager: Startup:
+15:06:06.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:06:14.83-[Information]-UserManager: LogOn: Manager/itm
+15:06:14.83-[Information]-UserManager: LogOn: Manager/itm
+15:07:13.57-[Information]-UiManager: Startup:
+15:07:14.27-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:07:19.38-[Information]-UserManager: LogOn: Manager/itm
+15:07:19.39-[Information]-UserManager: LogOn: Manager/itm
+15:08:36.59-[Information]-UiManager: Startup:
+15:08:37.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:08:45.02-[Information]-UserManager: LogOn: Manager/itm
+15:08:45.02-[Information]-UserManager: LogOn: Manager/itm
+15:08:47.29-[Information]-UserManager: LogOut
+15:08:52.97-[Information]-UserManager: LogOn: AutoTeams/itm
+15:08:52.97-[Information]-UserManager: LogOn: AutoTeams/itm
+15:09:09.18-[Information]-UserManager: LogOut
+15:10:42.49-[Information]-UiManager: Startup:
+15:10:43.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:11:21.29-[Information]-UiManager: Startup:
+15:11:22.00-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:11:28.48-[Information]-UserManager: LogOn: Manager/itm
+15:11:28.48-[Information]-UserManager: LogOn: Manager/itm
+15:12:34.76-[Information]-UiManager: Startup:
+15:12:35.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:14:06.79-[Information]-UiManager: Startup:
+15:14:07.33-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:17:00.43-[Information]-UiManager: Startup:
+15:17:00.93-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:17:19.06-[Information]-UserManager: LogOn: Manager/itm
+15:17:19.07-[Information]-UserManager: LogOn: Manager/itm
+15:18:21.31-[Information]-UiManager: Startup:
+15:18:21.84-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:18:43.52-[Information]-UserManager: LogOn: Manager/itm
+15:18:43.52-[Information]-UserManager: LogOn: Manager/itm
+15:19:19.08-[Information]-UserManager: LogOut
+15:19:19.25-[Information]-UserManager: LogOut
+15:19:28.29-[Information]-UserManager: LogOn: AutoTeams/itm
+15:19:28.29-[Information]-UserManager: LogOn: AutoTeams/itm
+15:44:08.23-[Information]-UiManager: Startup:
+15:44:08.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:49:22.85-[Information]-UiManager: Startup:
+15:49:23.31-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:50:50.43-[Information]-UiManager: Startup:
+15:50:50.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:51:53.08-[Information]-UiManager: Startup:
+15:51:53.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:54:49.62-[Information]-UiManager: Startup:
+15:54:50.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:56:03.21-[Information]-UiManager: Startup:
+15:56:03.88-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:58:48.46-[Information]-UiManager: Startup:
+15:58:49.04-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:59:46.21-[Information]-UiManager: Startup:
+15:59:46.76-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:01:51.72-[Information]-UiManager: Startup:
+16:01:52.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:02:22.17-[Information]-UiManager: Startup:
+16:02:22.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:03:23.96-[Information]-UiManager: Startup:
+16:03:24.53-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:05:29.59-[Information]-UiManager: Startup:
+16:05:30.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:06:59.92-[Information]-UserManager: LogOn: Manager/itm
+16:06:59.92-[Information]-UserManager: LogOn: Manager/itm
+16:07:19.46-[Information]-UserManager: LogOn: AutoTeams/itm
+16:07:19.46-[Information]-UserManager: LogOn: AutoTeams/itm
+16:16:20.62-[Information]-UiManager: Startup:
+16:16:21.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:17:48.04-[Information]-UiManager: Startup:
+16:17:48.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:17:57.99-[Information]-UserManager: LogOut
+16:17:58.97-[Information]-UserManager: LogOut
+16:17:59.65-[Information]-UserManager: LogOut
+16:18:05.52-[Information]-UserManager: LogOut
+16:19:59.56-[Information]-UiManager: Startup:
+16:20:00.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:20:11.39-[Information]-UserManager: LogOut
+16:20:11.61-[Information]-UserManager: LogOut
+16:20:14.99-[Information]-UserManager: LogOut
+16:20:19.08-[Information]-UserManager: LogOut
+16:20:20.54-[Information]-UserManager: LogOut
+16:20:20.72-[Information]-UserManager: LogOut
+16:20:20.88-[Information]-UserManager: LogOut
+16:20:25.75-[Information]-UserManager: LogOut
+16:22:01.05-[Information]-UiManager: Startup:
+16:22:01.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:22:51.33-[Information]-UiManager: Startup:
+16:22:52.02-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:23:31.16-[Information]-UiManager: Startup:
+16:23:31.83-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:24:30.58-[Information]-UiManager: Startup:
+16:24:31.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:24:47.57-[Information]-UserManager: LogOut
+16:26:30.89-[Information]-UiManager: Startup:
+16:26:31.48-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:28:24.06-[Information]-UiManager: Startup:
+16:28:24.63-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:28:34.25-[Information]-UserManager: LogOut
+16:28:35.27-[Information]-UserManager: LogOut
+16:28:38.06-[Information]-UserManager: LogOut
+16:28:42.40-[Information]-UserManager: LogOn: /
+16:28:42.40-[Information]-UserManager: LogOn: /
+16:28:44.43-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:47.04-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:48.86-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:53.04-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:54.62-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:56.08-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:28:57.70-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:29:04.21-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:29:05.69-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:29:16.01-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:29:17.34-[Error]-DbWrite: CreateUserLog Error:constraint failed
+NOT NULL constraint failed: user_log.username
+16:29:18.40-[Information]-UserManager: LogOut
+16:29:18.82-[Information]-UserManager: LogOut
+16:29:19.34-[Information]-UserManager: LogOut
+16:29:19.53-[Information]-UserManager: LogOut
+16:29:19.72-[Information]-UserManager: LogOut
+16:29:41.69-[Information]-UserManager: LogOut
+16:29:55.19-[Information]-UserManager: LogOut
+16:29:55.38-[Information]-UserManager: LogOut
+16:30:15.58-[Information]-UiManager: Startup:
+16:30:16.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:30:49.52-[Information]-UiManager: Startup:
+16:30:50.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:30:56.61-[Information]-UserManager: LogOut
+16:30:59.05-[Information]-UserManager: LogOut
+16:31:01.94-[Information]-UserManager: LogOut
+16:31:03.67-[Information]-UserManager: LogOut
+16:32:53.15-[Information]-UiManager: Startup:
+16:32:53.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:33:03.49-[Information]-UserManager: LogOut
+16:33:58.08-[Information]-UiManager: Startup:
+16:33:59.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:42:08.62-[Information]-UiManager: Startup:
+16:42:09.59-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:42:13.52-[Information]-UserManager: LogOut
+16:43:50.84-[Information]-UiManager: Startup:
+16:43:51.93-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:44:24.46-[Information]-UserManager: LogOut
+16:48:34.63-[Information]-UiManager: Startup:
+16:48:35.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:48:58.57-[Information]-UserManager: LogOn: Manager/itm
+16:48:58.57-[Information]-UserManager: LogOn: Manager/itm
+16:49:13.20-[Information]-UserManager: LogOn: AutoTeams/itm
+16:49:13.21-[Information]-UserManager: LogOn: AutoTeams/itm
+16:51:00.19-[Information]-UiManager: Startup:
+16:51:01.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:51:12.98-[Information]-UserManager: LogOn: AutoTeams/itm
+16:51:12.99-[Information]-UserManager: LogOn: AutoTeams/itm
+16:52:24.14-[Information]-UiManager: Startup:
+16:52:25.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:52:32.34-[Information]-UserManager: LogOn: Manager/itm
+16:52:32.34-[Information]-UserManager: LogOn: Manager/itm
+16:52:38.86-[Information]-UserManager: LogOn: AutoTeams/itm
+16:52:38.86-[Information]-UserManager: LogOn: AutoTeams/itm
+16:53:40.53-[Information]-UserManager: LogOut
+21:17:17.16-[Information]-UiManager: Startup:
+21:17:17.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:17:29.16-[Information]-UserManager: LogOn: Manager/itm,
+21:17:29.16-[Information]-UserManager: LogOn: Manager/itm,
+21:17:33.48-[Information]-UserManager: LogOn: Manager/itm
+21:17:33.48-[Information]-UserManager: LogOn: Manager/itm
+21:17:59.47-[Information]-UserManager: LogOn: AutoTeams/itm
+21:17:59.47-[Information]-UserManager: LogOn: AutoTeams/itm
+21:18:41.53-[Information]-UserManager: LogOut
+21:19:51.45-[Information]-UiManager: Startup:
+21:19:51.75-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:20:00.01-[Information]-UserManager: LogOut
+21:20:45.63-[Information]-UiManager: Startup:
+21:20:45.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:21:59.24-[Information]-UiManager: Startup:
+21:21:59.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:22:41.51-[Information]-UiManager: Startup:
+21:22:41.85-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:23:12.34-[Information]-UiManager: Startup:
+21:23:12.60-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:24:27.44-[Information]-UiManager: Startup:
+21:24:27.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:24:32.75-[Information]-UserManager: LogOut
+21:24:34.86-[Information]-UserManager: LogOut
+21:24:35.09-[Information]-UserManager: LogOut
+21:26:00.69-[Information]-UiManager: Startup:
+21:26:01.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+21:26:04.66-[Information]-UserManager: LogOut
+21:26:05.63-[Information]-UserManager: LogOut
+21:26:06.39-[Information]-UserManager: LogOut
+21:26:06.75-[Information]-UserManager: LogOut
+22:12:00.64-[Information]-UiManager: Startup:
+22:12:00.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:20:44.03-[Information]-UiManager: Startup:
+22:20:44.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:21:01.94-[Information]-UserManager: LogOn: Manager/itm
+22:21:01.95-[Information]-UserManager: LogOn: Manager/itm
+22:21:05.34-[Information]-UserManager: LogOut
+22:21:17.90-[Information]-UserManager: LogOut
+22:21:18.61-[Information]-UserManager: LogOut
+22:21:22.83-[Information]-UserManager: LogOn: Manager/itm
+22:21:22.83-[Information]-UserManager: LogOn: Manager/itm
+22:25:51.15-[Information]-UiManager: Startup:
+22:25:51.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:25:57.33-[Information]-UserManager: LogOn: Manager/itm
+22:25:57.34-[Information]-UserManager: LogOn: Manager/itm
+22:26:53.50-[Information]-UiManager: Startup:
+22:26:53.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:26:55.80-[Information]-UserManager: LogOut
+22:27:48.10-[Information]-UiManager: Startup:
+22:27:48.41-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:27:54.98-[Information]-UserManager: LogOut
+22:27:55.66-[Information]-UserManager: LogOut
+22:27:56.10-[Information]-UserManager: LogOut
+22:31:12.92-[Information]-UiManager: Startup:
+22:31:13.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:31:20.47-[Information]-UserManager: LogOut
+22:31:21.52-[Information]-UserManager: LogOut
+22:31:22.06-[Information]-UserManager: LogOut
+22:32:17.97-[Information]-UiManager: Startup:
+22:32:18.27-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:32:45.09-[Information]-UserManager: LogOut
+22:33:39.41-[Information]-UiManager: Startup:
+22:33:39.74-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:34:04.22-[Information]-UiManager: Startup:
+22:34:04.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:34:37.82-[Information]-UiManager: Startup:
+22:34:38.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:35:41.94-[Information]-UiManager: Startup:
+22:35:42.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:36:20.64-[Information]-UiManager: Startup:
+22:36:20.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:37:32.43-[Information]-UiManager: Startup:
+22:37:32.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:38:17.14-[Information]-UiManager: Startup:
+22:38:17.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:40:13.86-[Information]-UiManager: Startup:
+22:40:14.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:40:26.00-[Information]-UiManager: Startup:
+22:40:26.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:40:54.33-[Information]-UiManager: Startup:
+22:40:54.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:42:01.55-[Information]-UiManager: Startup:
+22:42:01.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:42:11.76-[Information]-UserManager: LogOut
+22:43:59.72-[Information]-UiManager: Startup:
+22:44:00.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:44:36.78-[Information]-UiManager: Startup:
+22:44:37.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:45:33.62-[Information]-UiManager: Startup:
+22:45:33.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:45:58.71-[Information]-UserManager: LogOut
+22:46:46.53-[Information]-UiManager: Startup:
+22:46:46.81-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:47:08.10-[Information]-UserManager: LogOut
+22:47:08.75-[Information]-UserManager: LogOut
+22:47:30.35-[Information]-UiManager: Startup:
+22:47:30.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:48:01.35-[Information]-UiManager: Startup:
+22:48:01.65-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:48:08.50-[Information]-UserManager: LogOut
+22:48:09.17-[Information]-UserManager: LogOut
+22:48:09.59-[Information]-UserManager: LogOut
+22:49:37.87-[Information]-UiManager: Startup:
+22:49:38.16-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:50:22.29-[Information]-UiManager: Startup:
+22:50:22.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:50:43.85-[Information]-UserManager: LogOn: Manager/login
+22:50:43.85-[Information]-UserManager: LogOn: Manager/login
+22:50:47.12-[Information]-UserManager: LogOn: Manager/itm
+22:50:47.12-[Information]-UserManager: LogOn: Manager/itm
+22:51:25.65-[Information]-UiManager: Startup:
+22:51:26.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:53:53.08-[Information]-UiManager: Startup:
+22:53:53.38-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:54:47.98-[Information]-UiManager: Startup:
+22:54:48.29-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:56:06.29-[Information]-UiManager: Startup:
+22:56:06.61-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:56:57.93-[Information]-UiManager: Startup:
+22:56:58.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:57:08.34-[Information]-UiManager: Startup:
+22:57:08.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:58:38.70-[Information]-UiManager: Startup:
+22:58:39.02-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:59:07.94-[Information]-UiManager: Startup:
+22:59:08.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+22:59:38.74-[Information]-UiManager: Startup:
+22:59:39.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:00:10.70-[Information]-UiManager: Startup:
+23:00:11.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:00:54.07-[Information]-UiManager: Startup:
+23:00:54.40-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:02:28.65-[Information]-UiManager: Startup:
+23:02:29.00-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:02:55.37-[Information]-UiManager: Startup:
+23:02:55.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:03:56.87-[Information]-UiManager: Startup:
+23:03:57.15-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:04:05.34-[Information]-UserManager: LogOn: Manager/itm
+23:04:05.34-[Information]-UserManager: LogOn: Manager/itm
+23:04:11.24-[Information]-UserManager: LogOn: AutoTeams/itm
+23:04:11.24-[Information]-UserManager: LogOn: AutoTeams/itm
+23:05:39.65-[Information]-UiManager: Startup:
+23:05:39.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:06:08.82-[Information]-UiManager: Startup:
+23:06:09.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:06:36.08-[Information]-UiManager: Startup:
+23:06:36.41-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:07:10.12-[Information]-UiManager: Startup:
+23:07:10.45-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:08:23.35-[Information]-UiManager: Startup:
+23:08:23.63-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:09:43.85-[Information]-UiManager: Startup:
+23:09:44.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:11:59.34-[Information]-UiManager: Startup:
+23:11:59.66-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:12:37.12-[Information]-UiManager: Startup:
+23:12:37.40-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:13:25.70-[Information]-UiManager: Startup:
+23:13:26.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:13:53.55-[Information]-UiManager: Startup:
+23:13:53.89-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:14:20.80-[Information]-UiManager: Startup:
+23:14:21.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:14:51.85-[Information]-UiManager: Startup:
+23:14:52.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:16:47.95-[Information]-UiManager: Startup:
+23:16:48.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:19:43.19-[Information]-UiManager: Startup:
+23:19:43.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:19:45.02-[Information]-PgMain: addLog:Already Running!
+23:19:46.16-[Information]-PgMain: addLog:Already Stopped !
+23:19:46.77-[Information]-PgMain: addLog:Already Running!
+23:20:16.86-[Information]-UiManager: Startup:
+23:20:17.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:20:19.73-[Information]-PgMain: addLog:Already Running!
+23:20:20.23-[Information]-PgMain: addLog:Already Stopped !
+23:20:21.16-[Information]-PgMain: addLog:Already Running!
+23:20:21.98-[Information]-PgMain: addLog:Already Stopped !
+23:20:22.42-[Information]-PgMain: addLog:Already Reset !
+23:20:22.88-[Information]-PgMain: addLog:Already Running!
+23:20:23.26-[Information]-PgMain: addLog:Already Stopped !
+23:20:23.69-[Information]-PgMain: addLog:Already Reset !
+23:20:26.00-[Information]-PgMain: addLog:Already Stopped !
+23:20:26.36-[Information]-PgMain: addLog:Already Running!
+23:20:38.50-[Information]-UserManager: LogOn: Manager/itm
+23:20:38.50-[Information]-UserManager: LogOn: Manager/itm
+23:25:36.65-[Information]-UiManager: Startup:
+23:25:36.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:26:41.82-[Information]-UiManager: Startup:
+23:26:42.14-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:27:06.24-[Information]-UiManager: Startup:
+23:27:06.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:27:14.12-[Information]-UserManager: LogOn: Manager/itm
+23:27:14.12-[Information]-UserManager: LogOn: Manager/itm
+23:28:08.03-[Information]-PgMain: addLog:Already Running!
+23:28:08.46-[Information]-PgMain: addLog:Already Stopped !
+23:28:09.64-[Information]-PgMain: addLog:Already Reset !
+23:29:34.87-[Information]-UiManager: Startup:
+23:29:35.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:29:36.83-[Information]-PgMain: addLog:Already Home !
+23:29:37.86-[Information]-PgMain: addLog:Already Running!
+23:29:38.33-[Information]-PgMain: addLog:Already Stopped !
+23:29:38.75-[Information]-PgMain: addLog:Already Reset !
+23:32:58.97-[Information]-UiManager: Startup:
+23:32:59.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:33:59.48-[Information]-UiManager: Startup:
+23:33:59.79-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:34:23.51-[Information]-UserManager: LogOn: Manager/itm
+23:34:23.51-[Information]-UserManager: LogOn: Manager/itm
+23:34:33.86-[Information]-UserManager: LogOn: AutoTeams/itm
+23:34:33.86-[Information]-UserManager: LogOn: AutoTeams/itm
+23:36:05.83-[Information]-UiManager: Startup:
+23:36:06.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:37:54.98-[Information]-UiManager: Startup:
+23:37:55.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:38:52.50-[Information]-UiManager: Startup:
+23:38:52.82-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:39:04.07-[Information]-UiManager: Startup:
+23:39:04.37-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:40:08.65-[Information]-UiManager: Startup:
+23:40:08.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:40:37.45-[Information]-UiManager: Startup:
+23:40:37.72-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:41:21.47-[Information]-UiManager: Startup:
+23:41:21.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:41:42.30-[Information]-UiManager: Startup:
+23:41:42.65-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:42:16.83-[Information]-UiManager: Startup:
+23:42:17.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:42:41.25-[Information]-UiManager: Startup:
+23:42:41.53-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:42:56.24-[Information]-UiManager: Startup:
+23:42:56.54-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:47:53.15-[Information]-UiManager: Startup:
+23:47:53.44-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:49:52.43-[Information]-UiManager: Startup:
+23:49:52.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:53:10.69-[Information]-UiManager: Startup:
+23:53:10.98-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:56:12.21-[Information]-UiManager: Startup:
+23:56:12.54-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:57:09.87-[Information]-UiManager: Startup:
+23:57:10.16-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:57:38.82-[Information]-UiManager: Startup:
+23:57:39.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+23:59:46.66-[Information]-UiManager: Startup:
+23:59:46.96-[Information]-Dba:  ->  Database File SQLite Already Existed!

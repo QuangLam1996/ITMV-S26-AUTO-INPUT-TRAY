@@ -1,0 +1,418 @@
+
+13:12:30.47-[Information]-UiManager: Startup:
+13:12:31.12-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:12:34.67-[Information]-PgMain: addLog:Already Home !
+13:12:35.13-[Information]-PgMain: addLog:Already Pause !
+13:12:36.34-[Information]-PgMain: addLog:Already Running!
+13:12:36.92-[Information]-PgMain: addLog:Already Reset !
+13:12:37.67-[Information]-PgMain: addLog:Already Stopped !
+13:12:38.73-[Information]-PgMain: addLog:Already Home !
+13:12:39.03-[Information]-PgMain: addLog:Already Pause !
+13:12:39.31-[Information]-PgMain: addLog:Already Reset !
+13:12:39.83-[Information]-PgMain: addLog:Already Running!
+13:12:41.65-[Information]-PgMain: addLog:Already Stopped !
+13:12:42.57-[Information]-PgMain: addLog:Already Home !
+13:12:42.96-[Information]-PgMain: addLog:Already Pause !
+13:12:43.30-[Information]-PgMain: addLog:Already Reset !
+13:12:43.87-[Information]-PgMain: addLog:Already Running!
+13:12:49.05-[Information]-PgMain: addLog:Already Stopped !
+13:12:50.29-[Information]-PgMain: addLog:Already Pause !
+13:12:50.89-[Information]-PgMain: addLog:Already Reset !
+13:12:51.22-[Information]-PgMain: addLog:Already Home !
+13:15:35.74-[Information]-UiManager: Startup:
+13:15:36.52-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:16:28.66-[Information]-UiManager: Startup:
+13:16:29.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:17:09.20-[Information]-UiManager: Startup:
+13:17:09.96-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:17:46.75-[Information]-UiManager: Startup:
+13:17:47.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:17:59.82-[Information]-UiManager: Startup:
+13:18:00.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:18:21.07-[Information]-UiManager: Startup:
+13:18:42.54-[Information]-UiManager: Startup:
+13:19:09.68-[Information]-UiManager: Startup:
+13:19:10.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:19:31.10-[Information]-UiManager: Startup:
+13:19:31.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:19:44.69-[Information]-UiManager: Startup:
+13:19:45.45-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:20:00.95-[Information]-UiManager: Startup:
+13:20:02.11-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:21:33.34-[Information]-UiManager: Startup:
+13:21:33.99-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:22:48.94-[Information]-UiManager: Startup:
+13:22:49.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:23:10.32-[Information]-UiManager: Startup:
+13:23:11.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:23:48.85-[Information]-UiManager: Startup:
+13:23:49.80-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:24:14.71-[Information]-UserManager: LogOn: AutoTeams/itm
+13:27:09.37-[Information]-UiManager: Startup:
+13:27:09.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:27:16.75-[Information]-UserManager: LogOn: Manager/itm
+13:31:04.30-[Information]-UiManager: Startup:
+13:31:04.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:31:12.30-[Information]-UserManager: LogOn: Manager/itm
+13:33:57.67-[Information]-UiManager: Startup:
+13:33:58.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:34:18.08-[Information]-UiManager: Startup:
+13:34:18.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:34:24.57-[Information]-UserManager: LogOn: Manager/itm
+13:35:04.67-[Information]-UiManager: Startup:
+13:35:05.26-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:48:10.15-[Information]-UiManager: Startup:
+13:48:10.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:46:54.08-[Information]-UiManager: Startup:
+14:46:54.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:48:40.11-[Information]-UiManager: Startup:
+14:48:40.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:49:28.19-[Information]-UiManager: Startup:
+14:49:28.91-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:49:42.21-[Information]-UserManager: LogOn: AutoTeams/itm
+14:54:51.32-[Information]-UiManager: Startup:
+14:54:52.04-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:54:57.62-[Information]-UserManager: LogOn: AutoTeams/itm
+15:00:59.99-[Information]-UiManager: Startup:
+15:01:00.98-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:01:08.77-[Information]-UserManager: LogOn: AutoTeams/itm
+15:02:07.49-[Information]-UiManager: Startup:
+15:02:08.23-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:03:42.84-[Information]-UiManager: Startup:
+15:03:43.58-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:03:52.35-[Information]-UserManager: LogOn: AutoTeams/itm
+15:05:09.57-[Information]-UiManager: Startup:
+15:05:11.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:05:17.67-[Information]-UserManager: LogOn: AutoTeams/itm
+15:07:10.76-[Information]-UiManager: Startup:
+15:07:12.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:07:18.74-[Information]-UserManager: LogOn: AutoTeams/itm
+15:15:42.14-[Information]-UiManager: Startup:
+15:15:43.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:15:50.42-[Information]-UserManager: LogOn: AutoTeams/itm
+15:17:09.20-[Information]-UiManager: Startup:
+15:17:10.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:17:17.15-[Information]-UserManager: LogOn: AutoTeams/itm
+15:18:09.81-[Information]-UiManager: Startup:
+15:18:11.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:18:17.55-[Information]-UserManager: LogOn: AutoTeams/itm
+15:18:53.73-[Information]-UiManager: Startup:
+15:18:55.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:19:02.74-[Information]-UserManager: LogOn: AutoTeams/itm
+15:19:48.95-[Information]-UiManager: Startup:
+15:19:50.55-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:19:57.46-[Information]-UserManager: LogOn: AutoTeams/itm
+15:23:40.79-[Information]-UiManager: Startup:
+15:23:42.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:23:48.36-[Information]-UserManager: LogOn: AutoTeams/itm
+15:25:35.85-[Information]-UiManager: Startup:
+15:25:37.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:25:44.05-[Information]-UserManager: LogOn: AutoTeams/itm
+15:29:00.98-[Information]-UiManager: Startup:
+15:29:02.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:29:40.97-[Information]-UiManager: Startup:
+15:29:42.71-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:29:58.72-[Information]-UserManager: LogOn: AutoTeams/itm
+15:31:49.21-[Information]-UiManager: Startup:
+15:31:49.96-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:31:56.40-[Information]-UserManager: LogOn: AutoTeams/itm
+15:32:08.59-[Information]-UserManager: LogOut
+15:37:55.51-[Information]-UiManager: Startup:
+15:37:56.07-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:38:41.74-[Information]-UiManager: Startup:
+15:38:42.32-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:39:15.27-[Information]-UiManager: Startup:
+15:39:15.90-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:39:21.60-[Information]-PgMain: addLog:Already Home !
+15:39:23.79-[Information]-PgMain: addLog:Already Pause !
+15:39:25.77-[Information]-PgMain: addLog:Already Reset !
+15:39:27.16-[Information]-PgMain: addLog:Already Running!
+15:46:49.27-[Information]-UiManager: Startup:
+15:46:49.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:46:54.79-[Information]-PgMain: addLog:Already Home !
+15:46:57.40-[Information]-PgMain: addLog:Already Running!
+15:46:58.91-[Information]-PgMain: addLog:Already Pause !
+15:47:01.13-[Information]-PgMain: addLog:Already Reset !
+15:47:05.16-[Information]-PgMain: addLog:Already Stopped !
+15:55:22.28-[Information]-UiManager: Startup:
+15:55:22.81-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:55:25.40-[Information]-PgMain: addLog:Already Home !
+15:55:26.96-[Information]-PgMain: addLog:Already Running!
+15:55:28.25-[Information]-PgMain: addLog:Already Pause !
+15:55:32.48-[Information]-PgMain: addLog:Already Reset !
+15:55:34.93-[Information]-PgMain: addLog:Already Home !
+15:55:36.73-[Information]-PgMain: addLog:Already Stopped !
+15:55:38.21-[Information]-PgMain: addLog:Already Running!
+15:55:42.41-[Information]-PgMain: addLog:Already Pause !
+15:57:34.50-[Information]-UiManager: Startup:
+15:57:35.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:57:37.26-[Information]-PgMain: addLog:Already Home !
+15:58:15.29-[Information]-UiManager: Startup:
+15:58:16.07-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:58:18.24-[Information]-PgMain: addLog:Already Home !
+15:58:20.38-[Information]-PgMain: addLog:Already Running!
+15:58:21.70-[Information]-PgMain: addLog:Already Pause !
+15:58:33.71-[Information]-PgMain: addLog:Already Reset !
+15:58:35.13-[Information]-PgMain: addLog:Already Running!
+15:58:36.90-[Information]-PgMain: addLog:Already Stopped !
+15:58:38.14-[Information]-PgMain: addLog:Already Home !
+15:59:48.66-[Information]-UiManager: Startup:
+15:59:49.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:59:51.45-[Information]-PgMain: addLog:Already Home !
+15:59:53.67-[Information]-PgMain: addLog:Already Pause !
+15:59:54.90-[Information]-PgMain: addLog:Already Running!
+15:59:55.92-[Information]-PgMain: addLog:Already Stopped !
+16:00:48.06-[Information]-UiManager: Startup:
+16:00:48.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:00:50.76-[Information]-PgMain: addLog:Already Home !
+16:00:52.06-[Information]-PgMain: addLog:Already Pause !
+16:00:53.01-[Information]-PgMain: addLog:Already Running!
+16:00:54.40-[Information]-PgMain: addLog:Already Stopped !
+16:00:56.92-[Information]-PgMain: addLog:Already Home !
+16:00:58.44-[Information]-PgMain: addLog:Already Stopped !
+16:02:04.25-[Information]-UiManager: Startup:
+16:02:04.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:02:06.48-[Information]-PgMain: addLog:Already Home !
+16:02:07.90-[Information]-PgMain: addLog:Already Pause !
+16:02:09.00-[Information]-PgMain: addLog:Already Running!
+16:02:10.32-[Information]-PgMain: addLog:Already Reset !
+16:02:11.23-[Information]-PgMain: addLog:Already Home !
+16:02:12.24-[Information]-PgMain: addLog:Already Stopped !
+16:02:13.42-[Information]-PgMain: addLog:Already Home !
+16:02:14.67-[Information]-PgMain: addLog:Already Pause !
+16:02:15.72-[Information]-PgMain: addLog:Already Running!
+16:02:17.23-[Information]-PgMain: addLog:Already Pause !
+16:02:18.56-[Information]-PgMain: addLog:Already Home !
+16:02:19.79-[Information]-PgMain: addLog:Already Reset !
+16:02:37.28-[Information]-UiManager: Startup:
+16:02:38.09-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:02:39.58-[Information]-PgMain: addLog:Already Home !
+16:02:41.23-[Information]-PgMain: addLog:Already Running!
+16:02:41.93-[Information]-PgMain: addLog:Already Pause !
+16:02:43.49-[Information]-PgMain: addLog:Already Reset !
+16:04:59.72-[Information]-UiManager: Startup:
+16:05:00.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:05:02.75-[Information]-PgMain: addLog:Already Home !
+16:06:25.07-[Information]-UiManager: Startup:
+16:06:25.40-[Error]-UiManager: Startup error:Input string was not in a correct format.
+16:06:26.58-[Information]-PgMain: addLog:Already Home !
+16:06:30.49-[Information]-PgMain: addLog:Already Running!
+16:06:31.26-[Information]-PgMain: addLog:Already Pause !
+16:06:33.01-[Information]-PgMain: addLog:Already Reset !
+16:06:34.87-[Information]-PgMain: addLog:Already Stopped !
+16:06:36.09-[Information]-PgMain: addLog:Already Home !
+16:06:37.71-[Information]-PgMain: addLog:Already Pause !
+16:06:40.64-[Information]-PgMain: addLog:Already Running!
+16:06:42.36-[Information]-PgMain: addLog:Already Reset !
+16:07:36.18-[Information]-UiManager: Startup:
+16:07:36.54-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:07:38.84-[Information]-PgMain: addLog:Already Pause !
+16:07:39.23-[Information]-PgMain: addLog:Already Running!
+16:07:40.09-[Information]-PgMain: addLog:Already Reset !
+16:07:40.73-[Information]-PgMain: addLog:Already Home !
+16:07:44.76-[Information]-PgMain: addLog:Already Stopped !
+16:07:45.44-[Information]-PgMain: addLog:Already Home !
+16:08:09.56-[Information]-UiManager: Startup:
+16:08:09.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:08:11.40-[Information]-PgMain: addLog:Already Home !
+16:08:13.81-[Information]-PgMain: addLog:Already Pause !
+16:08:41.04-[Information]-UiManager: Startup:
+16:08:41.42-[Error]-UiManager: Startup error:Input string was not in a correct format.
+16:08:42.48-[Information]-PgMain: addLog:Already Home !
+16:10:28.55-[Information]-UiManager: Startup:
+16:10:28.85-[Error]-UiManager: Startup error:Input string was not in a correct format.
+16:10:30.46-[Information]-PgMain: addLog:Already Home !
+16:16:08.16-[Information]-UiManager: Startup:
+16:16:08.97-[Error]-UiManager: Startup error:Input string was not in a correct format.
+16:16:10.79-[Information]-PgMain: addLog:Already Home !
+16:16:11.06-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:12.61-[Information]-PgMain: addLog:Already Pause !
+16:16:12.81-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:13.01-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:13.82-[Information]-PgMain: addLog:Already Running!
+16:16:14.02-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:14.23-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:14.43-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:16.71-[Information]-PgMain: addLog:Already Reset !
+16:16:16.91-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:17.10-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:17.31-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:17.51-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:18.24-[Information]-PgMain: addLog:Already Home !
+16:16:24.58-[Information]-PgMain: addLog:Already Running!
+16:16:29.45-[Information]-PgMain: addLog:Already Stopped !
+16:16:29.64-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:29.84-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:30.05-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:30.25-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:30.44-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:34.35-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:35.25-[Information]-PgMain: addLog:Already Pause !
+16:16:35.44-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:37.16-[Information]-PgMain: addLog:Already Stopped !
+16:16:37.36-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:37.55-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:38.19-[Information]-PgMain: addLog:Already Reset !
+16:16:38.51-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:39.69-[Information]-PgMain: addLog:Already Stopped !
+16:16:39.90-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:40.10-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:40.67-[Information]-PgMain: addLog:Already Running!
+16:16:40.89-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:42.57-[Information]-PgMain: addLog:Already Stopped !
+16:16:42.77-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:42.96-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:43.59-[Information]-PgMain: addLog:Already Running!
+16:16:43.80-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:45.53-[Information]-PgMain: addLog:Already Stopped !
+16:16:45.72-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:45.91-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:46.71-[Information]-PgMain: addLog:Already Home !
+16:16:47.03-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:50.33-[Information]-PgMain: addLog:Already Running!
+16:16:50.53-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:16:50.73-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:18:48.50-[Information]-UiManager: Startup:
+16:18:48.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:18:49.84-[Information]-PgMain: addLog:Already Running!
+16:18:49.84-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:18:51.16-[Information]-PgMain: addLog:Already Home !
+16:18:51.16-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:18:51.16-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:00.80-[Information]-UiManager: Startup:
+16:21:01.56-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:21:03.46-[Information]-PgMain: addLog:Already Home !
+16:21:03.68-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:05.44-[Information]-PgMain: addLog:Already Pause !
+16:21:05.64-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:05.84-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:06.85-[Information]-PgMain: addLog:Already Running!
+16:21:07.07-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:07.27-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:07.47-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:09.13-[Information]-PgMain: addLog:Already Home !
+16:21:12.11-[Information]-PgMain: addLog:Already Stopped !
+16:21:12.30-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:12.49-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:12.70-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:12.89-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:13.44-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:13.82-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:14.39-[Information]-PgMain: addLog:Already Home !
+16:21:14.57-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:17.74-[Information]-PgMain: addLog:Already Stopped !
+16:21:17.93-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:18.13-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:19.01-[Information]-PgMain: addLog:Already Running!
+16:21:19.20-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:20.46-[Information]-PgMain: addLog:Already Stopped !
+16:21:20.66-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:20.86-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:21.67-[Information]-PgMain: addLog:Already Pause !
+16:21:22.01-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:23.57-[Information]-PgMain: addLog:Already Stopped !
+16:21:23.76-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:23.97-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:25.12-[Information]-PgMain: addLog:Already Reset !
+16:21:25.32-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:27.77-[Information]-PgMain: addLog:Already Home !
+16:21:27.97-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:28.17-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:50.52-[Information]-UiManager: Startup:
+16:21:51.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:21:53.08-[Information]-PgMain: addLog:Already Home !
+16:21:53.29-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:55.00-[Information]-PgMain: addLog:Already Pause !
+16:21:55.20-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:55.40-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:56.75-[Information]-PgMain: addLog:Already Running!
+16:21:56.93-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:57.14-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:21:57.33-[Error]-PgMain: DisplayAlarm PgMain: Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:22:35.16-[Information]-UiManager: Startup:
+16:22:35.92-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:22:37.45-[Information]-PgMain: addLog:Already Home !
+16:22:38.69-[Information]-PgMain: addLog:Already Pause !
+16:22:39.90-[Information]-PgMain: addLog:Already Running!
+16:22:41.28-[Information]-PgMain: addLog:Already Reset !
+16:45:50.68-[Information]-UiManager: Startup:
+16:45:51.81-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:45:58.39-[Information]-PgMain: addLog:Already Home !
+16:46:00.52-[Information]-PgMain: addLog:Already Running!
+16:46:02.64-[Information]-PgMain: addLog:Already Reset !
+16:48:54.16-[Information]-UiManager: Startup:
+16:48:54.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:48:56.06-[Information]-PgMain: addLog:Already Home !
+16:48:56.40-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.TextBlock' to type 'System.Windows.Controls.Label'.
+16:49:48.06-[Information]-UiManager: Startup:
+16:49:48.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:49:50.35-[Information]-PgMain: addLog:Already Home !
+16:50:08.92-[Information]-UiManager: Startup:
+16:50:09.75-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:50:11.96-[Information]-PgMain: addLog:Already Home !
+16:51:36.65-[Information]-UiManager: Startup:
+16:51:37.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:51:38.47-[Information]-PgMain: addLog:Already Home !
+16:52:18.24-[Information]-UiManager: Startup:
+16:52:19.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:52:20.20-[Information]-PgMain: addLog:Already Home !
+16:52:22.13-[Information]-PgMain: addLog:Already Pause !
+16:52:22.38-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:24.24-[Information]-PgMain: addLog:Already Reset !
+16:52:24.47-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:24.69-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:27.68-[Information]-PgMain: addLog:Already Pause !
+16:52:27.90-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:28.12-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:30.47-[Information]-PgMain: addLog:Already Reset !
+16:52:30.68-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:30.89-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:34.03-[Information]-PgMain: addLog:Already Home !
+16:52:34.26-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:34.50-[Error]-WndAlert: DisplayAlarm : Unable to cast object of type 'System.Windows.Controls.Label' to type 'System.Windows.Controls.TextBlock'.
+16:52:35.72-[Information]-PgMain: addLog:Already Stopped !
+16:52:36.21-[Information]-PgMain: addLog:Already Home !
+16:54:51.30-[Information]-UiManager: Startup:
+16:54:52.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:54:53.46-[Information]-PgMain: addLog:Already Home !
+16:54:54.64-[Information]-PgMain: addLog:Already Reset !
+16:54:55.42-[Information]-PgMain: addLog:Already Pause !
+16:54:56.47-[Information]-PgMain: addLog:Already Running!
+17:00:40.23-[Information]-UiManager: Startup:
+17:00:40.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:00:43.04-[Information]-PgMain: addLog:Already Home !
+17:00:44.79-[Information]-PgMain: addLog:Already Running!
+17:00:45.99-[Information]-PgMain: addLog:Already Pause !
+17:00:47.53-[Information]-PgMain: addLog:Already Home !
+17:00:48.67-[Information]-PgMain: addLog:Already Reset !
+17:00:51.04-[Information]-PgMain: addLog:Already Stopped !
+17:00:52.18-[Information]-PgMain: addLog:Already Home !
+17:01:13.64-[Information]-UiManager: Startup:
+17:01:14.47-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:01:15.84-[Information]-PgMain: addLog:Already Home !
+17:01:16.67-[Information]-PgMain: addLog:Already Pause !
+17:01:19.41-[Information]-PgMain: addLog:Already Running!
+17:01:56.34-[Information]-UiManager: Startup:
+17:01:57.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:01:58.49-[Information]-PgMain: addLog:Already Home !
+17:01:59.79-[Information]-PgMain: addLog:Already Pause !
+17:02:00.54-[Information]-PgMain: addLog:Already Reset !
+17:02:01.61-[Information]-PgMain: addLog:Already Running!
+17:02:35.48-[Information]-UiManager: Startup:
+17:02:36.21-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:02:37.46-[Information]-PgMain: addLog:Already Home !
+17:02:40.04-[Information]-PgMain: addLog:Already Running!
+17:02:41.29-[Information]-PgMain: addLog:Already Pause !
+17:02:43.59-[Information]-PgMain: addLog:Already Home !
+17:02:45.60-[Information]-PgMain: addLog:Already Reset !
+17:03:30.92-[Information]-UiManager: Startup:
+17:03:31.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+17:03:32.88-[Information]-PgMain: addLog:Already Home !
+17:03:33.47-[Information]-PgMain: addLog:Already Reset !
+17:03:34.07-[Information]-PgMain: addLog:Already Pause !
+17:03:35.13-[Information]-PgMain: addLog:Already Running!
+17:03:35.69-[Information]-PgMain: addLog:Already Stopped !
+17:03:36.11-[Information]-PgMain: addLog:Already Home !
+17:03:37.56-[Information]-PgMain: addLog:Already Pause !
+17:03:37.91-[Information]-PgMain: addLog:Already Reset !
+17:04:00.05-[Information]-PgMain: addLog:Already Home !

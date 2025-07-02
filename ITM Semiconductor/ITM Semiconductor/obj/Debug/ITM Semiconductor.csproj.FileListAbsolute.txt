@@ -1,0 +1,1050 @@
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CopyComplete
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndChangePass.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndComSettings.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndLogin.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndChangePass.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndComSettings.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndLogin.baml
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CopyComplete
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\VM32316681\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\VM32316681\Desktop\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+D:\ITM SEMICONDUCTOR\Tai Lieu WPF\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\1\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Mitsubishi.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm3.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm4.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm5.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm2.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\UCAlarm1.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CopyComplete
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\Hiep\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.baml
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+C:\Users\hiep1\Desktop\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.EF6.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.Linq.dll
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.pdb
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.pdb
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ImageStyle.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\ButtonStyle.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\TextBlockStyle.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\MainWindow.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\GeneratedInternalTypeHelper.g.cs
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.cache
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor_MarkupCompile.lref
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\App.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation1.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation2.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation3.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu1.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu2.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu3.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO1.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu4.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu5.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu1.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu2.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Assign Menu\PgAssignMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Manual Operation\PgManualOperation.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Mechanical Menu\PgMechanicalMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Model\PgModel.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Status Menu\PgStatusMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Super User Menu\PgSuperUserMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg System Menu\PgSystemMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\Pg Teaching Menu\PgTeachingMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgAlarm.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgIO.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMain.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Folder\PageUI\PgMenu.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlarm.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\WndAlarm\WndAlert.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndChangePass.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndComSettings.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLogin.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndPLCComSetting.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndConfirm.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\Dialog\WndLotIn.baml
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.g.resources
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
+D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb

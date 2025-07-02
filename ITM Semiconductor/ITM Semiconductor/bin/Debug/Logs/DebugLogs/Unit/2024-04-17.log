@@ -1,0 +1,5 @@
+
+16:54:22.29-[Information]-UiManager: Startup:
+16:54:23.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:54:25.44-[Information]-PgMain: addLog:Already Home !
+16:54:32.69-[Information]-PgMain: addLog:Already Running!

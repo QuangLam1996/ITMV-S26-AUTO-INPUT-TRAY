@@ -1,0 +1,202 @@
+
+10:10:24.46-[Information]-UiManager: Startup:
+10:10:25.76-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:10:31.08-[Information]-UserManager: LogOn: AutoTeams/itm
+10:10:44.70-[Information]-UiManager: Startup:
+10:10:46.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:10:50.20-[Information]-UserManager: LogOn: Operator/itm
+10:10:55.46-[Information]-UserManager: LogOn: AutoTeams/itm
+10:11:41.02-[Information]-UiManager: Startup:
+10:11:41.65-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:11:47.69-[Information]-UserManager: LogOn: AutoTeams/itm
+10:13:55.02-[Information]-UiManager: Startup:
+10:13:55.70-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:14:00.05-[Information]-UserManager: LogOn: AutoTeams/itm
+10:19:05.40-[Information]-UiManager: Startup:
+10:19:06.02-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:19:10.52-[Information]-UserManager: LogOn: AutoTeams/itm
+10:21:50.97-[Information]-UiManager: Startup:
+10:21:51.50-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:21:55.43-[Information]-UserManager: LogOn: AutoTeams/itm
+10:22:15.27-[Information]-UiManager: Startup:
+10:22:15.89-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:22:20.01-[Information]-UserManager: LogOn: AutoTeams/itm
+10:22:33.71-[Information]-UiManager: Startup:
+10:22:34.30-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:22:38.51-[Information]-UserManager: LogOn: AutoTeams/itm
+10:22:54.39-[Information]-UiManager: Startup:
+10:22:55.13-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:22:59.98-[Information]-UserManager: LogOn: AutoTeams/itm
+10:31:27.36-[Information]-UiManager: Startup:
+10:31:27.89-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:31:32.05-[Information]-UserManager: LogOn: AutoTeams/itm
+10:31:46.99-[Information]-UiManager: Startup:
+10:31:47.57-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:31:51.80-[Information]-UserManager: LogOn: AutoTeams/itm
+10:40:21.01-[Information]-UiManager: Startup:
+10:40:21.75-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:40:25.85-[Information]-UserManager: LogOn: AutoTeams/itm
+10:40:28.36-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:40:31.11-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:40:34.83-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:44:12.74-[Information]-UiManager: Startup:
+10:44:13.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:44:17.78-[Information]-UserManager: LogOn: AutoTeams/itm
+10:44:25.21-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:44:32.99-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:47:47.69-[Information]-UiManager: Startup:
+10:47:48.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:47:53.24-[Information]-UserManager: LogOn: AutoTeams/itm
+10:48:14.96-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+10:49:08.26-[Information]-UiManager: Startup:
+10:49:08.95-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:49:14.83-[Information]-UserManager: LogOn: AutoTeams/itm
+10:49:36.43-[Information]-UiManager: Startup:
+10:49:37.04-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:49:41.22-[Information]-UserManager: LogOn: AutoTeams/itm
+10:49:56.56-[Information]-UiManager: Startup:
+10:49:57.22-[Information]-Dba:  ->  Database File SQLite Already Existed!
+10:50:01.91-[Information]-UserManager: LogOn: AutoTeams/itm
+11:10:50.31-[Information]-UiManager: Startup:
+11:10:50.81-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:10:55.19-[Information]-UserManager: LogOn: AutoTeams/itm
+11:10:57.98-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+11:11:06.23-[Error]-ScannerComm: Start error:The port 'COM7' does not exist.
+11:16:38.70-[Information]-UiManager: Startup:
+11:16:39.35-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:16:43.59-[Information]-UserManager: LogOn: AutoTeams/itm
+11:20:57.28-[Information]-UiManager: Startup:
+11:20:57.88-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:21:01.81-[Information]-UserManager: LogOn: AutoTeams/itm
+11:21:44.81-[Information]-UiManager: Startup:
+11:21:45.46-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:21:49.26-[Information]-UserManager: LogOn: AutoTeams/itm
+11:22:44.55-[Information]-UiManager: Startup:
+11:22:45.06-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:22:48.75-[Information]-UserManager: LogOn: AutoTeams/itm
+11:25:52.07-[Information]-UiManager: Startup:
+11:25:52.64-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:25:57.12-[Information]-UserManager: LogOn: AutoTeams/itm
+11:26:56.24-[Information]-UiManager: Startup:
+11:26:57.01-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:27:01.79-[Information]-UserManager: LogOn: AutoTeams/itm
+11:30:43.72-[Information]-UiManager: Startup:
+11:30:44.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:30:49.08-[Information]-UserManager: LogOn: AutoTeams/itm
+11:33:44.68-[Information]-UiManager: Startup:
+11:33:45.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:33:49.90-[Information]-UserManager: LogOn: AutoTeams/itm
+11:44:36.23-[Information]-UiManager: Startup:
+11:44:36.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:44:41.14-[Information]-UserManager: LogOn: AutoTeams/itm
+11:53:54.48-[Information]-UiManager: Startup:
+11:53:55.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:54:28.62-[Information]-UiManager: Startup:
+11:54:29.10-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:54:33.53-[Information]-UserManager: LogOn: AutoTeams/itm
+11:55:39.48-[Information]-UiManager: Startup:
+11:55:39.99-[Information]-Dba:  ->  Database File SQLite Already Existed!
+11:55:42.86-[Information]-UserManager: LogOn: AutoTeams/
+11:55:45.07-[Information]-UserManager: LogOn: AutoTeams/itm
+13:04:21.24-[Information]-UiManager: Startup:
+13:04:22.19-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:05:06.35-[Information]-UiManager: Startup:
+13:05:06.83-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:05:28.32-[Information]-UiManager: Startup:
+13:05:29.00-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:14:10.74-[Information]-UiManager: Startup:
+13:14:11.44-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:17:18.37-[Information]-UiManager: Startup:
+16:17:19.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:17:26.47-[Information]-UserManager: LogOn: AutoTeams/itm
+16:17:32.74-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+16:17:36.85-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+16:17:40.95-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+16:17:45.12-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+16:17:50.03-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+16:18:20.28-[Information]-UiManager: Startup:
+16:18:20.86-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:18:25.83-[Information]-UserManager: LogOn: AutoTeams/itm
+16:18:30.75-[Error]-ScannerComm: Start error:The port 'COM5' does not exist.
+18:12:06.24-[Information]-UiManager: Startup:
+18:12:08.09-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:29:12.90-[Information]-UiManager: Startup:
+18:29:14.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:29:18.76-[Information]-UserManager: LogOn: AutoTeams/itm
+18:29:58.01-[Information]-UiManager: Startup:
+18:29:59.09-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:30:04.14-[Information]-UserManager: LogOn: AutoTeams/itm
+18:30:12.70-[Error]-ScannerComm: Start error:Access to the port 'COM5' is denied.
+18:30:16.49-[Error]-ScannerComm: Start error:Access to the port 'COM5' is denied.
+18:30:29.34-[Error]-ScannerComm: Start error:Access to the port 'COM5' is denied.
+18:30:36.83-[Information]-UiManager: Startup:
+18:30:38.23-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:30:42.42-[Information]-UserManager: LogOn: AutoTeams/itm
+18:30:51.88-[Error]-ScannerComm: ScannerComm error:Enum value was out of legal range.
+Parameter name: StopBits
+18:31:01.59-[Information]-UiManager: Startup:
+18:31:02.73-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:31:07.35-[Information]-UserManager: LogOn: AutoTeams/itm
+18:35:03.13-[Information]-UiManager: Startup:
+18:35:03.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:35:12.74-[Information]-UserManager: LogOn: AutoTeams/ITM
+18:35:16.30-[Information]-UserManager: LogOn: AutoTeams/itm
+18:35:22.98-[Information]-ScannerComm: readCallback: port is closed -> stop reading!
+18:37:08.81-[Information]-UiManager: Startup:
+18:37:09.78-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:37:14.97-[Information]-UserManager: LogOn: AutoTeams/itm
+18:38:14.17-[Information]-UiManager: Startup:
+18:38:14.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:38:20.24-[Information]-UserManager: LogOn: AutoTeams/itm
+18:39:33.20-[Information]-UiManager: Startup:
+18:39:33.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:39:37.96-[Information]-UserManager: LogOn: AutoTeams/itm
+18:41:08.77-[Information]-UiManager: Startup:
+18:41:09.28-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:41:13.74-[Information]-UserManager: LogOn: AutoTeams/itm
+18:42:47.67-[Information]-UiManager: Startup:
+18:42:48.34-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:42:52.68-[Information]-UserManager: LogOn: AutoTeams/itm
+18:43:41.28-[Information]-UiManager: Startup:
+18:43:41.82-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:43:45.97-[Information]-UserManager: LogOn: AutoTeams/itm
+18:44:27.18-[Information]-UiManager: Startup:
+18:44:27.79-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:44:31.72-[Information]-UserManager: LogOn: AutoTeams/itm
+18:45:25.92-[Information]-UiManager: Startup:
+18:45:26.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:45:30.51-[Information]-UserManager: LogOn: AutoTeams/itm
+18:45:34.83-[Information]-ScannerComm: readCallback: port is closed -> stop reading!
+18:45:55.72-[Information]-UiManager: Startup:
+18:45:56.25-[Information]-Dba:  ->  Database File SQLite Already Existed!
+18:45:59.96-[Information]-UserManager: LogOn: AutoTeams/itm
+18:46:29.19-[Information]-ScannerComm: readCallback: port is closed -> stop reading!
+19:05:54.12-[Information]-UiManager: Startup:
+19:05:54.71-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:06:47.73-[Information]-UiManager: Startup:
+19:06:48.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:29.85-[Information]-UiManager: Startup:
+19:07:30.49-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:36.51-[Information]-UserManager: LogOn: AutoTeams/itm
+19:07:50.42-[Information]-ScannerComm: readCallback: port is closed -> stop reading!
+19:08:41.06-[Information]-UiManager: Startup:
+19:08:41.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:08:46.75-[Information]-UserManager: LogOn: AutoTeams/itm
+19:10:40.52-[Information]-UiManager: Startup:
+19:10:41.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:11:50.42-[Information]-UiManager: Startup:
+19:11:50.97-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:19:38.12-[Information]-UiManager: Startup:
+19:19:38.77-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:19:42.65-[Information]-UserManager: LogOn: AutoTeams/ITM
+19:19:47.76-[Information]-UserManager: LogOn: AutoTeams/itm
+19:19:52.86-[Information]-ScannerComm: readCallback: port is closed -> stop reading!
+19:21:04.29-[Information]-UiManager: Startup:
+19:21:05.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:21:06.16-[Information]-PgMain: addLog:Already Home !
+19:22:45.09-[Information]-UiManager: Startup:
+19:22:45.94-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:26:24.06-[Information]-UiManager: Startup:
+19:26:24.79-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:26:28.50-[Information]-UserManager: LogOn: AutoTeams/itm
+19:26:56.71-[Information]-ScannerComm: readCallback: port is closed -> stop reading!

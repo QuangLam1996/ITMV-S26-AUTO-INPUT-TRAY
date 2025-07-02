@@ -1,0 +1,37 @@
+
+09:52:47.77-[Information]-UiManager: Startup:
+09:52:48.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+09:52:53.88-[Information]-UserManager: LogOn: AutoTeams/itm
+13:22:16.98-[Information]-UiManager: Startup:
+13:22:17.60-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:45:04.87-[Information]-UiManager: Startup:
+13:45:06.20-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:45:11.56-[Information]-UserManager: LogOn: AutoTeams/itm
+16:44:57.90-[Information]-UiManager: Startup:
+16:44:59.02-[Information]-Dba:  ->  Database File SQLite Already Existed!
+16:45:01.78-[Information]-PgMain: addLog:Already Pause !
+16:45:06.68-[Information]-PgMain: addLog:Already Home !
+16:45:07.70-[Information]-PgMain: addLog:Already Pause !
+16:45:08.65-[Information]-PgMain: addLog:Already Reset !
+16:45:10.56-[Information]-PgMain: addLog:Already Running!
+16:45:17.90-[Information]-PgMain: addLog:Already Home !
+16:45:19.25-[Information]-PgMain: addLog:Already Pause !
+16:45:20.34-[Information]-PgMain: addLog:Already Reset !
+16:45:21.02-[Information]-PgMain: addLog:Already Stopped !
+16:45:21.72-[Information]-PgMain: addLog:Already Pause !
+19:01:10.01-[Information]-UiManager: Startup:
+19:01:10.62-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:01:15.72-[Information]-UserManager: LogOn: AutoTeams/itm
+19:01:53.43-[Information]-UiManager: Startup:
+19:01:54.05-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:01:58.94-[Information]-UserManager: LogOn: AutoTeams/itm
+19:04:40.07-[Information]-UiManager: Startup:
+19:04:40.69-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:04:45.38-[Information]-UserManager: LogOn: AutoTeams/itm
+19:07:18.41-[Information]-UiManager: Startup:
+19:07:19.03-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:07:23.76-[Information]-UserManager: LogOn: AutoTeams/itm
+19:08:42.03-[Information]-UiManager: Startup:
+19:08:42.68-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:08:47.27-[Information]-UserManager: LogOn: AutoTeams/ITM
+19:08:52.10-[Information]-UserManager: LogOn: AutoTeams/itm
