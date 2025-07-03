@@ -4,7 +4,7 @@
 library
 C#
 .cs
-D:\Edit20241220\ITM Semiconductor\ITM Semiconductor\KeyPad\obj\x86\Debug\
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\KeyPad\obj\x86\Debug\
 KeyPad
 none
 false
@@ -12,9 +12,9 @@ DEBUG;TRACE
 
 2616426034
 
-6394517496
+7990965972
 121053302329
 Keypad.xaml;VirtualKeyboard.xaml;
 
-False
+True
 

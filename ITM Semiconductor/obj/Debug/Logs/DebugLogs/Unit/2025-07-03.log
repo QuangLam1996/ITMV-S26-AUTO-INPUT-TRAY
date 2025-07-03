@@ -1,0 +1,20 @@
+
+13:43:18.77-[Information]-UiManager: Startup:
+13:43:18.79-[Information]-Dba:  -> Database File SQLite Not Existed -> Create New!
+13:43:18.79-[Information]-Dba: Create TableUserLog: 
+13:43:18.81-[Error]-Dba: Create TableUserLog Error: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:43:18.81-[Information]-Dba: createTableQr1Status:
+13:43:18.82-[Error]-Dba: Create TableQr1Status ex:Value cannot be null.
+Parameter name: path1
+13:43:18.82-[Information]-Dba: createTableEventLog:
+13:43:18.85-[Error]-Dba: createTableEventLog ex:Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:43:18.85-[Information]-Dba: createTableAlarmImageLog:
+13:43:18.85-[Error]-Dba: createTableAlarmLog ex:Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:43:18.85-[Information]-Dba: Create TableAlarmImage: 
+13:43:18.85-[Error]-Dba: Create TableUserLog Error: Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:43:18.86-[Error]-VisionAL: Have No Template at 2833
+13:43:18.86-[Error]-VisionAL: Have No Template at 2833
+13:43:18.94-[Error]-DbRead: GetQr1Status error:Unable to load DLL 'SQLite.Interop.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:43:19.30-[Error]-VisionAL: Have No Template at 2833
+13:43:19.30-[Error]-VisionAL: Have No Template at 2833
+13:43:19.31-[Error]-UiManager: Startup error:The type initializer for 'OpenCvSharp.NativeMethods' threw an exception.

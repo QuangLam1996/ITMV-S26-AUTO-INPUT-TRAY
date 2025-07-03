@@ -16,7 +16,6 @@
         </Grid.ColumnDefinitions>
         <Grid Grid.Column="1">
             <Grid.Resources>
-
                 <Style TargetType="{x:Type Label}">
                     <Setter Property="Foreground" Value="#dd222222" />
                     <Setter Property="Padding" Value="5,0" />
@@ -30,16 +29,13 @@
                     <Setter Property="Margin" Value="0,5,5,5" />
                     <Setter Property="Background" Value="White" />
                     <Setter Property="BorderThickness" Value="1"/>
-
                 </Style>
                 <Style TargetType="{x:Type TextBlock}">
                     <Setter Property="VerticalAlignment" Value="Center"/>
                     <Setter Property="FontSize" Value="22" />
                     <Setter Property="FontWeight" Value="Bold" />
                     <Setter Property="Foreground" Value="Black"/>
-
                 </Style>
-
             </Grid.Resources>
             <Border>
                 <Border.Background>
@@ -48,14 +44,12 @@
                         <GradientStop Color="#879ec8" Offset="1"/>
                     </LinearGradientBrush>
                 </Border.Background>
-
                 <Grid>
                     <Canvas>
                         <Polygon Points="0,20,130,80,0,170" Fill="#879ec8"/>
                         <Polygon Points="100,400,200,370,180,470" Fill="#879ec8"/>
                         <Ellipse Margin="250 450 0 0" Width="40" Height="40" Fill="#879ec8"/>
                         <Ellipse Margin="50 400 0 0" Width="40" Height="40" Fill="#879ec8"/>
-
                     </Canvas>
                     <StackPanel VerticalAlignment="Bottom">
                         <TextBlock Text="ITM" Style="{StaticResource titleText}"/>
@@ -72,46 +66,29 @@
                     <StackPanel Orientation="Vertical"  HorizontalAlignment="Center" Margin="0 100 0 0" >
                         <Button x:Name="btSetting1"  Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-                                <!-- Add an Image control here with the source attribute pointing to your image file -->
-                                <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-                                <TextBlock Padding="10" Text="Magazine"  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="MAGAZINE"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
-
-
-
                         <Button x:Name="btSetting2"  Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-
-                                <!--Add an Image control here with the source attribute pointing to your image file-->
-
-                                <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-                                <TextBlock Padding="10" Text="Tray CH1"  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="CHANNEL 1"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
 
                         <Button x:Name="btSetting3" Background="LightGreen"  Height="60" Width="215" Style="{StaticResource ssButton}" Margin="0 5 5 5" BorderThickness="0">
                             <StackPanel Orientation="Horizontal">
-
-                                <!--<Image Source="/Folder/PageUI/Icon/button on.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-
-                                <TextBlock Padding="10" Text="Tray CH2" Foreground="Black" Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="CHANNEL 2" Foreground="Black" Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
                         <Button x:Name="btSetting4"   Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Padding="10" Text="Tray/Jig Setup "  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="MATRIX/PALLET"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
-
-
                     </StackPanel>
                 </Grid>
             </Border>
         </Grid>
-
         <Grid Grid.Column="0" >
             <Grid.Resources>
 
@@ -155,14 +132,14 @@
                         <Grid Grid.Column="0" Background="Orange">
                             <Label Grid.Column="0" Foreground="#EEEEEE" FontSize="25" FontWeight="Bold"
                                Margin="20,0,0,0" VerticalContentAlignment="Center">
-                                Base Pos. Manual Teaching: [Robot]
+                                MANUAL TEACHING [CH2]
                             </Label>
                         </Grid>
                         <Button Grid.Column="2" x:Name="btSave1" Margin="5 5 5 5">
                             <StackPanel Orientation="Horizontal">
                                 <Image Margin="5" Source="/Folder/PageUI/Icon/save.png" />
                                 <TextBlock VerticalAlignment="Center" Margin="10,0,10,0"
-             FontSize="15" FontWeight="Bold">Save</TextBlock>
+             FontSize="15" FontWeight="Bold">SAVE</TextBlock>
                             </StackPanel>
                         </Button>
 
@@ -183,7 +160,7 @@
                             <RowDefinition Height="1.2*"></RowDefinition>
                             <RowDefinition Height="5*"></RowDefinition>
                         </Grid.RowDefinitions>
-                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >Actual Position</Label>
+                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >[SERVO POSITION]</Label>
                         <Grid Grid.Row="1">
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="1*"></RowDefinition>
@@ -192,48 +169,48 @@
                                 <RowDefinition Height="1*"></RowDefinition>
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="1.5*"></ColumnDefinition>
                                 <ColumnDefinition Width="1*"></ColumnDefinition>
-                                <ColumnDefinition Width="1*"></ColumnDefinition>
-                                <ColumnDefinition Width="0.17*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Y-Axis</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="2" FontSize="12"  Visibility="Hidden" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Z-Axis</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Position Data</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="2" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Actual Position</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Diference Value</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">DATA</Label>
+
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="2,0,1,1" FontWeight="Bold">AXIS#02 Y</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">POSITION CURRENT</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="2" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">POSITION ACTUAL</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">POSITION DIFERENCE</Label>
                             <Grid Grid.Column="1" Grid.Row="1" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionDataX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">350.00</TextBox>
+                                    <TextBox Name="txtPositionDataX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="2" Grid.Row="1" Margin="2,2,2,2" Background="#222222" Visibility="Hidden">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionDataZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">-1.00</TextBox>
+                                    <TextBox Name="txtPositionDataZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="12">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="1" Grid.Row="2" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="ActualPositionX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">350.01</TextBox>
+                                    <TextBox Name="ActualPositionX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="2" Grid.Row="2" Margin="2,2,2,2" Background="#222222" Visibility="Hidden">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="ActualPositionZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">-1.00</TextBox>
+                                    <TextBox Name="ActualPositionZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="12">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="1" Grid.Row="3" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="DeferencePositionX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay3}">-0.01</TextBox>
+                                    <TextBox Name="DeferencePositionX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay3}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="2" Grid.Row="3" Margin="2,2,2,2" Background="#222222" Visibility="Hidden">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="DeferencePositionZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay3}">-0.00</TextBox>
+                                    <TextBox Name="DeferencePositionZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay3}">000.00</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="12">mm</Label>
                                 </StackPanel>
                             </Grid>
@@ -245,7 +222,7 @@
                             <RowDefinition Height="1.2*"></RowDefinition>
                             <RowDefinition Height="5*"></RowDefinition>
                         </Grid.RowDefinitions>
-                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >Motor Status</Label>
+                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >[SERVO STATUS]</Label>
                         <Grid Grid.Row="1">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition></ColumnDefinition>
@@ -258,7 +235,7 @@
                                         <RowDefinition Height="1*"></RowDefinition>
                                     </Grid.RowDefinitions>
                                     <Grid Grid.Row="0" Margin="1,1,1,1" Background="#BBBBBB">
-                                        <Label FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold">Axis Y</Label>
+                                        <Label FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold">AXIS#02</Label>
                                     </Grid>
                                     <Grid Grid.Row="1">
                                         <Grid.ColumnDefinitions>
@@ -271,36 +248,11 @@
                                         <Label Margin="1,1,1,1" Grid.Column="0" Style="{StaticResource LabelLime}">S</Label>
                                         <Label Margin="1,1,1,1" Grid.Column="1" Style="{StaticResource LabelBlue}">H</Label>
                                         <Label Margin="1,1,1,1" Grid.Column="2" Style="{StaticResource LabelBlack}">A</Label>
-                                        <Label Margin="1,1,1,1" Grid.Column="3" Style="{StaticResource LabelBlack}">P</Label>
-                                        <Label Margin="1,1,1,1" Grid.Column="4" Style="{StaticResource LabelBlack}">N</Label>
+                                        <Label Margin="1,1,1,1" Grid.Column="3" Style="{StaticResource LabelBlack}">[+]</Label>
+                                        <Label Margin="1,1,1,1" Grid.Column="4" Style="{StaticResource LabelBlack}">[-]</Label>
                                     </Grid>
                                 </Grid>
                             </Border>
-
-                            <!--<Grid Grid.Column="1">
-
-                            <Grid.RowDefinitions>
-                                <RowDefinition Height="2*"></RowDefinition>
-                                <RowDefinition Height="1*"></RowDefinition>
-                            </Grid.RowDefinitions>
-                            <Grid Grid.Row="0" Margin="1,1,1,1" Background="#BBBBBB">
-                                <Label FontSize="20" VerticalContentAlignment="Center" HorizontalContentAlignment="Center" FontWeight="Bold">Axis Z</Label>
-                            </Grid>
-                            <Grid Grid.Row="1">
-                                <Grid.ColumnDefinitions>
-                                    <ColumnDefinition></ColumnDefinition>
-                                    <ColumnDefinition></ColumnDefinition>
-                                    <ColumnDefinition></ColumnDefinition>
-                                    <ColumnDefinition></ColumnDefinition>
-                                    <ColumnDefinition></ColumnDefinition>
-                                </Grid.ColumnDefinitions>
-                                <Label Margin="1,1,1,1" Grid.Column="0" Style="{StaticResource LabelLime}">S</Label>
-                                <Label Margin="1,1,1,1" Grid.Column="1" Style="{StaticResource LabelBlue}">H</Label>
-                                <Label Margin="1,1,1,1" Grid.Column="2" Style="{StaticResource LabelBlack}">A</Label>
-                                <Label Margin="1,1,1,1" Grid.Column="3" Style="{StaticResource LabelBlack}">P</Label>
-                                <Label Margin="1,1,1,1" Grid.Column="4" Style="{StaticResource LabelBlack}">N</Label>
-                            </Grid>
-                        </Grid>-->
                         </Grid>
 
                     </Grid>
@@ -309,7 +261,7 @@
                             <RowDefinition Height="1.2*"></RowDefinition>
                             <RowDefinition Height="5*"></RowDefinition>
                         </Grid.RowDefinitions>
-                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >Monitor Data Robot</Label>
+                        <Label Grid.Row="0" FontSize="13" FontWeight="Bold"  >[ROBOT POSITION]</Label>
                         <Grid Grid.Row="1">
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="1*"></RowDefinition>
@@ -318,37 +270,35 @@
                                 <RowDefinition Height="1*"></RowDefinition>
                             </Grid.RowDefinitions>
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="1*"></ColumnDefinition>
+                                <ColumnDefinition Width="1.2*"></ColumnDefinition>
                                 <ColumnDefinition Width="1*"></ColumnDefinition>
                                 <ColumnDefinition Width="1*"></ColumnDefinition>
                                 <ColumnDefinition Width="1*"></ColumnDefinition>
                                 <ColumnDefinition Width="1*"></ColumnDefinition>
                             </Grid.ColumnDefinitions>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Axis-X</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Data Robot</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Current Position</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="2" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Current Speed</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Setting Speed</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Setting Speed</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="2" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Axis-Y</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="3" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Axis-Z</Label>
-                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="4" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">Axis-R</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="1" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">AXIS X</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">DATA</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="1" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">POSITION CURRENT</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="2" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">SPEED CURRENT</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="3" Grid.Column="0" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">SPEED ACTIVE</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="2" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">AXIS Y</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="3" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">AXIS Z</Label>
+                            <Label VerticalContentAlignment="Center" Grid.Row="0" Grid.Column="4" FontSize="12" HorizontalContentAlignment="Center" Background="#CCCCCC" Margin="0,0,1,1" FontWeight="Bold">AXIS U</Label>
 
                             <Grid Grid.Column="1" Grid.Row="1" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionRobot_X" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">350.00</TextBox>
+                                    <TextBox Name="txtPositionRobot_X" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">000.000</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="1" Grid.Row="2" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtSpeedCurrentRobot" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">350.01</TextBox>
-                                    <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm/s</Label>
+                                    <TextBox Name="txtSpeedCurrentRobot" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">000</TextBox>
+                                    <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">%</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="1" Grid.Row="3" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <!--<TextBox Name="txtSetSpeedRobot1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay3}">-0.01</TextBox>-->
                                     <xctk:IntegerUpDown Value="100" Minimum="0" Maximum="100" Foreground="White" Background="#454343" x:Name="txtSetSpeedRobot2" Width="50" Margin="2,2,2,2" />
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">%</Label>
                                 </StackPanel>
@@ -356,25 +306,23 @@
 
                             <Grid Grid.Column="2" Grid.Row="1" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionRobot_Y" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">350.00</TextBox>
+                                    <TextBox Name="txtPositionRobot_Y" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay1}">000.000</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="3" Grid.Row="1" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionRobot_Z" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">-350.00</TextBox>
+                                    <TextBox Name="txtPositionRobot_Z" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">000.000</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
                             <Grid Grid.Column="4" Grid.Row="1" Margin="2,2,2,2" Background="#222222">
                                 <StackPanel Orientation="Horizontal" HorizontalAlignment="Right">
-                                    <TextBox Name="txtPositionRobot_R" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">350.00</TextBox>
+                                    <TextBox Name="txtPositionRobot_R" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">000.000</TextBox>
                                     <Label Foreground="#BBBBBB" VerticalContentAlignment="Center" HorizontalAlignment="Right" FontSize="10">mm</Label>
                                 </StackPanel>
                             </Grid>
-
                         </Grid>
-
                     </Grid>
                     <Grid Grid.Column="3">
                         <Grid.RowDefinitions>
@@ -385,123 +333,14 @@
                             <Button Grid.Row="1" Margin="15,10,10,10" x:Name="btReset1">
                                 <StackPanel Orientation="Vertical">
                                     <Image Height="60" Width="60" Source="/Folder/PageUI/Icon/alarm.png" Stretch="Fill"/>
-                                    <TextBlock  VerticalAlignment="Center" Padding="20,0,0,0" FontSize="20" Foreground="Blue" FontFamily="Times New Roman (Headings)">Error Clear</TextBlock>
+                                    <TextBlock  VerticalAlignment="Center" Padding="0,0,0,0" FontSize="20" Foreground="Blue" FontFamily="Times New Roman (Headings)">RESET</TextBlock>
                                 </StackPanel>
                             </Button>
                         </Grid>
                     </Grid>
                 </Grid>
-                <!--<Border Grid.Row="2" Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="2,2,2,2">
-                <Grid Grid.Row="2">
-                    <Grid.RowDefinitions>
-                        <RowDefinition Height="1*"></RowDefinition>
-                        <RowDefinition Height="1.5*"></RowDefinition>
-                        <RowDefinition Height="2*"></RowDefinition>
-                        <RowDefinition Height="1*"></RowDefinition>
-                    </Grid.RowDefinitions>
-                    <Border Grid.Row="0" Margin="10,2,10,2" BorderThickness="1" BorderBrush="#222222">
-                        <Label Margin="2,2,2,2" BorderThickness="0" Background="#AAAAAA" FontWeight="Bold" Foreground="White" HorizontalContentAlignment="Center">Select the location you want to move(이동하려는 위치를 선택하십요)</Label>
-                    </Border>
-                    <Border Grid.Row="1" Margin="10,2,10,2" BorderThickness="1" Background="#BED8ED" CornerRadius="2,2,2,2">
-                        <Grid Grid.Row="1">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="0.6*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                                <ColumnDefinition Width="2*"></ColumnDefinition>
-                            </Grid.ColumnDefinitions>
-                            <Button Name="btnBendingPos1" Grid.Column="1" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Bending Pos.</Button>
-                            <Button Name="btnReadyPos1" Grid.Column="2" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#E65305" Margin="10,2,10,2" Foreground="White">ReadyPos.</Button>
-                            <Button Name="btnQrPos1" Grid.Column="3" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">QR Pos.(5 Picker)</Button>
-                            <Button Name="btnQrScap1" Grid.Column="4" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">QR Scrap.(5 Picker)</Button>
-                            <Button Name="btnMesScap1" Grid.Column="5" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">MES Scrap.(5 Picker)</Button>
-                            <Button Name="btnMatingPos1" Grid.Column="6" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Mating Pos.</Button>
-                        </Grid>
-                    </Border>
-                    <Grid Grid.Row="2" Margin="10,2,10,2">
-                        <Grid.RowDefinitions>
-                            <RowDefinition></RowDefinition>
-                            <RowDefinition></RowDefinition>
-                        </Grid.RowDefinitions>
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="0.6*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                        </Grid.ColumnDefinitions>
-                        <Label Margin="1,1,1,1" Grid.Row="0" Grid.Column="0" Style="{StaticResource Labelteaching}">X(mm)</Label>
-                        <Label Margin="1,1,1,1" Grid.Row="1" Grid.Column="0"  Style="{StaticResource Labelteaching}">Z(mm)</Label>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="1">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisX1" MaxLength="6" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">610.16</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="2">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="3">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="4">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrScapPosAxisX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="5">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMesScapPosAxisX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" Margin="0,0,-0.4,6.6" VerticalAlignment="Bottom">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="6">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMatingPosAxisX1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="1">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">610.16</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="2">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="3">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="4">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrScapPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="5">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMesScapPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="6">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="126*"/>
-                                <ColumnDefinition Width="17*"/>
-                            </Grid.ColumnDefinitions>
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMatingPosAxisZ1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" Grid.ColumnSpan="2"></TextBox>
-                        </Grid>
-                    </Grid>
-                    <Grid Grid.Row="3" Margin="10,2,10,2">
-                        <Grid.ColumnDefinitions>
-                            <ColumnDefinition Width="2.6*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="4*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                            <ColumnDefinition Width="2*"></ColumnDefinition>
-                        </Grid.ColumnDefinitions>
-                        <Label Margin="1,1,1,1" Grid.Row="0" Grid.Column="0" Style="{StaticResource Labelteaching}">Bending Place OffSet</Label>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="1">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox"  FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">610.16</TextBox>
-                        </Grid>
-                        <Label Margin="1,1,1,1" Grid.Row="0" Grid.Column="2" Style="{StaticResource Labelteaching}">Pitch Num(cnt) * Pitch(mm)</Label>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="3">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtPitchNum1"  FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">610.16</TextBox>
-                        </Grid>
-                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="4">
-                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtPitchmm1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay2}">610.16</TextBox>
-                        </Grid>
-                    </Grid>
-                </Grid>
-            </Border>-->
                 <TabControl Name="TabControl1" Grid.Row="2">
-                    <TabItem Height="30" Header="      Axis Y      ">
+                    <TabItem Height="30" Header="AXIS#02 Y TRAY MOV">
                         <Grid>
                             <Border Grid.Row="2" Margin="5,5,5,5" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="2,2,2,2">
                                 <Grid Grid.Row="2">
@@ -526,12 +365,10 @@
                                                 <ColumnDefinition Width="2*"></ColumnDefinition>
                                                 <ColumnDefinition Width="0*"></ColumnDefinition>
                                             </Grid.ColumnDefinitions>
-                                            <Button Name="btnBendingPos" Grid.Column="1" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Pick Pos.</Button>
-                                            <Button Name="btnReadyPos" Grid.Column="2" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Center Pos.</Button>
-                                            <Button Name="btnQrPos" Grid.Column="3" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Place Pos.</Button>
-                                            <Button Name="btnQrScap" Grid.Column="4" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Center Pos.2</Button>
-                                            <!--<Button Name="btnMesScap" Grid.Column="5" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">5 Pos.</Button>-->
-                                            <Button Name="btnMatingPos" Grid.Column="6" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">Mating Pos.</Button>
+                                            <Button Name="btnBendingPos" Grid.Column="1" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">INPUT Pos.</Button>
+                                            <Button Name="btnReadyPos" Grid.Column="2" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">CENTER Pos.</Button>
+                                            <Button Name="btnQrPos" Grid.Column="3" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">OUTPUT Pos.</Button>
+                                            <Button Name="btnQrScap" Grid.Column="4" BorderBrush="#999999" HorizontalContentAlignment="Center" VerticalContentAlignment="Center" FontWeight="Bold" Background="#EEEEEE" Margin="10,2,10,2" Foreground="DarkBlue">CENTER FEED Pos.2</Button>
                                         </Grid>
                                     </Border>
                                     <Grid Grid.Row="2" Margin="10,2,10,2">
@@ -548,41 +385,32 @@
                                             <ColumnDefinition Width="2*"></ColumnDefinition>
                                             <ColumnDefinition Width="0*"></ColumnDefinition>
                                         </Grid.ColumnDefinitions>
-                                        <Label Margin="1,1,1,1" Grid.Row="0" Grid.Column="0" Style="{StaticResource Labelteaching}">Position (mm)</Label>
-                                        <Label Margin="1,1,1,1" Grid.Row="1" Grid.Column="0"  Style="{StaticResource Labelteaching}">Speed (m/s)</Label>
+                                        <Label Margin="1,1,1,1" Grid.Row="0" Grid.Column="0" Style="{StaticResource Labelteaching}">POSITION [mm]</Label>
+                                        <Label Margin="1,1,1,1" Grid.Row="1" Grid.Column="0"  Style="{StaticResource Labelteaching}">SPEED [mm/s]</Label>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="1">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisX"  FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">610.16</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisX"  FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000.00</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="2">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000.00</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="3">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000.00</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="4">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrScapPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrScapPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000.00</TextBox>
                                         </Grid>
-                                        <!--<Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="5">
-                                        <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMesScapPosAxisX" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" Margin="0,0,-0.4,6.6" VerticalAlignment="Bottom">40.10</TextBox>
-                                    </Grid>-->
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="0" Grid.Column="6">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMatingPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMatingPosAxisX" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000.00</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="1">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">610.16</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtBendingPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="2">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtReadyPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000</TextBox>
                                         </Grid>
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="3">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
+                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">000</TextBox>
                                         </Grid>
-                                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="4">
-                                            <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtQrScapPosAxisZ" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                                        </Grid>
-                                        <!--<Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="5">
-                                        <TextBox  PreviewTextInput="NumberValidationTextBox" Name="txtMesScapPosAxisZ" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}">40.10</TextBox>
-                                    </Grid>-->
                                         <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1" Grid.Column="6">
                                             <Grid.ColumnDefinitions>
                                                 <ColumnDefinition Width="126*"/>
@@ -709,7 +537,7 @@
                 </TabItem>-->
                 </TabControl>
                 <TabControl Name="TabControl" Grid.Row="3">
-                    <TabItem FontSize="15" Height="40" Header="Motor Control">
+                    <TabItem FontSize="15" Height="40" Header="SERVO CONTROL">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="0.8*"></ColumnDefinition>
@@ -727,17 +555,17 @@
                                         <RowDefinition Height="1*"></RowDefinition>
                                         <RowDefinition Height="1*"></RowDefinition>
                                     </Grid.RowDefinitions>
-                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Axis Homing]</Label>
+                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[UNIT HOME]</Label>
                                     <Button Name="btnAllAxisHome1" Margin="0,0,0,5" Grid.Row="1" Style="{StaticResource mButton}">
                                         <StackPanel Orientation="Vertical">
                                             <Image Source="/Folder/PageUI/Icon/home.png" Height="20"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center">All-Home</TextBlock>
+                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center">INITIAL</TextBlock>
                                         </StackPanel>
                                     </Button>
                                     <Button Name="btnXAxisHome1" Margin="0,0,0,5" Grid.Row="2" Style="{StaticResource mButton}">
                                         <StackPanel Orientation="Vertical">
                                             <Image Source="/Folder/PageUI/Icon/home.png" Height="20"/>
-                                            <TextBlock Foreground="#555555" HorizontalAlignment="Center">Y-Home</TextBlock>
+                                            <TextBlock Foreground="#555555" HorizontalAlignment="Center">ORIGIN</TextBlock>
                                         </StackPanel>
                                     </Button>
                                     <Button Name="btnZAxisHome1" Margin="0,0,0,5"  Visibility="Hidden" Grid.Row="3" Style="{StaticResource mButton}">
@@ -747,8 +575,6 @@
                                         </StackPanel>
                                     </Button>
                                 </Grid>
-
-
                             </Border>
                             <Border Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="8,8,8,8" Grid.Column="1">
                                 <Grid Grid.Column="1" Margin="5,0,5,0">
@@ -756,7 +582,7 @@
                                         <RowDefinition Height="0.6*"></RowDefinition>
                                         <RowDefinition Height="3*"></RowDefinition>
                                     </Grid.RowDefinitions>
-                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Servo ON/OFF]</Label>
+                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[SERVO]</Label>
                                     <Grid Grid.Row="1">
                                         <Grid.ColumnDefinitions>
                                             <ColumnDefinition></ColumnDefinition>
@@ -770,7 +596,7 @@
                                             <Button.Content>
                                                 <StackPanel>
                                                     <Rectangle Name="rectXServoOn1" Width="60" Height="20" Fill="LightGray" />
-                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Y-On</TextBlock>
+                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">ON</TextBlock>
                                                 </StackPanel>
                                             </Button.Content>
                                         </Button>
@@ -778,30 +604,12 @@
                                             <Button.Content>
                                                 <StackPanel>
                                                     <Rectangle Name="rectXServOff1" Width="60" Height="20" Fill="LightGray" />
-                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Y-Off</TextBlock>
+                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">OFF</TextBlock>
                                                 </StackPanel>
                                             </Button.Content>
                                         </Button>
-                                        <!--<Button Margin="2,2,2,2" Grid.Row="1" Grid.Column="0" Name="btnZServoOn">
-                                        <Button.Content>
-                                            <StackPanel>
-                                                <Rectangle Name="rectZServoOn1" Width="60" Height="10" Fill="Gray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Z-On</TextBlock>
-                                            </StackPanel>
-                                        </Button.Content>
-                                    </Button>
-                                    <Button Margin="2,2,2,2" Grid.Row="1" Grid.Column="1" Name="btnZServoOff">
-                                        <Button.Content>
-                                            <StackPanel>
-                                                <Rectangle Name="rectZServoOff1" Width="60" Height="10" Fill="Gray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Z-Off</TextBlock>
-                                            </StackPanel>
-                                        </Button.Content>
-                                    </Button>-->
                                     </Grid>
                                 </Grid>
-
-
                             </Border>
                             <Border Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="8,8,8,8" Grid.Column="2">
                                 <Grid Grid.Column="2" Margin="5,0,5,0">
@@ -809,68 +617,22 @@
                                         <RowDefinition Height="0.6*"></RowDefinition>
                                         <RowDefinition Height="3*"></RowDefinition>
                                     </Grid.RowDefinitions>
-                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Move Y-Axis]</Label>
+                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[INSTRUCTION]</Label>
                                     <Button Name="btnXMoveX1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Margin="0,0,0,5" Grid.Row="1">
                                         <StackPanel Orientation="Vertical">
                                             <Image Source="/Folder/PageUI/Icon/right.png" Height="60"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="18">Y-Move</TextBlock>
+                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="18">MOVE</TextBlock>
                                         </StackPanel>
                                     </Button>
                                 </Grid>
-
-
                             </Border>
-                            <!--<Border Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="8,8,8,8" Grid.Column="3">
-                            <Grid Grid.Column="3" Margin="5,0,5,0">
-                                <Grid.RowDefinitions>
-                                    <RowDefinition Height="0.6*"></RowDefinition>
-                                    <RowDefinition Height="3*"></RowDefinition>
-                                </Grid.RowDefinitions>
-                                <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Move Z]</Label>
-                                <Grid Grid.Row="1">
-                                    <Grid.RowDefinitions>
-                                        <RowDefinition></RowDefinition>
-                                        <RowDefinition></RowDefinition>
-                                        <RowDefinition></RowDefinition>
-                                        <RowDefinition></RowDefinition>
-                                    </Grid.RowDefinitions>
-                                    <Button Name="btnZMoveReady1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Margin="0,0,0,5" Grid.Row="0">
-                                        <StackPanel Orientation="Vertical">
-                                            <Image Source="sort-up.png" Height="19"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="9">Ready Pos.</TextBlock>
-                                        </StackPanel>
-                                    </Button>
-                                    <Button Name="btnZMovePreAlign1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Margin="0,0,0,5" Grid.Row="1">
-                                        <StackPanel Orientation="Vertical">
-                                            <Image Source="sort-down.png" Height="19"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="9">PreAlign</TextBlock>
-                                        </StackPanel>
-                                    </Button>
-                                    <Button Name="btnZMoveBending1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Margin="0,0,0,5" Grid.Row="2">
-                                        <StackPanel Orientation="Vertical">
-                                            <Image Source="sort-down.png" Height="19"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="9">Bending Pos</TextBlock>
-                                        </StackPanel>
-                                    </Button>
-                                    <Button Name="btnZMoveMating1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Margin="0,0,0,5" Grid.Row="3">
-                                        <StackPanel Orientation="Vertical">
-                                            <Image Source="sort-down.png" Height="19"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment="Center" FontSize="9">Mating Pos</TextBlock>
-                                        </StackPanel>
-                                    </Button>
-                                </Grid>
-
-                            </Grid>
-
-
-                        </Border>-->
                             <Border Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="8,8,8,8" Grid.Column="4">
                                 <Grid Grid.Column="4" Margin="5,0,5,0">
                                     <Grid.RowDefinitions>
                                         <RowDefinition Height="0.6*"></RowDefinition>
                                         <RowDefinition Height="3*"></RowDefinition>
                                     </Grid.RowDefinitions>
-                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Axis JOG]</Label>
+                                    <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[TEACHING]</Label>
                                     <Grid Margin="0,0,0,5" Grid.Row="1">
                                         <Grid.RowDefinitions>
                                             <RowDefinition Height="1*"></RowDefinition>
@@ -885,12 +647,12 @@
                                             <Button Name="btnJogXRv1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Grid.Column="0">
                                                 <StackPanel Orientation="Horizontal">
                                                     <Image Source="/Folder/PageUI/Icon/left.png" Height="35"/>
-                                                    <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >Y-</TextBlock>
+                                                    <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >JOG-</TextBlock>
                                                 </StackPanel>
                                             </Button>
                                             <Button Name="btnJogXFw1" BorderBrush="#999999" BorderThickness="3" Background="#FFFFFF" Grid.Column="2">
                                                 <StackPanel Orientation="Horizontal">
-                                                    <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >Y+</TextBlock>
+                                                    <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >JOG+</TextBlock>
                                                     <Image Source="/Folder/PageUI/Icon/right.png" Height="35"/>
                                                 </StackPanel>
                                             </Button>
@@ -900,10 +662,10 @@
                                                     <RowDefinition Height="1*"></RowDefinition>
                                                     <RowDefinition Height="1*"></RowDefinition>
                                                 </Grid.RowDefinitions>
-                                                <Label Grid.Row="0" Foreground="White" HorizontalContentAlignment="Center">Position</Label>
+                                                <Label Grid.Row="0" Foreground="White" HorizontalContentAlignment="Center">POSITION</Label>
                                                 <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1">
                                                     <UniformGrid Columns="2">
-                                                        <TextBox Name="txtCurrentPositionXJog1" HorizontalContentAlignment="Right" Grid.ColumnSpan="1" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" HorizontalAlignment="Center">40.10</TextBox>
+                                                        <TextBox Name="txtCurrentPositionXJog1" HorizontalContentAlignment="Right" Grid.ColumnSpan="1" FontSize="22" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" HorizontalAlignment="Center">000.00</TextBox>
                                                         <Label HorizontalContentAlignment="Left" Grid.ColumnSpan="2" Foreground="LightGray">mm</Label>
                                                     </UniformGrid>
 
@@ -911,7 +673,7 @@
                                                 <Grid Grid.Row="2">
                                                     <UniformGrid Columns="2">
                                                         <xctk:IntegerUpDown Maximum="30000" Minimum="50" Foreground="White" Background="#454343" Name="JogXSpeed" Width="50" Margin="2,2,2,2" />
-                                                        <Label Foreground="LightGray">mm/min</Label>
+                                                        <Label Foreground="LightGray">mm/s</Label>
                                                     </UniformGrid>
                                                 </Grid>
 
@@ -924,76 +686,19 @@
                                                 <RowDefinition Height="2*"></RowDefinition>
                                                 <RowDefinition Height="0*"></RowDefinition>
                                             </Grid.RowDefinitions>
-                                            <!--<Label Grid.Row="0">[Pickip / Place One Cycle]</Label>
-                                        <Label FontWeight="Bold" Foreground="DarkBlue" Grid.Row="2">Bending Pos. = Pickup / Mating Pos. = Place</Label>-->
                                             <Button Name="btnPickPlaceOneCycle1" BorderBrush="#999999" BorderThickness="1" Background="#EEEEEE" Margin="20,0,20,5" Grid.Row="1">
                                                 <StackPanel Orientation="Vertical">
                                                     <Image Source="/Folder/PageUI/Icon/reset.png" Height="20"/>
-                                                    <TextBlock Foreground="#555555"  HorizontalAlignment="Center">One Cycle</TextBlock>
+                                                    <TextBlock Foreground="#555555"  HorizontalAlignment="Center">CYCLE</TextBlock>
                                                 </StackPanel>
                                             </Button>
                                         </Grid>
                                     </Grid>
                                 </Grid>
                             </Border>
-                            <!--<Border Margin="15,15,15,10" BorderBrush="Silver" Background="#FFFFFF" BorderThickness="1" CornerRadius="8,8,8,8" Grid.Column="5">
-                            -->
-                            <!--<Grid Grid.Column="5" Margin="5,0,5,0">
-                                <Grid.RowDefinitions>
-                                    <RowDefinition Height="0.6*"></RowDefinition>
-                                    <RowDefinition Height="3*"></RowDefinition>
-                                </Grid.RowDefinitions>
-                                <Label VerticalContentAlignment="Center" FontWeight="Bold" FontSize="14" HorizontalContentAlignment="Center">[Z Axis JOG]</Label>
-                                <Grid Grid.Row="1">
-                                    <Grid.RowDefinitions>
-                                        <RowDefinition Height="1*"></RowDefinition>
-                                        <RowDefinition Height="1.5*"></RowDefinition>
-                                        <RowDefinition Height="1*"></RowDefinition>
-                                    </Grid.RowDefinitions>
-                                    <Button Name="btnJogZRv1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Grid.Row="0">
-                                        <StackPanel Orientation="Vertical">
-                                            <Image Source="Up.png" Height="35"/>
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >Z-</TextBlock>
-                                        </StackPanel>
-                                    </Button>
-                                    <Button Name="btnJogZFw1" BorderBrush="#999999" BorderThickness="1" Background="#FFFFFF" Grid.Row="2">
-                                        <StackPanel Orientation="Vertical">
-
-                                            <TextBlock Foreground="#555555"  HorizontalAlignment ="Center" VerticalAlignment="Center" FontSize="9" FontWeight="Bold" >Z+</TextBlock>
-                                            <Image Source="Down.png" Height="35"/>
-                                        </StackPanel>
-                                    </Button>
-                                    <Grid Grid.Row="1" Background="#444444">
-                                        <Grid.RowDefinitions>
-                                            <RowDefinition Height="0.8*"></RowDefinition>
-                                            <RowDefinition Height="1*"></RowDefinition>
-                                            <RowDefinition Height="1*"></RowDefinition>
-                                        </Grid.RowDefinitions>
-                                        <Label Grid.Row="0" Foreground="White" HorizontalContentAlignment="Center">Position</Label>
-                                        <Grid Background="#222222" Margin="5,1,5,1" Grid.Row="1">
-                                            <UniformGrid Columns="2">
-                                                <TextBox Name="txtCurrentPositionZJog1" HorizontalContentAlignment="Right" Grid.ColumnSpan="1" FontSize="18" FontFamily="Agency FB" Style="{StaticResource TextBoxDisplay}" HorizontalAlignment="Center">40.10</TextBox>
-                                                <Label HorizontalContentAlignment="Left" Grid.ColumnSpan="2" Foreground="LightGray">mm</Label>
-                                            </UniformGrid>
-
-                                        </Grid>
-                                        <Grid Grid.Row="2">
-                                            -->
-                            <!--<UniformGrid Columns="2">
-                                                <xctk:IntegerUpDown Maximum="30000" Minimum="50" Foreground="White" Background="#454343" Name="JogZSpeed1" Width="50" Margin="2,2,2,2" />
-                                                <Label Foreground="LightGray">mm/min</Label>
-                                            </UniformGrid>-->
-                            <!--
-                                        </Grid>
-
-                                    </Grid>
-                                </Grid>
-                            </Grid>-->
-                            <!--
-                        </Border>-->
                         </Grid>
                     </TabItem>
-                    <TabItem FontSize="15" Header="Cylinder In/Out Tray">
+                    <TabItem FontSize="15" Header="CYLINDER IN/OUT">
                         <Grid>
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="2.0*"></ColumnDefinition>
@@ -1063,7 +768,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCenHoldTray121" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1071,7 +776,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCenHoldTray341" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1079,7 +784,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectSplitTray121" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1087,7 +792,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectSplitTray341" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1096,7 +801,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCenHoldTray12L1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1104,7 +809,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCenHoldTray34L1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1112,7 +817,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectSplitTray12L1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1120,7 +825,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectSplitTray34L1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1152,7 +857,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCylPosHight1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">TOP</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1160,7 +865,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCylPosCen1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Center</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">MID</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1168,7 +873,7 @@
                                         <Button.Content>
                                             <StackPanel>
                                                 <Rectangle x:Name="rectCylPosLow1" Width="60" Height="20" Fill="LightGray" />
-                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BOT</TextBlock>
                                             </StackPanel>
                                         </Button.Content>
                                     </Button>
@@ -1210,7 +915,7 @@
                                             <Button.Content>
                                                 <StackPanel>
                                                     <Rectangle x:Name="rectCylUDOutTray1" Width="60" Height="10" Fill="Gray" />
-                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">UP</TextBlock>
                                                 </StackPanel>
                                             </Button.Content>
                                         </Button>
@@ -1225,7 +930,7 @@
                                             <Button.Content>
                                                 <StackPanel>
                                                     <Rectangle x:Name="rectCylUDOutTrayL1" Width="60" Height="10" Fill="Gray" />
-                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                                    <TextBlock HorizontalAlignment="Center" FontWeight="Bold">DN</TextBlock>
                                                 </StackPanel>
                                             </Button.Content>
                                         </Button>
@@ -1236,7 +941,7 @@
                             </Grid>
                         </Grid>
                     </TabItem>
-                    <TabItem FontSize="15" Header="Cylinder Cneter Tray">
+                    <TabItem FontSize="15" Header="CYLINDER CENTER">
                         <Grid>
                             <Grid.RowDefinitions>
                                 <RowDefinition Height="0.3*"></RowDefinition>
@@ -1287,7 +992,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectClampPullTray1" Width="60" Height="20" Fill="LightGray" />
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>
@@ -1295,7 +1000,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectKeepCenterTray1" Width="60" Height="20" Fill="LightGray" />
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>
@@ -1303,7 +1008,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectCenterTray1" Width="60" Height="20" Fill="LightGray" />
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Hight</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">FWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>
@@ -1318,7 +1023,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectClampPullTrayL1" Width="60" Height="20" Fill="LightGray"/>
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>
@@ -1326,7 +1031,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectKeepCenterTrayL1" Width="60" Height="20" Fill="LightGray" />
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>
@@ -1334,7 +1039,7 @@
                                     <Button.Content>
                                         <StackPanel>
                                             <Rectangle x:Name="rectCenterTrayL1" Width="60" Height="20" Fill="LightGray" />
-                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">Low</TextBlock>
+                                            <TextBlock HorizontalAlignment="Center" FontWeight="Bold">BWD</TextBlock>
                                         </StackPanel>
                                     </Button.Content>
                                 </Button>

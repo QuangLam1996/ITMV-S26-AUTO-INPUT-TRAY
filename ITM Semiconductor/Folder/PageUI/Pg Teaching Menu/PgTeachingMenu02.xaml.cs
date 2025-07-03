@@ -62,7 +62,7 @@ namespace ITM_Semiconductor
             this.txtBendingPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtReadyPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtQrPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
-            this.txtQrScapPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
+            //this.txtQrScapPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtSetSpeedRobot2.TouchDown += TxtSetSpeedRobot2_TouchDown;
 
             #region Position Selection
@@ -74,7 +74,7 @@ namespace ITM_Semiconductor
 
             this.btnQrPos.Click += QrPos_CLicked;
             this.btnQrScap.Click += QrScrapPos_Clicked;
-            this.btnMatingPos.Click += MatingPos_Clicked;
+            //this.btnMatingPos.Click += MatingPos_Clicked;
 
 
             #endregion
@@ -515,7 +515,7 @@ namespace ITM_Semiconductor
                 // point 4
 
                 D3318 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisX.Text), 4) * 1000);
-                D3320 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisZ.Text), 4) * 1000);
+                //D3320 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisZ.Text), 4) * 1000);
 
                 // point 5
 
@@ -582,7 +582,7 @@ namespace ITM_Semiconductor
                     else if (QrScrapPos)
                     {
                         UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3318, D3318);
-                        UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3320, D3320);
+                        //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3320, D3320);
                         UiManager.PLC.WriteBit(DeviceCode.M, 1315, true);
 
                         //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 3318, new int[] { D3318 });
@@ -622,7 +622,7 @@ namespace ITM_Semiconductor
                 // point 4
 
                 D3318 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisX.Text), 4) * 1000);
-                D3320 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisZ.Text), 4) * 1000);
+                //D3320 = Convert.ToInt32(Math.Round(double.Parse(this.txtQrScapPosAxisZ.Text), 4) * 1000);
 
                 // point 5
 
@@ -687,7 +687,7 @@ namespace ITM_Semiconductor
                     else if (QrScrapPos)
                     {
                         UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3318, D3318);
-                        UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3320, D3320);
+                        //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 3320, D3320);
                         UiManager.PLC.WriteBit(DeviceCode.M, 1315, true);
 
                         //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 3318, new int[] { D3318 });
@@ -918,32 +918,32 @@ namespace ITM_Semiconductor
                 btnBendingPos,
                 btnReadyPos,
                 btnQrPos,
-                btnQrScap,
+                btnQrScap };
                 //btnMesScap,
-                btnMatingPos };
+                //btnMatingPos };
 
-            List<bool> AxisPos = new List<bool> {
-                BendingPos,
-                ReadyPos, QrPos,
-                QrScrapPos,
-                MesScapPos,
-                MatingPos };
+            //List<bool> AxisPos = new List<bool> {
+            //    BendingPos,
+            //    ReadyPos, QrPos,
+            //    QrScrapPos,
+            //    MesScapPos,
+            //    MatingPos };
 
-            int[] DataY1axis = new int[] {
-                Robot.TeachDataYaxis1.BendingPos,
-                Robot.TeachDataYaxis1.readyPos,
-                Robot.TeachDataYaxis1.QrPos,
-                Robot.TeachDataYaxis1.QrScapPos,
-                Robot.TeachDataYaxis1.MesScapPos,
-                Robot.TeachDataYaxis1.MatingPos };
+            //int[] DataY1axis = new int[] {
+            //    Robot.TeachDataYaxis1.BendingPos,
+            //    Robot.TeachDataYaxis1.readyPos,
+            //    Robot.TeachDataYaxis1.QrPos,
+            //    Robot.TeachDataYaxis1.QrScapPos,
+            //    Robot.TeachDataYaxis1.MesScapPos,
+            //    Robot.TeachDataYaxis1.MatingPos };
 
-            int[] DataSpeedY1axis = new int[] {
-                Robot.TeachSpeedYaxis1.BendingPos,
-                Robot.TeachSpeedYaxis1.readyPos,
-                Robot.TeachSpeedYaxis1.QrPos,
-                Robot.TeachSpeedYaxis1.QrScapPos,
-                Robot.TeachSpeedYaxis1.MesScapPos,
-                Robot.TeachSpeedYaxis1.MatingPos };
+            //int[] DataSpeedY1axis = new int[] {
+            //    Robot.TeachSpeedYaxis1.BendingPos,
+            //    Robot.TeachSpeedYaxis1.readyPos,
+            //    Robot.TeachSpeedYaxis1.QrPos,
+            //    Robot.TeachSpeedYaxis1.QrScapPos,
+            //    Robot.TeachSpeedYaxis1.MesScapPos,
+            //    Robot.TeachSpeedYaxis1.MatingPos };
 
             for (int i = 0; i < 5; i++)
             {
@@ -953,7 +953,7 @@ namespace ITM_Semiconductor
 
             btnList[Pos].Background = (Brush)converter.ConvertFromString("#E65305");
             btnList[Pos].Foreground = Brushes.White;
-            CurrentPositionPosXData = DataY1axis[Pos];
+            //CurrentPositionPosXData = DataY1axis[Pos];
             //CurrentPositionPosZData = DataZaxis[Pos];
 
         }
@@ -1008,7 +1008,7 @@ namespace ITM_Semiconductor
                 txtReadyPosAxisZ.Text = ((double)D_7000_7900[92] / 1000).ToString();
                 txtQrPosAxisZ.Text = ((double)D_7000_7900[98] / 1000).ToString();
                 ////
-                txtQrScapPosAxisZ.Text = ((double)D_7000_7900[104] / 1000).ToString();
+                //txtQrScapPosAxisZ.Text = ((double)D_7000_7900[104] / 1000).ToString();
 
                 this.txtPositionDataX1.Text = ((double)D_7000_7900[80] / 1000).ToString();
 

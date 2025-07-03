@@ -1,0 +1,135 @@
+
+13:50:23.31-[Information]-UiManager: Startup:
+13:50:23.51-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:50:23.77-[Error]-VisionAL: Have No Template at X2835
+13:50:23.79-[Error]-VisionAL: Have No Template at X2835
+13:50:25.26-[Error]-VisionAL: Have No Template at X2835
+13:50:25.28-[Error]-VisionAL: Have No Template at X2835
+13:50:26.48-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:50:26.50-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:50:29.56-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+13:50:34.57-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:50:35.80-[Information]-UserManager: LogOn: AutoTeams/itm
+13:50:37.62-[Warning]-PLC Q_Enthernet: Reconnection attempt 2 failed.
+13:50:42.64-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:50:45.70-[Warning]-PLC Q_Enthernet: Reconnection attempt 3 failed.
+13:50:50.53-[Information]-WndWindow: Disconnect PLC
+13:50:50.53-[Information]-WndWindow: Stop Program
+13:52:32.05-[Information]-UiManager: Startup:
+13:52:32.18-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:52:32.26-[Error]-VisionAL: Have No Template at X2835
+13:52:32.29-[Error]-VisionAL: Have No Template at X2835
+13:52:33.12-[Error]-VisionAL: Have No Template at X2835
+13:52:33.13-[Error]-VisionAL: Have No Template at X2835
+13:52:33.82-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:52:33.84-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:52:36.88-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+13:52:37.79-[Information]-WndWindow: Disconnect PLC
+13:52:37.80-[Information]-WndWindow: Stop Program
+13:53:00.31-[Information]-UiManager: Startup:
+13:53:00.39-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:53:00.45-[Error]-VisionAL: Have No Template at X2835
+13:53:00.47-[Error]-VisionAL: Have No Template at X2835
+13:53:01.29-[Error]-VisionAL: Have No Template at X2835
+13:53:01.32-[Error]-VisionAL: Have No Template at X2835
+13:53:01.97-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:53:02.00-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:53:05.05-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+13:53:10.06-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:53:10.54-[Information]-WndWindow: Disconnect PLC
+13:53:10.54-[Information]-WndWindow: Stop Program
+13:54:31.07-[Information]-UiManager: Startup:
+13:54:31.17-[Information]-Dba:  ->  Database File SQLite Already Existed!
+13:54:31.23-[Error]-VisionAL: Have No Template at X2835
+13:54:31.25-[Error]-VisionAL: Have No Template at X2835
+13:54:32.07-[Error]-VisionAL: Have No Template at X2835
+13:54:32.10-[Error]-VisionAL: Have No Template at X2835
+13:54:32.77-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+13:54:32.79-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+13:54:33.86-[Information]-WndWindow: Disconnect PLC
+13:54:33.86-[Information]-WndWindow: Stop Program
+14:05:40.55-[Information]-UiManager: Startup:
+14:05:40.67-[Information]-Dba:  ->  Database File SQLite Already Existed!
+14:05:41.50-[Error]-VisionAL: Have No Template at X2835
+14:05:41.52-[Error]-VisionAL: Have No Template at X2835
+14:05:42.41-[Error]-VisionAL: Have No Template at X2835
+14:05:42.42-[Error]-VisionAL: Have No Template at X2835
+14:05:43.28-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+14:05:43.30-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+14:05:46.35-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+14:05:50.73-[Information]-WndWindow: Disconnect PLC
+14:05:50.73-[Information]-WndWindow: Stop Program
+15:30:21.15-[Information]-UiManager: Startup:
+15:30:21.42-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:30:21.97-[Error]-VisionAL: Have No Template at X2835
+15:30:22.00-[Error]-VisionAL: Have No Template at X2835
+15:30:23.15-[Error]-VisionAL: Have No Template at X2835
+15:30:23.16-[Error]-VisionAL: Have No Template at X2835
+15:30:24.38-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:30:24.40-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+15:30:27.46-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+15:30:32.47-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:30:35.46-[Information]-UserManager: LogOn: AutoTeams/itm
+15:30:35.51-[Warning]-PLC Q_Enthernet: Reconnection attempt 2 failed.
+15:30:40.52-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:30:43.57-[Warning]-PLC Q_Enthernet: Reconnection attempt 3 failed.
+15:30:48.58-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:30:51.64-[Warning]-PLC Q_Enthernet: Reconnection attempt 4 failed.
+15:30:56.65-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:30:59.72-[Warning]-PLC Q_Enthernet: Reconnection attempt 5 failed.
+15:31:04.73-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:31:07.67-[Information]-WndWindow: Disconnect PLC
+15:31:07.68-[Information]-WndWindow: Stop Program
+15:31:07.79-[Warning]-PLC Q_Enthernet: Reconnection attempt 6 failed.
+15:34:14.13-[Information]-UiManager: Startup:
+15:34:14.24-[Information]-Dba:  ->  Database File SQLite Already Existed!
+15:34:14.41-[Error]-VisionAL: Have No Template at X2835
+15:34:14.52-[Error]-VisionAL: Have No Template at X2835
+15:34:15.47-[Error]-VisionAL: Have No Template at X2835
+15:34:15.50-[Error]-VisionAL: Have No Template at X2835
+15:34:16.28-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:34:16.30-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+15:34:19.34-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+15:34:21.81-[Information]-UserManager: LogOn: AutoTeams/itm
+15:34:24.36-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:34:27.41-[Warning]-PLC Q_Enthernet: Reconnection attempt 2 failed.
+15:34:32.42-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:34:35.49-[Warning]-PLC Q_Enthernet: Reconnection attempt 3 failed.
+15:34:40.51-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+15:34:43.55-[Warning]-PLC Q_Enthernet: Reconnection attempt 4 failed.
+15:34:45.93-[Information]-WndWindow: Disconnect PLC
+15:34:45.93-[Information]-WndWindow: Stop Program
+19:06:13.50-[Information]-UiManager: Startup:
+19:06:14.87-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:06:15.04-[Error]-VisionAL: Have No Template at X2835
+19:06:15.07-[Error]-VisionAL: Have No Template at X2835
+19:06:16.41-[Error]-VisionAL: Have No Template at X2835
+19:06:16.43-[Error]-VisionAL: Have No Template at X2835
+19:06:17.36-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:06:17.38-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+19:06:20.41-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.
+19:06:25.41-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:06:27.39-[Information]-UserManager: LogOn: AutoTeams/itm
+19:06:28.48-[Warning]-PLC Q_Enthernet: Reconnection attempt 2 failed.
+19:06:33.49-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:06:36.55-[Warning]-PLC Q_Enthernet: Reconnection attempt 3 failed.
+19:06:41.56-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:06:44.60-[Warning]-PLC Q_Enthernet: Reconnection attempt 4 failed.
+19:06:49.60-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:06:52.66-[Warning]-PLC Q_Enthernet: Reconnection attempt 5 failed.
+19:06:57.67-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:07:00.74-[Warning]-PLC Q_Enthernet: Reconnection attempt 6 failed.
+19:07:05.76-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:07:07.37-[Information]-WndWindow: Disconnect PLC
+19:07:07.37-[Information]-WndWindow: Stop Program
+19:17:12.87-[Information]-UiManager: Startup:
+19:17:13.08-[Information]-Dba:  ->  Database File SQLite Already Existed!
+19:17:13.60-[Error]-VisionAL: Have No Template at X2835
+19:17:13.62-[Error]-VisionAL: Have No Template at X2835
+19:17:14.85-[Error]-VisionAL: Have No Template at X2835
+19:17:14.88-[Error]-VisionAL: Have No Template at X2835
+19:17:15.85-[Warning]-PLC Q_Enthernet: Connection lost. Attempting to reconnect...
+19:17:15.87-[Error]-UiManager: Startup error:Unable to load DLL 'MvCameraControl.dll': The specified module could not be found. (Exception from HRESULT: 0x8007007E)
+19:17:18.46-[Information]-WndWindow: Disconnect PLC
+19:17:18.47-[Information]-WndWindow: Stop Program
+19:17:18.94-[Warning]-PLC Q_Enthernet: Reconnection attempt 1 failed.

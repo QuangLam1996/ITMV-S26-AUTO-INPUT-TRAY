@@ -28,7 +28,7 @@ namespace ITM_Semiconductor
         private Color Colo_ON_RE;
         private Color Colo_OFF;
 
-       
+
         private bool NGCH1 = false;
         private bool NGCH2 = false;
         private bool PassCH1 = false;
@@ -41,16 +41,16 @@ namespace ITM_Semiconductor
             this.Loaded += PgSystemMenu01_Loaded;
             this.Unloaded += PgSystemMenu01_Unloaded;
 
-            this.btEnablePickNGCH1.Click += BtEnablePickNGCH1_Click;
-            this.btDisablePickNGCH1.Click += BtDisablePickNGCH1_Click;
-            this.btEnablePickNGCH2.Click += BtEnablePickNGCH2_Click;
-            this.btDisablePickNGCH2.Click += BtDisablePickNGCH2_Click;
+            //this.btEnablePickNGCH1.Click += BtEnablePickNGCH1_Click;
+            //this.btDisablePickNGCH1.Click += BtDisablePickNGCH1_Click;
+            //this.btEnablePickNGCH2.Click += BtEnablePickNGCH2_Click;
+            //this.btDisablePickNGCH2.Click += BtDisablePickNGCH2_Click;
 
-            this.btEnableByPassCH1.Click += BtEnableByPassCH1_Click;
-            this.btDisableByPassCH1.Click += BtDisableByPassCH1_Click;
+            //this.btEnableByPassCH1.Click += BtEnableByPassCH1_Click;
+            //this.btDisableByPassCH1.Click += BtDisableByPassCH1_Click;
 
-            this.btEnableByPassCH2.Click += BtEnableByPassCH2_Click;
-            this.btDisableByPassCH2.Click += BtDisableByPassCH2_Click;
+            //this.btEnableByPassCH2.Click += BtEnableByPassCH2_Click;
+            //this.btDisableByPassCH2.Click += BtDisableByPassCH2_Click;
 
 
         }
@@ -102,7 +102,7 @@ namespace ITM_Semiconductor
             if (!UiManager.PLC.isOpen())
                 return;
             UiManager.PLC.WriteBit(DeviceCode.M, 4380, true);
-          
+
         }
 
         private void BtEnablePickNGCH1_Click(object sender, RoutedEventArgs e)
@@ -110,7 +110,7 @@ namespace ITM_Semiconductor
             if (!UiManager.PLC.isOpen())
                 return;
             UiManager.PLC.WriteBit(DeviceCode.M, 3680, true);
-            
+
         }
 
         private void PgSystemMenu01_Unloaded(object sender, RoutedEventArgs e)
@@ -124,7 +124,7 @@ namespace ITM_Semiconductor
             TheadReadPLC.IsBackground = true;
             TheadReadPLC.Start();
 
-            this.IsRunning =true;
+            this.IsRunning = true;
 
             string hexColorOn1 = "#66FF66"; // Mã màu ON (XANH )
             string hexColorOn2 = "#FF0033"; // Mã màu OFF (ĐỎ)
@@ -137,7 +137,7 @@ namespace ITM_Semiconductor
         {
             while (IsRunning)
             {
-                if(UiManager.PLC.isOpen())
+                if (UiManager.PLC.isOpen())
                 {
                     UiManager.PLC.ReadBit(DeviceCode.M, 3680, out NGCH1);
                     UiManager.PLC.ReadBit(DeviceCode.M, 4380, out NGCH2);
@@ -153,19 +153,19 @@ namespace ITM_Semiconductor
         {
             Dispatcher.Invoke(new Action(() =>
             {
-            
 
-                    this.btEnablePickNGCH1.Background = new SolidColorBrush(NGCH1 ? Colo_ON_GR : Colo_OFF);
-                    this.btDisablePickNGCH1.Background = new SolidColorBrush(NGCH1 ? Colo_OFF : Colo_ON_RE);
 
-                    this.btEnablePickNGCH2.Background = new SolidColorBrush(NGCH2 ? Colo_ON_GR : Colo_OFF);
-                    this.btDisablePickNGCH2.Background = new SolidColorBrush(NGCH2 ? Colo_OFF : Colo_ON_RE);
+                //this.btEnablePickNGCH1.Background = new SolidColorBrush(NGCH1 ? Colo_ON_GR : Colo_OFF);
+                //this.btDisablePickNGCH1.Background = new SolidColorBrush(NGCH1 ? Colo_OFF : Colo_ON_RE);
 
-                this.btEnableByPassCH1.Background = new SolidColorBrush(PassCH1 ? Colo_ON_GR : Colo_OFF);
-                this.btDisableByPassCH1.Background = new SolidColorBrush(PassCH1 ? Colo_OFF : Colo_ON_RE);
+                //this.btEnablePickNGCH2.Background = new SolidColorBrush(NGCH2 ? Colo_ON_GR : Colo_OFF);
+                //this.btDisablePickNGCH2.Background = new SolidColorBrush(NGCH2 ? Colo_OFF : Colo_ON_RE);
 
-                this.btEnableByPassCH2.Background = new SolidColorBrush(PassCH2 ? Colo_ON_GR : Colo_OFF);
-                this.btDisableByPassCH2.Background = new SolidColorBrush(PassCH2 ? Colo_OFF : Colo_ON_RE);
+                //this.btEnableByPassCH1.Background = new SolidColorBrush(PassCH1 ? Colo_ON_GR : Colo_OFF);
+                //this.btDisableByPassCH1.Background = new SolidColorBrush(PassCH1 ? Colo_OFF : Colo_ON_RE);
+
+                //this.btEnableByPassCH2.Background = new SolidColorBrush(PassCH2 ? Colo_ON_GR : Colo_OFF);
+                //this.btDisableByPassCH2.Background = new SolidColorBrush(PassCH2 ? Colo_OFF : Colo_ON_RE);
 
 
 

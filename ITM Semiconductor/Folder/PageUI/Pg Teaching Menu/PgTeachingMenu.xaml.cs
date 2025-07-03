@@ -150,7 +150,7 @@ namespace ITM_Semiconductor
             this.txtReadyPosAxisX.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtQrPosAxisX.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtQrScapPosAxisX.TouchDown += TxtBendingPosAxisX_TouchDown;
-            this.txtMesScapPosAxisX.TouchDown += TxtBendingPosAxisX_TouchDown;
+            //this.txtMesScapPosAxisX.TouchDown += TxtBendingPosAxisX_TouchDown;
 
             this.txtBendingPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;
             this.txtReadyPosAxisZ.TouchDown += TxtBendingPosAxisX_TouchDown;

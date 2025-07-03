@@ -60,19 +60,19 @@ namespace ITM_Semiconductor
             this.btnDoorOn_ch2.Click += BtnDoorOn_ch2_Click;
             this.btnDoorOff_ch2.Click += BtnDoorOff_ch2_Click;
 
-            this.txtPickRetCh1.TextChanged += TxtPickRetCh1_TextChanged;
-            this.txtPickRetCh2.TextChanged += TxtPickRetCh2_TextChanged;
+            //this.txtPickRetCh1.TextChanged += TxtPickRetCh1_TextChanged;
+            //this.txtPickRetCh2.TextChanged += TxtPickRetCh2_TextChanged;
 
-            this.txtBlowDelayCH1.TextChanged += TxtBlowDelayCH1_TextChanged;
-            this.txtBlowDelayCH2.TextChanged += TxtBlowDelayCH2_TextChanged;
+            //this.txtBlowDelayCH1.TextChanged += TxtBlowDelayCH1_TextChanged;
+            //this.txtBlowDelayCH2.TextChanged += TxtBlowDelayCH2_TextChanged;
 
-            this.txtVacDelayCH2.TextChanged += TxtVacDelayCH2_TextChanged;
-            this.txtVacDelayCH1.TextChanged += TxtVacDelayCH1_TextChanged;
+            //this.txtVacDelayCH2.TextChanged += TxtVacDelayCH2_TextChanged;
+            //this.txtVacDelayCH1.TextChanged += TxtVacDelayCH1_TextChanged;
 
             this.btnSave.Click += BtnSave_Click;
 
-            this.btnCCLOn.Click += btnCCLOn_Click;
-            this.btnCCLOff.Click += btnCCLOff_Click;
+            //this.btnCCLOn.Click += btnCCLOn_Click;
+            //this.btnCCLOff.Click += btnCCLOff_Click;
 
         }
 
@@ -85,20 +85,20 @@ namespace ITM_Semiconductor
         private void btnCCLOff_Click(object sender, RoutedEventArgs e)
         {
             var converter = new BrushConverter();
-            btnCCLOff.Background = Brushes.Cyan;
-            recCCLOff.Fill = Brushes.Yellow;
-            recCCLOn.Fill = Brushes.DarkRed;
-            btnCCLOn.Background = (Brush)converter.ConvertFromString("#D5D5D5");
+            //btnCCLOff.Background = Brushes.Cyan;
+            //recCCLOff.Fill = Brushes.Yellow;
+            //recCCLOn.Fill = Brushes.DarkRed;
+            //btnCCLOn.Background = (Brush)converter.ConvertFromString("#D5D5D5");
             UiManager.appSettings.connection.SelectModeCOM = false;
             UiManager.SaveAppSetting();
         }
         private void btnCCLOn_Click(object sender, RoutedEventArgs e)
         {
             var converter = new BrushConverter();
-            btnCCLOn.Background = Brushes.Cyan;
-            recCCLOn.Fill = Brushes.Yellow;
-            recCCLOff.Fill = Brushes.DarkRed;
-            btnCCLOff.Background = (Brush)converter.ConvertFromString("#D5D5D5");
+            //btnCCLOn.Background = Brushes.Cyan;
+            //recCCLOn.Fill = Brushes.Yellow;
+            //recCCLOff.Fill = Brushes.DarkRed;
+            //btnCCLOff.Background = (Brush)converter.ConvertFromString("#D5D5D5");
             UiManager.appSettings.connection.SelectModeCOM = true;
             UiManager.SaveAppSetting();
 
@@ -128,9 +128,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtVacDelayCH1.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7390, int.Parse(txtVacDelayCH1.Text));
+            //if (txtVacDelayCH1.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7390, int.Parse(txtVacDelayCH1.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7390, new int[] { int.Parse(txtVacDelayCH1.Text) });
 
         }
@@ -140,9 +140,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtVacDelayCH2.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7396, int.Parse(txtVacDelayCH2.Text));
+            //if (txtVacDelayCH2.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7396, int.Parse(txtVacDelayCH2.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7396, new int[] { int.Parse(txtVacDelayCH2.Text) });
         }
         private void TxtBlowDelayCH2_TextChanged(object sender, TextChangedEventArgs e)
@@ -151,9 +151,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtBlowDelayCH2.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7392, int.Parse(txtBlowDelayCH2.Text));
+            //if (txtBlowDelayCH2.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7392, int.Parse(txtBlowDelayCH2.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7392, new int[] { int.Parse(txtBlowDelayCH2.Text) });
         }
         private void TxtBlowDelayCH1_TextChanged(object sender, TextChangedEventArgs e)
@@ -162,9 +162,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtBlowDelayCH1.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7386, int.Parse(txtBlowDelayCH1.Text));
+            //if (txtBlowDelayCH1.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7386, int.Parse(txtBlowDelayCH1.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7386, new int[] { int.Parse(txtBlowDelayCH1.Text) });
         }
         private void TxtPickRetCh2_TextChanged(object sender, TextChangedEventArgs e)
@@ -173,9 +173,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtPickRetCh2.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7394, int.Parse(txtPickRetCh2.Text));
+            //if (txtPickRetCh2.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7394, int.Parse(txtPickRetCh2.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7394, new int[] { int.Parse(txtPickRetCh2.Text) });
         }
         private void TxtPickRetCh1_TextChanged(object sender, TextChangedEventArgs e)
@@ -184,9 +184,9 @@ namespace ITM_Semiconductor
             {
                 return;
             }
-            if (txtPickRetCh1.Text == "")
-                return;
-            UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7388, int.Parse(txtPickRetCh1.Text));
+            //if (txtPickRetCh1.Text == "")
+            //    return;
+            //UiManager.PLC.WriteDoubleWord(DeviceCode.D, 7388, int.Parse(txtPickRetCh1.Text));
             //plcComm.WriteDoubleWord(MCProtocol.DeviceCode.D, 7388, new int[] { int.Parse(txtPickRetCh1.Text) });
         }
         private void BtnDoorOff_ch2_Click(object sender, RoutedEventArgs e)
@@ -311,18 +311,18 @@ namespace ITM_Semiconductor
             if (ccLinkMode)
             {
                 var converter = new BrushConverter();
-                btnCCLOn.Background = Brushes.Cyan;
-                recCCLOn.Fill = Brushes.LightGreen;
-                recCCLOff.Fill = Brushes.OrangeRed;
-                btnCCLOff.Background = (Brush)converter.ConvertFromString("#D5D5D5");
+                //btnCCLOn.Background = Brushes.Cyan;
+                //recCCLOn.Fill = Brushes.LightGreen;
+                //recCCLOff.Fill = Brushes.OrangeRed;
+                //btnCCLOff.Background = (Brush)converter.ConvertFromString("#D5D5D5");
             }
             else
             {
                 var converter = new BrushConverter();
-                btnCCLOff.Background = Brushes.Cyan;
-                recCCLOff.Fill = Brushes.LightGreen;
-                recCCLOn.Fill = Brushes.OrangeRed;
-                btnCCLOn.Background = (Brush)converter.ConvertFromString("#D5D5D5");
+                //btnCCLOff.Background = Brushes.Cyan;
+                //recCCLOff.Fill = Brushes.LightGreen;
+                //recCCLOn.Fill = Brushes.OrangeRed;
+                //btnCCLOn.Background = (Brush)converter.ConvertFromString("#D5D5D5");
 
             }
             Task tsk = new Task(() =>
@@ -343,12 +343,12 @@ namespace ITM_Semiconductor
            
             this.Dispatcher.Invoke(() =>
             {
-                this.txtBlowDelayCH1.Text = D_7000_7900[386].ToString();
-                this.txtBlowDelayCH2.Text = D_7000_7900[392].ToString();
-                this.txtVacDelayCH1.Text = D_7000_7900[390].ToString();
-                this.txtVacDelayCH2.Text = D_7000_7900[396].ToString();
-                this.txtPickRetCh1.Text = D_7000_7900[388].ToString();
-                this.txtPickRetCh2.Text = D_7000_7900[394].ToString();
+                //this.txtBlowDelayCH1.Text = D_7000_7900[386].ToString();
+                //this.txtBlowDelayCH2.Text = D_7000_7900[392].ToString();
+                //this.txtVacDelayCH1.Text = D_7000_7900[390].ToString();
+                //this.txtVacDelayCH2.Text = D_7000_7900[396].ToString();
+                //this.txtPickRetCh1.Text = D_7000_7900[388].ToString();
+                //this.txtPickRetCh2.Text = D_7000_7900[394].ToString();
             });
 
         }

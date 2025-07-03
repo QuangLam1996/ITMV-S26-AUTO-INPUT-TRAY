@@ -70,7 +70,7 @@
 
                                 <!--<Image Source="/Folder/PageUI/Icon/button on.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
 
-                                <TextBlock Padding="10" Text="Magazine" Foreground="Black" Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="MAGAZINE" Foreground="Black" Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
 
@@ -81,7 +81,7 @@
                             <StackPanel Orientation="Horizontal">
 
                                 <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-                                <TextBlock Padding="10" Text="Tray CH1"  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="CHANNEL 1"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
 
@@ -94,7 +94,7 @@
                                 <!--Add an Image control here with the source attribute pointing to your image file-->
 
                                 <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-                                <TextBlock Padding="10" Text="Tray CH2"  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="CHANNEL 2"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
 
@@ -111,7 +111,7 @@
 
                         <Button x:Name="btSetting4"  Background="LightGreen" Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-                                <TextBlock Padding="10" Text="Tray/Jig Setup "  Margin="10" VerticalAlignment="Center"/>
+                                <TextBlock Padding="10" Text="MATRIX/PALLET"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
 
@@ -152,7 +152,7 @@
                     <Label Grid.Column="0" FontWeight="Bold" Foreground="White" FontSize="40" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
                         <Label.Effect>
                             <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                        </Label.Effect> Tray/Jig Setup
+                        </Label.Effect>MATRIX/PALLET
                     </Label>
                     <Button Grid.Column="1" x:Name="btSave" Margin="5 5 5 5">
                         <StackPanel Orientation="Horizontal">
