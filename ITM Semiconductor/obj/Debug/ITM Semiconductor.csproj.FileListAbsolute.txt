@@ -4119,6 +4119,10 @@ D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semicond
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
@@ -4254,8 +4258,3 @@ C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe.config
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\OpenCvSharpExtern.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\opencv_ffmpeg400.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\OpenCvSharpExtern.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll

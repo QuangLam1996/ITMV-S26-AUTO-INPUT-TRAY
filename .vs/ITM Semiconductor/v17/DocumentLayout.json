@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu03.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -30,15 +30,14 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "PgTeachingMenu.xaml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
               "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
               "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-03T08:39:36.414Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-03T08:39:36.414Z"
             },
             {
               "$type": "Document",
@@ -53,15 +52,14 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "PgTeachingMenu01.xaml",
               "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
               "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
               "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
               "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-02T11:41:29.657Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T11:41:29.657Z"
             },
             {
               "$type": "Document",

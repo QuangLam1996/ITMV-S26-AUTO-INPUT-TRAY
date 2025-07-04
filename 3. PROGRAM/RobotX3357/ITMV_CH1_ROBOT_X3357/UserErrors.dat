@@ -1,0 +1,133 @@
+ENVT0100,LM:2025/02/08 04:11:45:188,DS:0000003327,CS:21814,MA:A4-42-3B-5B-43-DD,EI:           
+sRCVersion="7.5.2"
+nNumberOfLabels=26
+Label1 {
+	nError=8000
+	sLabel="Frame_Vacuum_Err"
+	sMessage="Frame Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label2 {
+	nError=8001
+	sLabel="Frame_Blow_Err"
+	sMessage="Frame Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label3 {
+	nError=8002
+	sLabel="T1_Vacuum_Err"
+	sMessage="Tool 1 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label4 {
+	nError=8003
+	sLabel="T1_Blow_Err"
+	sMessage="Tool 1 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label5 {
+	nError=8004
+	sLabel="T2_Vacuum_Err"
+	sMessage="Tool 2 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label6 {
+	nError=8005
+	sLabel="T2_Blow_Err"
+	sMessage="Tool 2 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label7 {
+	nError=8006
+	sLabel="T3_Vacuum_Err"
+	sMessage="Tool 3 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label8 {
+	nError=8007
+	sLabel="T3_Blow_Err"
+	sMessage="Tool 3 Vacuum Sensor Error / Check Frame Vaccum or Sensor or Sol"
+}
+Label9 {
+	nError=8008
+	sLabel="Frame_Down_Err"
+	sMessage="Frame Down Sensor Error / Check Frame Cylinder or Sensor or Sol"
+}
+Label10 {
+	nError=8009
+	sLabel="Frame_Up_Err"
+	sMessage="Frame Up Sensor Error / Check Frame Cylinder or Sensor or Sol"
+}
+Label11 {
+	nError=8010
+	sLabel="T1_Down_Err"
+	sMessage="T1 Down Sensor Error / Check T1 Cylinder or Sensor or Sol"
+}
+Label12 {
+	nError=8011
+	sLabel="T1_Up_Err"
+	sMessage="T1 Up Sensor Error / Check T1 Cylinder or Sensor or Sol"
+}
+Label13 {
+	nError=8012
+	sLabel="T2_Down_Err"
+	sMessage="T2 Down Sensor Error / Check T2 Cylinder or Sensor or Sol"
+}
+Label14 {
+	nError=8013
+	sLabel="T2_Up_Err"
+	sMessage="T2 Up Sensor Error / Check T2 Cylinder or Sensor or Sol"
+}
+Label15 {
+	nError=8014
+	sLabel="T3_Down_Err"
+	sMessage="T3 Down Sensor Error / Check T3 Cylinder or Sensor or Sol"
+}
+Label16 {
+	nError=8015
+	sLabel="T3_Up_Err"
+	sMessage="T3 Up Sensor Error / Check T3 Cylinder or Sensor or Sol"
+}
+Label17 {
+	nError=8020
+	sLabel="Robot_Range_Err"
+	sMessage="PLT Robot Point Out of range / Check Robot PLT Teaching Point"
+}
+Label18 {
+	nError=8021
+	sLabel="PLT_1_Pos_Err"
+	sMessage="Pallet 1 Ready Position Error"
+}
+Label19 {
+	nError=8022
+	sLabel="PLT_2_Pos_Err"
+	sMessage="Pallet 2 Ready Position Error"
+}
+Label20 {
+	nError=8030
+	sLabel="T4_Down_Err"
+	sMessage="T4 Down Sensor Error / Check T4 Cylinder or Sensor or Sol"
+}
+Label21 {
+	nError=8031
+	sLabel="T4_Up_Err"
+	sMessage="T4 Up Sensor Error / Check T4 Cylinder or Sensor or Sol"
+}
+Label22 {
+	nError=8032
+	sLabel="T5_Down_Err"
+	sMessage="T5 Down Sensor Error / Check T5 Cylinder or Sensor or Sol"
+}
+Label23 {
+	nError=8033
+	sLabel="T5_Up_Err"
+	sMessage="T5 Up Sensor Error / Check T5 Cylinder or Sensor or Sol"
+}
+Label24 {
+	nError=8034
+	sLabel="T6_Down_Err"
+	sMessage="T6 Down Sensor Error / Check T6 Cylinder or Sensor or Sol"
+}
+Label25 {
+	nError=8035
+	sLabel="T6_Up_Err"
+	sMessage="T6 Up Sensor Error / Check T6 Cylinder or Sensor or Sol"
+}
+Label26 {
+	nError=8060
+	sLabel="Err_Data_PLC"
+	sMessage="Data pallet convert from PLC wrong!!! Data have value 0 or not integer"
+}

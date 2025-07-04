@@ -212,7 +212,7 @@
                             <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
                                 <Label.Effect>
                                     <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                                </Label.Effect> Jig Matrix
+                                </Label.Effect> ROBOT TOOL
                             </Label>
                         </Grid>
                         <Grid Grid.Row="1">
@@ -235,7 +235,7 @@
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
 
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number Tool On Hand Robot  " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="NUMBER WORK TOOL" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <TextBox Grid.Column="1" x:Name="tbxToolOnCH1" Width="80"  HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
                         </Grid>
@@ -305,7 +305,7 @@
                             <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
                                 <Label.Effect>
                                     <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                                </Label.Effect> Tray Matrix
+                                </Label.Effect>MATRIX TRAY
                             </Label>
                         </Grid>
                         <Grid Grid.Row="5">
@@ -375,7 +375,7 @@
                             <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
                                 <Label.Effect>
                                     <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                                </Label.Effect> Creat Pallet Jig
+                                </Label.Effect>PALLET JIG
                             </Label>
                         </Grid>
 
@@ -448,7 +448,7 @@
                             <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
                                 <Label.Effect>
                                     <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                                </Label.Effect> Creat Pallet Tray
+                                </Label.Effect>PALLET TRAY
                             </Label>
                         </Grid>
 

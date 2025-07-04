@@ -1,0 +1,1059 @@
+ENVT0100,LM:2025/02/13 07:04:30:777,DS:0000015695,CS:05457,MA:A4-42-3B-5B-43-DD,EI:           
+sRCVersion="7.5.2"
+InputBitLabels {
+	nNumberOfLabels=65
+	Label1 {
+		nBit=512
+		sLabel="In_Robot_2_Interlock"
+		sDescription=""
+	}
+	Label2 {
+		nBit=517
+		sLabel="Bypass_Mode"
+		sDescription=""
+	}
+	Label3 {
+		nBit=518
+		sLabel="Go_Home"
+		sDescription=""
+	}
+	Label4 {
+		nBit=519
+		sLabel="Manual_Mode"
+		sDescription=""
+	}
+	Label5 {
+		nBit=521
+		sLabel="Pick_Panel"
+		sDescription=""
+	}
+	Label6 {
+		nBit=522
+		sLabel="Pick_Panel_InPos_Re"
+		sDescription=""
+	}
+	Label7 {
+		nBit=523
+		sLabel="Pick_Panel_Wait"
+		sDescription=""
+	}
+	Label8 {
+		nBit=524
+		sLabel="Pick_Panel_Wait_InPos_Re"
+		sDescription=""
+	}
+	Label9 {
+		nBit=526
+		sLabel="Place_Panel"
+		sDescription=""
+	}
+	Label10 {
+		nBit=527
+		sLabel="Place_Panel_InPos_Re"
+		sDescription=""
+	}
+	Label11 {
+		nBit=528
+		sLabel="Place_Panel_Wait"
+		sDescription=""
+	}
+	Label12 {
+		nBit=529
+		sLabel="Place_Panel_Wait_InPos_Re"
+		sDescription=""
+	}
+	Label13 {
+		nBit=531
+		sLabel="PCB_Pick"
+		sDescription=""
+	}
+	Label14 {
+		nBit=532
+		sLabel="PCB_Pick_InPos_Re"
+		sDescription=""
+	}
+	Label15 {
+		nBit=533
+		sLabel="PCB_Pick_Wait"
+		sDescription=""
+	}
+	Label16 {
+		nBit=534
+		sLabel="PCB_Pick_Wait_InPos_Re"
+		sDescription=""
+	}
+	Label17 {
+		nBit=536
+		sLabel="Place_NG"
+		sDescription=""
+	}
+	Label18 {
+		nBit=537
+		sLabel="Place_NG_Inpos_Re"
+		sDescription=""
+	}
+	Label19 {
+		nBit=538
+		sLabel="PLC_Send_Pallet_Convert"
+		sDescription=""
+	}
+	Label20 {
+		nBit=539
+		sLabel="PCB_Place"
+		sDescription=""
+	}
+	Label21 {
+		nBit=540
+		sLabel="PCB_Place_InPos_Re"
+		sDescription=""
+	}
+	Label22 {
+		nBit=541
+		sLabel="PCB_Place_Wait"
+		sDescription=""
+	}
+	Label23 {
+		nBit=542
+		sLabel="PCB_Place_Wait_InPos_Re"
+		sDescription=""
+	}
+	Label24 {
+		nBit=543
+		sLabel="Pos_Up_Z"
+		sDescription=""
+	}
+	Label25 {
+		nBit=544
+		sLabel="Pos_Up_Z_Inpos_Re"
+		sDescription=""
+	}
+	Label26 {
+		nBit=545
+		sLabel="Hand_Work_Com"
+		sDescription=""
+	}
+	Label27 {
+		nBit=656
+		sLabel="Manual_Frame_Vacuum"
+		sDescription=""
+	}
+	Label28 {
+		nBit=657
+		sLabel="Manual_Frame_Blow"
+		sDescription=""
+	}
+	Label29 {
+		nBit=658
+		sLabel="Manual_Frame_Up"
+		sDescription=""
+	}
+	Label30 {
+		nBit=659
+		sLabel="Manual_Frame_Down"
+		sDescription=""
+	}
+	Label31 {
+		nBit=660
+		sLabel="Manual_T1_Vacuum"
+		sDescription=""
+	}
+	Label32 {
+		nBit=661
+		sLabel="Manual_T1_Blow"
+		sDescription=""
+	}
+	Label33 {
+		nBit=662
+		sLabel="Manual_T1_Up"
+		sDescription=""
+	}
+	Label34 {
+		nBit=663
+		sLabel="Manual_T1_Down"
+		sDescription=""
+	}
+	Label35 {
+		nBit=664
+		sLabel="Manual_T2_Vacuum"
+		sDescription=""
+	}
+	Label36 {
+		nBit=665
+		sLabel="Manual_T2_Blow"
+		sDescription=""
+	}
+	Label37 {
+		nBit=666
+		sLabel="Manual_T2_Up"
+		sDescription=""
+	}
+	Label38 {
+		nBit=667
+		sLabel="Manual_T2_Down"
+		sDescription=""
+	}
+	Label39 {
+		nBit=668
+		sLabel="Manual_T3_Vacuum"
+		sDescription=""
+	}
+	Label40 {
+		nBit=669
+		sLabel="Manual_T3_Blow"
+		sDescription=""
+	}
+	Label41 {
+		nBit=670
+		sLabel="Manual_T3_Up"
+		sDescription=""
+	}
+	Label42 {
+		nBit=671
+		sLabel="Manual_T3_Down"
+		sDescription=""
+	}
+	Label43 {
+		nBit=672
+		sLabel="Err_Vaccum_Frame"
+		sDescription=""
+	}
+	Label44 {
+		nBit=673
+		sLabel="Err_Vaccum_T1"
+		sDescription=""
+	}
+	Label45 {
+		nBit=674
+		sLabel="Err_Vaccum_T2"
+		sDescription=""
+	}
+	Label46 {
+		nBit=675
+		sLabel="Err_Vaccum_T3"
+		sDescription=""
+	}
+	Label47 {
+		nBit=677
+		sLabel="Skip_Vaccum_T1"
+		sDescription=""
+	}
+	Label48 {
+		nBit=678
+		sLabel="Skip_Vaccum_T2"
+		sDescription=""
+	}
+	Label49 {
+		nBit=679
+		sLabel="Skip_Vaccum_T3"
+		sDescription=""
+	}
+	Label50 {
+		nBit=680
+		sLabel="Pick_Again_Frame"
+		sDescription=""
+	}
+	Label51 {
+		nBit=681
+		sLabel="Pick_Again_PCB"
+		sDescription=""
+	}
+	Label52 {
+		nBit=682
+		sLabel="Skip_Vaccum"
+		sDescription=""
+	}
+	Label53 {
+		nBit=686
+		sLabel="Manual_T_All_Up"
+		sDescription=""
+	}
+	Label54 {
+		nBit=687
+		sLabel="Manual_T_All_Down"
+		sDescription=""
+	}
+	Label55 {
+		nBit=688
+		sLabel="Blow_T1_Done"
+		sDescription=""
+	}
+	Label56 {
+		nBit=689
+		sLabel="Blow_T2_Done"
+		sDescription=""
+	}
+	Label57 {
+		nBit=690
+		sLabel="Blow_T3_Done"
+		sDescription=""
+	}
+	Label58 {
+		nBit=691
+		sLabel="Blow_T4_Done"
+		sDescription=""
+	}
+	Label59 {
+		nBit=692
+		sLabel="Blow_T5_Done"
+		sDescription=""
+	}
+	Label60 {
+		nBit=693
+		sLabel="Blow_T6_Done"
+		sDescription=""
+	}
+	Label61 {
+		nBit=694
+		sLabel="Blow_Frame_Done"
+		sDescription=""
+	}
+	Label62 {
+		nBit=695
+		sLabel="Vaccum_Frame_Done"
+		sDescription=""
+	}
+	Label63 {
+		nBit=696
+		sLabel="SS_Vaccum_Frame"
+		sDescription=""
+	}
+	Label64 {
+		nBit=697
+		sLabel="Lot_in_mc"
+		sDescription=""
+	}
+	Label65 {
+		nBit=698
+		sLabel="Lot_End_mc"
+		sDescription=""
+	}
+}
+InputByteLabels {
+	nNumberOfLabels=14
+	Label1 {
+		nByte=80
+		sLabel="Model_In"
+		sDescription=""
+	}
+	Label2 {
+		nByte=81
+		sLabel="Speed_In"
+		sDescription=""
+	}
+	Label3 {
+		nByte=82
+		sLabel="Number_Row_Creat_Pick_Pallet"
+		sDescription=""
+	}
+	Label4 {
+		nByte=83
+		sLabel="Number_Column_Creat_Pick_Pallet"
+		sDescription=""
+	}
+	Label5 {
+		nByte=84
+		sLabel="Number_Row_Creat_Place_Pallet"
+		sDescription=""
+	}
+	Label6 {
+		nByte=85
+		sLabel="Number_Column_Creat_Place_Pallet"
+		sDescription=""
+	}
+	Label7 {
+		nByte=86
+		sLabel="Pallet_Pick_Number"
+		sDescription=""
+	}
+	Label8 {
+		nByte=87
+		sLabel="Pick_Number"
+		sDescription=""
+	}
+	Label9 {
+		nByte=88
+		sLabel="Pallet_Place_Tool"
+		sDescription=""
+	}
+	Label10 {
+		nByte=89
+		sLabel="Place_Number"
+		sDescription=""
+	}
+	Label11 {
+		nByte=90
+		sLabel="NG_Pos_Num"
+		sDescription=""
+	}
+	Label12 {
+		nByte=91
+		sLabel="Number_Pallet_Pick"
+		sDescription=""
+	}
+	Label13 {
+		nByte=92
+		sLabel="Number_Tool_On_Robot"
+		sDescription=""
+	}
+	Label14 {
+		nByte=93
+		sLabel="Number_Pcb_Full_Tray"
+		sDescription=""
+	}
+}
+InputWordLabels {
+	nNumberOfLabels=5
+	Label1 {
+		nWord=58
+		sLabel="Delay_blow"
+		sDescription=""
+	}
+	Label2 {
+		nWord=59
+		sLabel="Pick_again_times"
+		sDescription=""
+	}
+	Label3 {
+		nWord=60
+		sLabel="EA_Point_PickUp_Input"
+		sDescription=""
+	}
+	Label4 {
+		nWord=61
+		sLabel="EA_Point_Place_Input"
+		sDescription=""
+	}
+	Label5 {
+		nWord=62
+		sLabel="Select_Tool_Place"
+		sDescription=""
+	}
+}
+OutputBitLabels {
+	nNumberOfLabels=112
+	Label1 {
+		nBit=512
+		sLabel="Out_Robot_1_Interlock"
+		sDescription=""
+	}
+	Label2 {
+		nBit=517
+		sLabel="Auto_Mode"
+		sDescription=""
+	}
+	Label3 {
+		nBit=518
+		sLabel="At_Home"
+		sDescription=""
+	}
+	Label4 {
+		nBit=519
+		sLabel="Robot_Busy"
+		sDescription=""
+	}
+	Label5 {
+		nBit=521
+		sLabel="Pick_Panel_Re"
+		sDescription=""
+	}
+	Label6 {
+		nBit=522
+		sLabel="Pick_Panel_InPos"
+		sDescription=""
+	}
+	Label7 {
+		nBit=523
+		sLabel="Pick_Panel_Wait_Re"
+		sDescription=""
+	}
+	Label8 {
+		nBit=524
+		sLabel="Pick_Panel_Wait_InPos"
+		sDescription=""
+	}
+	Label9 {
+		nBit=526
+		sLabel="Place_Panel_Re"
+		sDescription=""
+	}
+	Label10 {
+		nBit=527
+		sLabel="Place_Panel_InPos"
+		sDescription=""
+	}
+	Label11 {
+		nBit=528
+		sLabel="Place_Panel_Wait_Re"
+		sDescription=""
+	}
+	Label12 {
+		nBit=529
+		sLabel="Place_Panel_Wait_InPos"
+		sDescription=""
+	}
+	Label13 {
+		nBit=531
+		sLabel="PCB_Pick_Re"
+		sDescription=""
+	}
+	Label14 {
+		nBit=532
+		sLabel="PCB_Pick_InPos"
+		sDescription=""
+	}
+	Label15 {
+		nBit=533
+		sLabel="PCB_Pick_Wait_Re"
+		sDescription=""
+	}
+	Label16 {
+		nBit=534
+		sLabel="PCB_Pick_Wait_InPos"
+		sDescription=""
+	}
+	Label17 {
+		nBit=536
+		sLabel="Place_NG_Re"
+		sDescription=""
+	}
+	Label18 {
+		nBit=537
+		sLabel="Place_NG_Inpos"
+		sDescription=""
+	}
+	Label19 {
+		nBit=538
+		sLabel="Robot_Ch1_Connected_PLC"
+		sDescription=""
+	}
+	Label20 {
+		nBit=539
+		sLabel="PCB_Place_Re"
+		sDescription=""
+	}
+	Label21 {
+		nBit=540
+		sLabel="PCB_Place_InPos"
+		sDescription=""
+	}
+	Label22 {
+		nBit=541
+		sLabel="PCB_Place_Wait_Re"
+		sDescription=""
+	}
+	Label23 {
+		nBit=542
+		sLabel="PCB_Place_Wait_InPos"
+		sDescription=""
+	}
+	Label24 {
+		nBit=543
+		sLabel="Pos_Up_Z_Re"
+		sDescription=""
+	}
+	Label25 {
+		nBit=544
+		sLabel="Pos_Up_Z_Inpos"
+		sDescription=""
+	}
+	Label26 {
+		nBit=545
+		sLabel="PCB_Pick_Com"
+		sDescription=""
+	}
+	Label27 {
+		nBit=546
+		sLabel="PCB_Place_Com"
+		sDescription=""
+	}
+	Label28 {
+		nBit=550
+		sLabel="T1_Vac_Sol"
+		sDescription=""
+	}
+	Label29 {
+		nBit=551
+		sLabel="T2_Vac_Sol"
+		sDescription=""
+	}
+	Label30 {
+		nBit=552
+		sLabel="T3_Vac_Sol"
+		sDescription=""
+	}
+	Label31 {
+		nBit=553
+		sLabel="T4_Vac_Sol"
+		sDescription=""
+	}
+	Label32 {
+		nBit=554
+		sLabel="T5_Vac_Sol"
+		sDescription=""
+	}
+	Label33 {
+		nBit=555
+		sLabel="T6_Vac_Sol"
+		sDescription=""
+	}
+	Label34 {
+		nBit=556
+		sLabel="T1_Blow_Sol"
+		sDescription=""
+	}
+	Label35 {
+		nBit=557
+		sLabel="T2_Blow_Sol"
+		sDescription=""
+	}
+	Label36 {
+		nBit=558
+		sLabel="T3_Blow_Sol"
+		sDescription=""
+	}
+	Label37 {
+		nBit=559
+		sLabel="T4_Blow_Sol"
+		sDescription=""
+	}
+	Label38 {
+		nBit=560
+		sLabel="T5_Blow_Sol"
+		sDescription=""
+	}
+	Label39 {
+		nBit=561
+		sLabel="T6_Blow_Sol"
+		sDescription=""
+	}
+	Label40 {
+		nBit=562
+		sLabel="T1_Down_Sol"
+		sDescription=""
+	}
+	Label41 {
+		nBit=563
+		sLabel="T2_Down_Sol"
+		sDescription=""
+	}
+	Label42 {
+		nBit=564
+		sLabel="T3_Down_Sol"
+		sDescription=""
+	}
+	Label43 {
+		nBit=565
+		sLabel="T4_Down_Sol"
+		sDescription=""
+	}
+	Label44 {
+		nBit=566
+		sLabel="T5_Down_Sol"
+		sDescription=""
+	}
+	Label45 {
+		nBit=567
+		sLabel="T6_Down_Sol"
+		sDescription=""
+	}
+	Label46 {
+		nBit=568
+		sLabel="Frame_Vac_Sol"
+		sDescription=""
+	}
+	Label47 {
+		nBit=569
+		sLabel="Frame_Blow_Sol"
+		sDescription=""
+	}
+	Label48 {
+		nBit=570
+		sLabel="Frame_Down_Sol"
+		sDescription=""
+	}
+	Label49 {
+		nBit=571
+		sLabel="Sol_Vac_T7"
+		sDescription=""
+	}
+	Label50 {
+		nBit=572
+		sLabel="Sol_Vac_T8"
+		sDescription=""
+	}
+	Label51 {
+		nBit=573
+		sLabel="Sol_Vac_T9"
+		sDescription=""
+	}
+	Label52 {
+		nBit=574
+		sLabel="Sol_Blow_T7"
+		sDescription=""
+	}
+	Label53 {
+		nBit=575
+		sLabel="Sol_Blow_T8"
+		sDescription=""
+	}
+	Label54 {
+		nBit=576
+		sLabel="Sol_Blow_T9"
+		sDescription=""
+	}
+	Label55 {
+		nBit=577
+		sLabel="Sol_Down_T7"
+		sDescription=""
+	}
+	Label56 {
+		nBit=578
+		sLabel="Sol_Down_T8"
+		sDescription=""
+	}
+	Label57 {
+		nBit=579
+		sLabel="Sol_Down_T9"
+		sDescription=""
+	}
+	Label58 {
+		nBit=580
+		sLabel="Sol_Vac_T10"
+		sDescription=""
+	}
+	Label59 {
+		nBit=581
+		sLabel="Sol_Vac_T11"
+		sDescription=""
+	}
+	Label60 {
+		nBit=582
+		sLabel="Sol_Vac_T12"
+		sDescription=""
+	}
+	Label61 {
+		nBit=583
+		sLabel="Sol_Vac_T13"
+		sDescription=""
+	}
+	Label62 {
+		nBit=584
+		sLabel="Sol_Vac_T14"
+		sDescription=""
+	}
+	Label63 {
+		nBit=585
+		sLabel="Sol_Blow_T10"
+		sDescription=""
+	}
+	Label64 {
+		nBit=586
+		sLabel="Sol_Blow_T11"
+		sDescription=""
+	}
+	Label65 {
+		nBit=587
+		sLabel="Sol_Blow_T12"
+		sDescription=""
+	}
+	Label66 {
+		nBit=588
+		sLabel="Sol_Blow_T13"
+		sDescription=""
+	}
+	Label67 {
+		nBit=589
+		sLabel="Sol_Blow_T14"
+		sDescription=""
+	}
+	Label68 {
+		nBit=590
+		sLabel="Sol_Down_T10"
+		sDescription=""
+	}
+	Label69 {
+		nBit=591
+		sLabel="Sol_Down_T11"
+		sDescription=""
+	}
+	Label70 {
+		nBit=592
+		sLabel="Sol_Down_T12"
+		sDescription=""
+	}
+	Label71 {
+		nBit=593
+		sLabel="Sol_Down_T13"
+		sDescription=""
+	}
+	Label72 {
+		nBit=594
+		sLabel="Sol_Down_T14"
+		sDescription=""
+	}
+	Label73 {
+		nBit=840
+		sLabel="T4_Vacuum_Sensor_Re"
+		sDescription=""
+	}
+	Label74 {
+		nBit=841
+		sLabel="T4_Up_Sensor_Re"
+		sDescription=""
+	}
+	Label75 {
+		nBit=842
+		sLabel="T4_Down_Sensor_Re"
+		sDescription=""
+	}
+	Label76 {
+		nBit=843
+		sLabel="T5_Vacuum_Sensor_Re"
+		sDescription=""
+	}
+	Label77 {
+		nBit=844
+		sLabel="T5_Up_Sensor_Re"
+		sDescription=""
+	}
+	Label78 {
+		nBit=845
+		sLabel="T5_Down_Sensor_Re"
+		sDescription=""
+	}
+	Label79 {
+		nBit=846
+		sLabel="T6_Vacuum_Sensor_Re"
+		sDescription=""
+	}
+	Label80 {
+		nBit=847
+		sLabel="T6_Up_Sensor_Re"
+		sDescription=""
+	}
+	Label81 {
+		nBit=848
+		sLabel="T6_Down_Sensor_Re"
+		sDescription=""
+	}
+	Label82 {
+		nBit=849
+		sLabel="Err_T1_Down"
+		sDescription=""
+	}
+	Label83 {
+		nBit=850
+		sLabel="Err_T1_Up"
+		sDescription=""
+	}
+	Label84 {
+		nBit=851
+		sLabel="Err_T2_Down"
+		sDescription=""
+	}
+	Label85 {
+		nBit=852
+		sLabel="Err_T2_Up"
+		sDescription=""
+	}
+	Label86 {
+		nBit=853
+		sLabel="Err_T3_Down"
+		sDescription=""
+	}
+	Label87 {
+		nBit=854
+		sLabel="Err_T3_Up"
+		sDescription=""
+	}
+	Label88 {
+		nBit=855
+		sLabel="Err_T4_Down"
+		sDescription=""
+	}
+	Label89 {
+		nBit=856
+		sLabel="Err_T4_Up"
+		sDescription=""
+	}
+	Label90 {
+		nBit=857
+		sLabel="Err_T5_Down"
+		sDescription=""
+	}
+	Label91 {
+		nBit=858
+		sLabel="Err_T5_Up"
+		sDescription=""
+	}
+	Label92 {
+		nBit=859
+		sLabel="Err_T6_Down"
+		sDescription=""
+	}
+	Label93 {
+		nBit=860
+		sLabel="Err_T6_Up"
+		sDescription=""
+	}
+	Label94 {
+		nBit=861
+		sLabel="Err_Drop_T1"
+		sDescription=""
+	}
+	Label95 {
+		nBit=862
+		sLabel="Err_Drop_T2"
+		sDescription=""
+	}
+	Label96 {
+		nBit=863
+		sLabel="Err_Drop_T3"
+		sDescription=""
+	}
+	Label97 {
+		nBit=864
+		sLabel="Err_Drop_T4"
+		sDescription=""
+	}
+	Label98 {
+		nBit=865
+		sLabel="Err_Drop_T5"
+		sDescription=""
+	}
+	Label99 {
+		nBit=866
+		sLabel="Err_Drop_T6"
+		sDescription=""
+	}
+	Label100 {
+		nBit=867
+		sLabel="T4_Down_Sol_Re"
+		sDescription=""
+	}
+	Label101 {
+		nBit=868
+		sLabel="T5_Down_Sol_Re"
+		sDescription=""
+	}
+	Label102 {
+		nBit=869
+		sLabel="T6_Down_Sol_Re"
+		sDescription=""
+	}
+	Label103 {
+		nBit=870
+		sLabel="Drop_Count_Send"
+		sDescription=""
+	}
+	Label104 {
+		nBit=871
+		sLabel="Ok_Count_Send"
+		sDescription=""
+	}
+	Label105 {
+		nBit=872
+		sLabel="NG_Count_Send"
+		sDescription=""
+	}
+	Label106 {
+		nBit=873
+		sLabel="Home_inpos"
+		sDescription=""
+	}
+	Label107 {
+		nBit=874
+		sLabel="PCB_Pick_Up_inpos1"
+		sDescription=""
+	}
+	Label108 {
+		nBit=875
+		sLabel="PCB_Place_inpos1"
+		sDescription=""
+	}
+	Label109 {
+		nBit=876
+		sLabel="One_Cycle_PCB_done"
+		sDescription=""
+	}
+	Label110 {
+		nBit=877
+		sLabel="EA_Pick_Up_inpos"
+		sDescription=""
+	}
+	Label111 {
+		nBit=878
+		sLabel="EA_Place_inpos"
+		sDescription=""
+	}
+	Label112 {
+		nBit=879
+		sLabel="One_Cycle_EA_done"
+		sDescription=""
+	}
+}
+OutputByteLabels {
+	nNumberOfLabels=7
+	Label1 {
+		nByte=80
+		sLabel="Model_Return"
+		sDescription=""
+	}
+	Label2 {
+		nByte=81
+		sLabel="Speed_Return"
+		sDescription=""
+	}
+	Label3 {
+		nByte=82
+		sLabel="PCB_Count_Return"
+		sDescription=""
+	}
+	Label4 {
+		nByte=83
+		sLabel="PLT_Count_Return"
+		sDescription=""
+	}
+	Label5 {
+		nByte=86
+		sLabel="Pos_Inpos"
+		sDescription=""
+	}
+	Label6 {
+		nByte=300
+		sLabel="Pallet_Count_Convert_S"
+		sDescription=""
+	}
+	Label7 {
+		nByte=301
+		sLabel="remember_odd_place_S"
+		sDescription=""
+	}
+}
+OutputWordLabels {
+	nNumberOfLabels=3
+	Label1 {
+		nWord=58
+		sLabel="Timer"
+		sDescription=""
+	}
+	Label2 {
+		nWord=60
+		sLabel="OK_Count"
+		sDescription=""
+	}
+	Label3 {
+		nWord=62
+		sLabel="NG_Count"
+		sDescription=""
+	}
+}
+MemoryBitLabels {
+	nNumberOfLabels=0
+}
+MemoryByteLabels {
+	nNumberOfLabels=0
+}
+MemoryWordLabels {
+	nNumberOfLabels=0
+}
