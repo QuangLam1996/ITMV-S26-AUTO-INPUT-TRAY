@@ -7,7 +7,6 @@
       mc:Ignorable="d" 
      d:DesignHeight="790" d:DesignWidth="1300"
       Title="PgTeachingMenu03">
-
     <Grid Background="White">
         <Grid.ColumnDefinitions>
             <ColumnDefinition Width="1100*"></ColumnDefinition>
@@ -44,13 +43,11 @@
                         <GradientStop Color="#879ec8" Offset="1"/>
                     </LinearGradientBrush>
                 </Border.Background>
-
                 <Grid>
                     <Canvas>
                         <Polygon Points="0,20,130,80,0,170" Fill="#879ec8"/>
                         <Polygon Points="100,400,200,370,180,470" Fill="#879ec8"/>
                         <Ellipse Margin="50 400 0 0" Width="40" Height="40" Fill="#879ec8"/>
-
                     </Canvas>
                     <StackPanel VerticalAlignment="Bottom">
                         <TextBlock Text="ITM" Style="{StaticResource titleText}"/>
@@ -67,54 +64,25 @@
                     <StackPanel Orientation="Vertical" HorizontalAlignment="Center" Margin="0 100 0 0" >
                         <Button x:Name="btSetting1"  Height="60" Width="215" Style="{StaticResource sButton}" Margin="0 5 5 5" BorderThickness="0">
                             <StackPanel Orientation="Horizontal">
-
-                                <!--<Image Source="/Folder/PageUI/Icon/button on.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
-
                                 <TextBlock Padding="10" Text="MAGAZINE" Foreground="Black" Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
-
-
-
                         <Button x:Name="btSetting2"  Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-
-                                <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
                                 <TextBlock Padding="10" Text="CHANNEL 1"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
-
-
-
                         <Button x:Name="btSetting3"  Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
-
-                                <!--Add an Image control here with the source attribute pointing to your image file-->
-
-                                <!--<Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>-->
                                 <TextBlock Padding="10" Text="CHANNEL 2"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
-                        <!--<Button x:Name="btSetting5"  Height="60" Width="215" >
-                     <StackPanel Orientation="Horizontal">
-
-
-
-                         <Image Source="/Folder/PageUI/Icon/button off.png" VerticalAlignment="Center"  Margin="0 5 0 0" ></Image>
-                         <TextBlock Padding="10" Text="Robot jog"  Margin="10" VerticalAlignment="Center"/>
-                     </StackPanel>
-                 </Button>-->
-
 
                         <Button x:Name="btSetting4"  Background="LightGreen" Height="60" Width="215" >
                             <StackPanel Orientation="Horizontal">
                                 <TextBlock Padding="10" Text="MATRIX/PALLET"  Margin="10" VerticalAlignment="Center"/>
                             </StackPanel>
                         </Button>
-
                     </StackPanel>
                 </Grid>
             </Border>
@@ -158,19 +126,16 @@
                         <StackPanel Orientation="Horizontal">
                             <Image Margin="5" Source="/Folder/PageUI/Icon/save.png" />
                             <TextBlock VerticalAlignment="Center" Margin="10,0,10,0"
-         FontSize="20" FontWeight="Bold">Save</TextBlock>
+                                   FontSize="20" FontWeight="Bold">Save</TextBlock>
                         </StackPanel>
                     </Button>
                 </Grid>
                 <Grid Grid.Row="1" Margin=" 0 2 0 0">
-
                     <Grid.RowDefinitions>
                         <RowDefinition Height="10"></RowDefinition>
                         <RowDefinition Height="9*"></RowDefinition>
                         <RowDefinition Height="9"></RowDefinition>
-
                     </Grid.RowDefinitions>
-
                     <Grid  Grid.Row="1">
                         <Grid.Resources>
                             <Style TargetType="Button" BasedOn="{StaticResource sButton}">
@@ -198,10 +163,7 @@
                             <RowDefinition></RowDefinition>
                             <RowDefinition></RowDefinition>
                             <RowDefinition></RowDefinition>
-
                         </Grid.RowDefinitions>
-
-
                         <Grid Grid.Row="0" Margin="0 0 0 0">
                             <Grid.Background>
                                 <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
@@ -234,12 +196,11 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
-
                                 <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="NUMBER WORK TOOL" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <TextBox Grid.Column="1" x:Name="tbxToolOnCH1" Width="80"  HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
                         </Grid>
-                        <Grid Grid.Row="2">
+                        <!--<Grid Grid.Row="2">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
@@ -247,7 +208,6 @@
                                 <ColumnDefinition></ColumnDefinition>
                             </Grid.ColumnDefinitions>
                             <Grid.Resources>
-
                                 <Style TargetType="TextBox">
                                     <Setter Property="Background" Value="Black"/>
                                     <Setter Property="Foreground" Value="Cyan"/>
@@ -258,15 +218,12 @@
                                     <Setter Property="Padding" Value="1,1,1,1"/>
                                 </Style>
                             </Grid.Resources>
-                            <StackPanel Orientation="Horizontal">
-
+                            --><!--<StackPanel Orientation="Horizontal">
                                 <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number Pick In One Pallet Jig" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-
-
-                            </StackPanel>
-                            <TextBox Grid.Column="1" x:Name="tbxPaletJigCH1"  Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                        </Grid>
-                        <Grid Grid.Row="3">
+                            </StackPanel>-->
+                            <!--<TextBox Grid.Column="1" x:Name="tbxPaletJigCH1"  Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>--><!--
+                        </Grid>-->
+                        <!--<Grid Grid.Row="3">
                             <Grid.ColumnDefinitions>
                                 <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
@@ -284,18 +241,12 @@
                                     <Setter Property="Padding" Value="1,1,1,1"/>
                                 </Style>
                             </Grid.Resources>
-                            <StackPanel Orientation="Horizontal">
-
+                            --><!--<StackPanel Orientation="Horizontal">
                                 <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number Pick In Jig" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-
-
-                            </StackPanel>
-                            <TextBox Grid.Column="1" x:Name="tbxPickJigCH1"  Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                        </Grid>
-
-
-
-                        <Grid Grid.Row="4" Margin="0 0 0 0">
+                            </StackPanel>-->
+                            <!--<TextBox Grid.Column="1" x:Name="tbxPickJigCH1"  Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>--><!--
+                        </Grid>-->
+                        <Grid Grid.Row="2" Margin="0 0 0 0">
                             <Grid.Background>
                                 <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
                                     <GradientStop Color="White" Offset="0"/>
@@ -308,11 +259,10 @@
                                 </Label.Effect>MATRIX TRAY
                             </Label>
                         </Grid>
-                        <Grid Grid.Row="5">
+                        <Grid Grid.Row="3">
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="215"></ColumnDefinition>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
-
                                 <ColumnDefinition></ColumnDefinition>
                             </Grid.ColumnDefinitions>
                             <Grid.Resources>
@@ -327,18 +277,49 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Column Tray " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="TRAY COLUMN" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <Grid Grid.Column="1">
                                 <StackPanel Orientation="Horizontal">
-                                    <TextBox x:Name="tbxColumTrayCH1" Width="80" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                                    <Label Padding="20 0 20 0" VerticalAlignment="Center" HorizontalAlignment="Center"   Content="X" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                                     <TextBox x:Name="tbxRowTrayCH1" Width="80" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                                    <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="    Row Tray " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                                 </StackPanel>
                             </Grid>
+                        </Grid>
+                        <Grid Grid.Row="4">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.Resources>
+                                <Style TargetType="TextBox">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="Cyan"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="FontSize" Value="25"/>
+                                    <Setter Property="Padding" Value="1,1,1,1"/>
+                                </Style>
+                            </Grid.Resources>
+                            <StackPanel Orientation="Horizontal">
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="TRAY ROW" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                            </StackPanel>
+                            <TextBox Grid.Column="1" x:Name="tbxPaletRowCH1" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
+                        </Grid>
+                        <Grid Grid.Row="5" Margin="0 0 0 0">
+                            <Grid.Background>
+                                <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
+                                    <GradientStop Color="White" Offset="0"/>
+                                    <GradientStop Color="#879ec0" Offset="1.1"/>
+                                </LinearGradientBrush>
+                            </Grid.Background>
+                            <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
+                                <Label.Effect>
+                                    <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
+                                </Label.Effect>PALLET TRAY
+                            </Label>
                         </Grid>
                         <Grid Grid.Row="6">
                             <Grid.ColumnDefinitions>
@@ -359,13 +340,38 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number rows per transfer tray" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="PALLET TRAY COLUMN" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
-                            <TextBox Grid.Column="1" x:Name="tbxPaletRowCH1" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
+                            <TextBox Grid.Column="1" x:Name="tbxNumberPalletJig" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
                         </Grid>
+                        <Grid Grid.Row="7">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
 
-                        <Grid Grid.Row="7" Margin="0 0 0 0">
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.Resources>
+                                <Style TargetType="TextBox">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="Cyan"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="FontSize" Value="25"/>
+                                    <Setter Property="Padding" Value="1,1,1,1"/>
+                                </Style>
+                            </Grid.Resources>
+                            <StackPanel Orientation="Horizontal">
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="PALLET TRAY ROW" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                            </StackPanel>
+                            <Grid Grid.Column="1">
+                                <StackPanel Orientation="Horizontal">
+                                    <TextBox x:Name="tbxNumberColumnCreatPlacePallet" Width="80" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
+                                </StackPanel>
+                            </Grid>
+                        </Grid>
+                        <Grid Grid.Row="8" Margin="0 0 0 0">
                             <Grid.Background>
                                 <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
                                     <GradientStop Color="White" Offset="0"/>
@@ -378,10 +384,9 @@
                                 </Label.Effect>PALLET JIG
                             </Label>
                         </Grid>
-
-                        <Grid Grid.Row="8">
+                        <Grid Grid.Row="10">
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="250"></ColumnDefinition>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
@@ -398,89 +403,13 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number Pallet  Jig" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-                            </StackPanel>
-                            <TextBox Grid.Column="1" x:Name="tbxNumberPalletJig" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                        </Grid>
-
-                        <Grid Grid.Row="9">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="250"></ColumnDefinition>
-                                <ColumnDefinition></ColumnDefinition>
-
-                                <ColumnDefinition></ColumnDefinition>
-                            </Grid.ColumnDefinitions>
-                            <Grid.Resources>
-                                <Style TargetType="TextBox">
-                                    <Setter Property="Background" Value="Black"/>
-                                    <Setter Property="Foreground" Value="Cyan"/>
-                                    <Setter Property="FontWeight" Value="Bold"/>
-                                    <Setter Property="VerticalContentAlignment" Value="Center"/>
-                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
-                                    <Setter Property="FontSize" Value="25"/>
-                                    <Setter Property="Padding" Value="1,1,1,1"/>
-                                </Style>
-                            </Grid.Resources>
-                            <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Column Jig " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-
-                            </StackPanel>
-                            <Grid Grid.Column="1">
-                                <StackPanel Orientation="Horizontal">
-                                    <TextBox x:Name="tbxNumberColumnCreatPlacePallet" Width="80" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                                    <Label Padding="20 0 20 0" VerticalAlignment="Center" HorizontalAlignment="Center"   Content="X" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-                                    <TextBox x:Name="tbxNumberrowCreatPickPallet" Width="80" Grid.Row="0" HorizontalAlignment="Center" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
-                                    <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="    Row Jig " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
-                                </StackPanel>
-                            </Grid>
-                        </Grid>
-
-
-                        <Grid Grid.Row="10" Margin="0 0 0 0">
-                            <Grid.Background>
-                                <LinearGradientBrush StartPoint="1,0" EndPoint="0,1">
-                                    <GradientStop Color="White" Offset="0"/>
-                                    <GradientStop Color="#879ec0" Offset="1.1"/>
-                                </LinearGradientBrush>
-                            </Grid.Background>
-                            <Label  FontWeight="Bold" Foreground="White" FontSize="30" VerticalContentAlignment="Center" BorderThickness="1" BorderBrush="White" Margin="0,0,10,0" >
-                                <Label.Effect>
-                                    <DropShadowEffect Color="Black" Direction="320" ShadowDepth="5" Opacity="0.3"/>
-                                </Label.Effect>PALLET TRAY
-                            </Label>
-                        </Grid>
-
-
-                        <Grid Grid.Row="11">
-                            <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="360"></ColumnDefinition>
-                                <ColumnDefinition></ColumnDefinition>
-                                <ColumnDefinition></ColumnDefinition>
-                                <ColumnDefinition></ColumnDefinition>
-                            </Grid.ColumnDefinitions>
-                            <Grid.Resources>
-                                <Style TargetType="TextBox">
-                                    <Setter Property="Background" Value="Black"/>
-                                    <Setter Property="Foreground" Value="Cyan"/>
-                                    <Setter Property="FontWeight" Value="Bold"/>
-                                    <Setter Property="VerticalContentAlignment" Value="Center"/>
-                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
-                                    <Setter Property="FontSize" Value="25"/>
-                                    <Setter Property="Padding" Value="1,1,1,1"/>
-                                </Style>
-                            </Grid.Resources>
-                            <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number row Creat Place Pallet" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="PALLET JIG COLUMN" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <TextBox Grid.Column="1" x:Name="tbxNumberrowCreatPlacePalletTray" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
                         </Grid>
-
-                        <Grid Grid.Row="12">
+                        <Grid Grid.Row="9">
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="360"></ColumnDefinition>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
@@ -497,16 +426,13 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
-
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Number column Creat Place Pallet" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="PALLET NUMBER / JIG" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <TextBox Grid.Column="1" x:Name="tbxNumbercolumnCreatPlacePalletTray" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
                         </Grid>
-
-
-                        <Grid Grid.Row="13">
+                        <Grid Grid.Row="11">
                             <Grid.ColumnDefinitions>
-                                <ColumnDefinition Width="360"></ColumnDefinition>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
                                 <ColumnDefinition></ColumnDefinition>
@@ -523,37 +449,54 @@
                                 </Style>
                             </Grid.Resources>
                             <StackPanel Orientation="Horizontal">
+                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="PALLET JIG ROW" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                            </StackPanel>
+                            <TextBox Grid.Column="1" x:Name="tbxNumberrowCreatPlacePalletTra" Width="80" Grid.Row="0" HorizontalAlignment="Left" VerticalAlignment="Center"  Text="0" FontFamily="Bahnschrift SemiBold Condensed" FontSize="35"></TextBox>
+                        </Grid>
 
-                                <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="Have Tool Frame " Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
+                        <Grid Grid.Row="13">
+                            <Grid.ColumnDefinitions>
+                                <ColumnDefinition Width="350"></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                                <ColumnDefinition></ColumnDefinition>
+                            </Grid.ColumnDefinitions>
+                            <Grid.Resources>
+                                <Style TargetType="TextBox">
+                                    <Setter Property="Background" Value="Black"/>
+                                    <Setter Property="Foreground" Value="Cyan"/>
+                                    <Setter Property="FontWeight" Value="Bold"/>
+                                    <Setter Property="VerticalContentAlignment" Value="Center"/>
+                                    <Setter Property="HorizontalContentAlignment" Value="Center"/>
+                                    <Setter Property="FontSize" Value="25"/>
+                                    <Setter Property="Padding" Value="1,1,1,1"/>
+                                </Style>
+                            </Grid.Resources>
+                            <StackPanel Orientation="Horizontal">
+                                 <Label VerticalAlignment="Center" HorizontalAlignment="Center"   Content="TOOL PICKUP SUS" Foreground="Black" FontSize="21" FontWeight="Bold"></Label>
                             </StackPanel>
                             <Grid Grid.Column="1">
                                 <StackPanel Orientation="Horizontal">
 
-                                    <Button Grid.Column="1" Width="100" x:Name="btnOnFrame" Margin="5 5 5 5">
+                                    <Button Grid.Column="1" Width="80" x:Name="btnOnFrame" Margin="0,5,0,5">
                                         <StackPanel Orientation="Horizontal">
-
-                                            <TextBlock Foreground="Black" VerticalAlignment="Center" Margin="10,0,10,0"
-FontSize="20" FontWeight="Bold">Use</TextBlock>
+                                            <TextBlock Foreground="Black" VerticalAlignment="Center" Margin="0,0,0,0"
+                                                        FontSize="20" FontWeight="Bold">Use</TextBlock>
                                         </StackPanel>
                                     </Button>
-                                    <Button Grid.Column="1" Width="100" x:Name="btnOffFrame" Margin="5 5 5 5">
+                                    <Button Grid.Column="1" Width="80" x:Name="btnOffFrame" Margin="0,5,0,5">
                                         <StackPanel Orientation="Horizontal">
 
-                                            <TextBlock Foreground="Black" VerticalAlignment="Center" Margin="10,0,10,0"
-FontSize="20" FontWeight="Bold">No Use</TextBlock>
+                                            <TextBlock Foreground="Black" VerticalAlignment="Center" Margin="0,0,0,0"
+                                                        FontSize="20" FontWeight="Bold">No Use</TextBlock>
                                         </StackPanel>
                                     </Button>
                                 </StackPanel>
                             </Grid>
-
                         </Grid>
                     </Grid>
-
-
                 </Grid>
             </Grid>
         </Grid>
-
-
     </Grid>
 </Page>

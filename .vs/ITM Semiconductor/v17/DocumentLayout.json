@@ -3,20 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|c:\\users\\administrator\\desktop\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu03.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu03.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu01.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg teaching menu\\pgteachingmenu02.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|c:\\users\\administrator\\desktop\\itm semiconductor\\itm semiconductor\\folder\\pageui\\pg manual operation\\pgmanualoperation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{8AE09138-DAB3-4831-9032-A1ABEA0EE541}|ITM Semiconductor\\ITM Semiconductor.csproj|solutionrelative:itm semiconductor\\folder\\pageui\\pg manual operation\\pgmanualoperation.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,51 +14,18 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "PgTeachingMenu.xaml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
-              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
-              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-03T08:39:36.414Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "PgTeachingMenu02.xaml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
-              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
-              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu02.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-02T11:41:30.288Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "PgTeachingMenu01.xaml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
-              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
-              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu01.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-02T11:41:29.657Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "PgTeachingMenu03.xaml",
-              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
-              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
-              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
-              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Teaching Menu\\PgTeachingMenu03.xaml",
+              "Title": "PgManualOperation.xaml",
+              "DocumentMoniker": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Manual Operation\\PgManualOperation.xaml",
+              "RelativeDocumentMoniker": "ITM Semiconductor\\Folder\\PageUI\\Pg Manual Operation\\PgManualOperation.xaml",
+              "ToolTip": "C:\\Users\\Administrator\\Desktop\\ITM Semiconductor\\ITM Semiconductor\\Folder\\PageUI\\Pg Manual Operation\\PgManualOperation.xaml",
+              "RelativeToolTip": "ITM Semiconductor\\Folder\\PageUI\\Pg Manual Operation\\PgManualOperation.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2025-07-02T11:40:46.535Z",
+              "WhenOpened": "2025-07-05T03:23:37.749Z",
               "EditorCaption": ""
             }
           ]

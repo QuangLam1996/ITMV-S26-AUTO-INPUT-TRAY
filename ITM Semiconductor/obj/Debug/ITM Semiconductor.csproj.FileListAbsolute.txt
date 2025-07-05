@@ -4119,33 +4119,6 @@ D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semicond
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
 D:\ITM_\52.PSG AUTO LASER\4. HMI\06. LaserCutting\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\OpenCvSharpExtern.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\opencv_ffmpeg400.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\OpenCvSharpExtern.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll.config
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EPPlus.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\FluentFTP.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.Blob.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.Extensions.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.UserInterface.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Buffers.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Drawing.Common.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Memory.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Numerics.Vectors.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.ValueTuple.xml
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.AssemblyReference.cache
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\LabelStyle.baml
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\Style\Page.baml
@@ -4254,7 +4227,35 @@ C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM_Semiconductor.Properties.Resources.resources
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.GenerateResource.cache
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.CoreCompileInputs.cache
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.Fody.CopyLocal.cache
-C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe
 C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.pdb
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x86\opencv_ffmpeg400.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\OpenCvSharpExtern.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\dll\x64\opencv_ffmpeg400_64.dll
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe.config
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.exe
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\ITM Semiconductor.pdb
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\DTO.dll.config
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\EPPlus.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\FluentFTP.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\KeyPad.dll.config
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.Blob.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.Extensions.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\OpenCvSharp.UserInterface.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Buffers.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Data.SQLite.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Drawing.Common.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Memory.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\bin\Debug\System.ValueTuple.xml
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.csproj.Fody.CopyLocal.cache
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semi.7FC71DE6.Up2Date
+C:\Users\Administrator\Desktop\ITM Semiconductor\ITM Semiconductor\obj\Debug\ITM Semiconductor.exe.config

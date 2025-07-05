@@ -64,15 +64,15 @@ namespace ITM_Semiconductor
             this.btnOffFrame.Click += BtnOffFrame_Click;
             this.btnOnFrame.Click += BtnOnFrame_Click;
 
-            this.tbxColumTrayCH1.TouchDown += Tbx_TouchDown;
+            //this.tbxColumTrayCH1.TouchDown += Tbx_TouchDown;
             this.tbxNumbercolumnCreatPlacePalletTray.TouchDown += Tbx_TouchDown;
             this.tbxNumberPalletJig.TouchDown += Tbx_TouchDown;
-            this.tbxNumberrowCreatPickPallet.TouchDown += Tbx_TouchDown;
+            //this.tbxNumberrowCreatPickPallet.TouchDown += Tbx_TouchDown;
             this.tbxNumberColumnCreatPlacePallet.TouchDown += Tbx_TouchDown;
             this.tbxNumberrowCreatPlacePalletTray.TouchDown += Tbx_TouchDown;
-            this.tbxPaletJigCH1.TouchDown += Tbx_TouchDown;
+            //this.tbxPaletJigCH1.TouchDown += Tbx_TouchDown;
             this.tbxPaletRowCH1.TouchDown += Tbx_TouchDown;
-            this.tbxPickJigCH1.TouchDown += Tbx_TouchDown;
+            //this.tbxPickJigCH1.TouchDown += Tbx_TouchDown;
             this.tbxRowTrayCH1.TouchDown += Tbx_TouchDown;
             this.tbxToolOnCH1.TouchDown += Tbx_TouchDown;
 
@@ -134,16 +134,16 @@ namespace ITM_Semiconductor
 
 
             tbxToolOnCH1.Text = ToolOnCH1.ToString();
-            tbxPaletJigCH1.Text = OnePaletJigCH1.ToString();
-            tbxPickJigCH1.Text = PickJigCH1.ToString();
+            //tbxPaletJigCH1.Text = OnePaletJigCH1.ToString();
+            //tbxPickJigCH1.Text = PickJigCH1.ToString();
 
 
             tbxRowTrayCH1.Text = RowTrayCH1.ToString();
-            tbxColumTrayCH1.Text = ColumTrayCH1.ToString();
+            //tbxColumTrayCH1.Text = ColumTrayCH1.ToString();
             tbxPaletRowCH1.Text = PaletCH1.ToString();
 
             tbxNumberPalletJig.Text = NumberPalletJig.ToString();
-            tbxNumberrowCreatPickPallet.Text = NumberrowCreatPickPalletJig.ToString();
+            //tbxNumberrowCreatPickPallet.Text = NumberrowCreatPickPalletJig.ToString();
             tbxNumberColumnCreatPlacePallet.Text = NumbercolumnCreatPickPalletJig.ToString();
 
             tbxNumberrowCreatPlacePalletTray.Text = NumberrowCreatPlacePalletTray.ToString();
@@ -171,16 +171,16 @@ namespace ITM_Semiconductor
             if (!confirmYesNo.DoComfirmYesNo("Do You Want Save Setting?"))
                 return;
             ToolOnCH1 = Convert.ToInt16(this.tbxToolOnCH1.Text);
-            OnePaletJigCH1 = Convert.ToInt16(this.tbxPaletJigCH1.Text);
-            PickJigCH1 = Convert.ToInt16(this.tbxPickJigCH1.Text);
+            //OnePaletJigCH1 = Convert.ToInt16(this.tbxPaletJigCH1.Text);
+            //PickJigCH1 = Convert.ToInt16(this.tbxPickJigCH1.Text);
 
 
             RowTrayCH1 = Convert.ToInt16(this.tbxRowTrayCH1.Text);
-            ColumTrayCH1 = Convert.ToInt16(this.tbxColumTrayCH1.Text);
+            //ColumTrayCH1 = Convert.ToInt16(this.tbxColumTrayCH1.Text);
             PaletCH1 = Convert.ToInt16(this.tbxPaletRowCH1.Text);
 
             NumberPalletJig = Convert.ToInt16(this.tbxNumberPalletJig.Text);
-            NumberrowCreatPickPalletJig = Convert.ToInt16(this.tbxNumberrowCreatPickPallet.Text);
+            //NumberrowCreatPickPalletJig = Convert.ToInt16(this.tbxNumberrowCreatPickPallet.Text);
             NumbercolumnCreatPickPalletJig = Convert.ToInt16(this.tbxNumberColumnCreatPlacePallet.Text);
 
             NumberrowCreatPlacePalletTray = Convert.ToInt16(this.tbxNumberrowCreatPlacePalletTray.Text);
